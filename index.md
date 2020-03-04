@@ -2,5 +2,4 @@
 
 **Memento Metallum**
 
-[Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
-*15. Januar 2019*
+*15. Januar 2019* [Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
