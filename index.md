@@ -2,6 +2,10 @@
 
 **Memento Metallum**
 
+*1. Juni 2019*
+
+[Torture Killer - Swarm!](tk-s.md)
+
 *27. Januar 2019*
 
 [Within Destruction - D E A T H W I S H](wd-dw.md)
