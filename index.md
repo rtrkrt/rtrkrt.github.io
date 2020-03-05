@@ -1,4 +1,4 @@
-### Memento Metallum _(seit 2019)_
+Memento Metallum _(seit 2019)_
 
 _2019-12-12_<br>[Fallbrawl - Darkness](fb-d.md)
 
@@ -16,8 +16,9 @@ _2019-01-27_<br>[Within Destruction - D E A T H W I S H](wd-dw.md)
 
 _2019-01-15_<br>[Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
 
+<hr>
 
-### Brockhaus ist kein Plattenbau _(seit 2016)_
+Brockhaus ist kein Plattenbau _(seit 2016)_
 
 _2019-03-29_<br>[G wie in ...](bikpb-g.md)
 
