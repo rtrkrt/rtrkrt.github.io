@@ -2,6 +2,8 @@
 
 **Memento Metallum** _(seit 2019)_
 
+_2019-12-12_<br>[Fallbrawl - Darkness](fb-d.md)
+
 _2019-12-02_<br>[Hollow Prophet / Scumfuck - Scumprophet](hps-sp.md)
 
 _2019-11-14_<br>[Enter Shikari - Take To The Skies](es-ttts.md)
