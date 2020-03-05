@@ -16,7 +16,7 @@ _2019-01-27_<br>[Within Destruction - D E A T H W I S H](wd-dw.md)
 
 _2019-01-15_<br>[Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
 
-<hr>
+<br><hr>
 
 Brockhaus ist kein Plattenbau _(seit 2016)_
 
