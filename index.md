@@ -1,5 +1,3 @@
-# ROTERKURT
-
 ### Memento Metallum _(seit 2019)_
 
 _2019-12-12_<br>[Fallbrawl - Darkness](fb-d.md)
