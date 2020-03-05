@@ -1,4 +1,4 @@
-**{color:red}Memento Metallum{color}** _(seit 2019)_
+__Memento Metallum__ _(seit 2019)_
 
 _2019-12-12_<br>[Fallbrawl - Darkness](fb-d.md)
 
