@@ -1,6 +1,6 @@
 ### ROTERKURT
 
-**Memento Metallum**
+**Memento Metallum** _(seit 2019)_
 
 _2019-10-20_
 
