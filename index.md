@@ -2,12 +2,12 @@
 
 **Memento Metallum**
 
-*20. Oktober 2019* [Napalm Death - Smear Campaign](nd-sc.md)
+_20. Okt 2019_ [Napalm Death - Smear Campaign](nd-sc.md)
 
-*26. September 2019* [Ice Nine Kills - The Silver Scream](ink-ss.md)
+_26. Sep 2019_ [Ice Nine Kills - The Silver Scream](ink-ss.md)
 
-*1. Juni 2019* [Torture Killer - Swarm!](tk-s.md)
+_1. Jun 2019_ [Torture Killer - Swarm!](tk-s.md)
 
-*27. Januar 2019* [Within Destruction - D E A T H W I S H](wd-dw.md)
+_27. Jan 2019_ [Within Destruction - D E A T H W I S H](wd-dw.md)
 
-*15. Januar 2019* [Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
+_15. Jan 2019_ [Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
