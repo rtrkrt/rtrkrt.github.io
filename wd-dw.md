@@ -1,6 +1,6 @@
 ### Within Destruction - D E A T H W I S H
 
-*27. Januar 2019*
+_27. Januar 2019_
 
 Denke ich an die Zeit im Ausbildungsbetrieb zurück, da sich der größte Teil meiner Musikeinkäufe danach entschied, welche CD-Hülle bei ihrer elektronischen Erfassung während der halbjährlichen Tonträger-Inventur den meisten Eindruck zu schinden vermochte, so hege ich nicht den geringsten Zweifel, dass dieses Vorzeigeexemplar unheilvollen Grafikdesigns alsogleich in meinen verlotterten Eastpak und Within Destruction schließlich zu den anderen Krachbrüdern ins heimische Stufenregal vom Möbel-Discounter gewandert wären. Ein wahrer Glücksgriff, wie sich mit den ersten Tönen aus der ELAC-Einstiegsklasse herausgestellt hätte: druckvoll, dynamisch, durchgestylt vom Eröffnungs-Sample bis zum letzten Ellbogencheck.
 
