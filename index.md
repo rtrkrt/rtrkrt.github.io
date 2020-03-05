@@ -2,6 +2,8 @@
 
 **Memento Metallum**
 
+*20. Oktober 2019* [Napalm Death - Smear Campaign](nd-sc.md)
+
 *26. September 2019* [Ice Nine Kills - The Silver Scream](ink-ss.md)
 
 *1. Juni 2019* [Torture Killer - Swarm!](tk-s.md)
