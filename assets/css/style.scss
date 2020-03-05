@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-header {
-  display: none;
-}
-
 footer {
   display: none;
 }
@@ -14,6 +10,10 @@ footer {
 body {
   background-color: black;
   color: white;
+}
+
+hr {
+  display: none;
 }
 
 h1 {
