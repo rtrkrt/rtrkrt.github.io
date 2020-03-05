@@ -1,6 +1,6 @@
 ### Ice Nine Kills - The Silver Scream
 
-*26. September 2019*
+_26. September 2019_
 
 Warnung, Fanboy-Gewäsch in drei, zwei, eins ...
 
