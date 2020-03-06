@@ -1,20 +1,20 @@
 #### Memento Metallum _(seit 2019)_
 
-_2019-12-12_ [Fallbrawl - Darkness](fb-d.md)
+_2019-12-12_ [Fallbrawl ...](fb-d.md)
 
-_2019-12-02_ [Hollow Prophet / Scumfuck - Scumprophet](hps-sp.md)
+_2019-12-02_ [Hollow Prophet ...](hps-sp.md)
 
-_2019-11-14_ [Enter Shikari - Take To The Skies](es-ttts.md)
+_2019-11-14_ [Enter Shikari ...](es-ttts.md)
 
-_2019-10-20_ [Napalm Death - Smear Campaign](nd-sc.md)
+_2019-10-20_ [Napalm Death ...](nd-sc.md)
 
-_2019-09-26_ [Ice Nine Kills - The Silver Scream](ink-ss.md)
+_2019-09-26_ [Ice Nine Kills ...](ink-ss.md)
 
-_2019-06-01_ [Torture Killer - Swarm!](tk-s.md)
+_2019-06-01_ [Torture Killer ...](tk-s.md)
 
-_2019-01-27_ [Within Destruction - D E A T H W I S H](wd-dw.md)
+_2019-01-27_ [Within Destruction ...](wd-dw.md)
 
-_2019-01-15_ [Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
+_2019-01-15_ [Operation Cunt Destroyer ...](ocd-sbt.md)
 
 <hr>
 
