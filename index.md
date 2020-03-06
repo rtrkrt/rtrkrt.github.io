@@ -20,6 +20,8 @@ _2019-01-15_<br>[Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
 
 #### Brockhaus ist kein Plattenbau _(seit 2016)_
 
+Ein Kompendium erinnernswerter Torheiten von A bis Z
+
 _2019-03-29_<br>[G wie in ...](bikpb-g.md)
 
 _2019-02-04_<br>[F wie in ...](bikpb-f.md)
