@@ -22,16 +22,16 @@ _2019-01-15_<br>[Operation Cunt Destroyer - Slam Before Time](ocd-sbt.md)
 
 Ein Kompendium erinnernswerter Torheiten von A bis Z
 
-_2019-03-29_<br>[G wie in ... Gaseruption to go](bikpb-g.md)
+_2019-03-29_ [G wie in ...](bikpb-g.md)
 
-_2019-02-04_<br>[F wie in ... Freibad-Romanzen](bikpb-f.md)
+_2019-02-04_ [F wie in ...](bikpb-f.md)
 
-_2018-01-31_<br>[E wie in ... Éclat de Toilette](bikpb-e.md)
+_2018-01-31_ [E wie in ...](bikpb-e.md)
 
-_2017-07-19_<br>[D wie in ... Discountwarenbeförderungsmittellogistiker](bikpb-d.md)
+_2017-07-19_ [D wie in ...](bikpb-d.md)
 
-_2017-04-07_<br>[C wie in ... Cyber-Mobbing im Frühstadium](bikpb-c.md)
+_2017-04-07_ [C wie in ...](bikpb-c.md)
 
-_2016-11-28_<br>[B wie in ... Blutorange ex](bikpb-b.md)
+_2016-11-28_ [B wie in ...](bikpb-b.md)
 
-_2016-11-08_<br>[A wie in ... Abwrack-Kondolenzen](bikpb-a.md)
+_2016-11-08_ [A wie in ...](bikpb-a.md)
