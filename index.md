@@ -35,3 +35,13 @@ _2017-04-07_ [C wie in ...](bikpb-c.md)
 _2016-11-28_ [B wie in ...](bikpb-b.md)
 
 _2016-11-08_ [A wie in ...](bikpb-a.md)
+
+<hr>
+
+#### RETROKURT
+
+_2012-2013_ [Not eines Handlungsreisenden](rto-neh.md)
+
+_2010-2013_ [Unerhört! Zusammengereimtes](rto-uz.md)
+
+_2009_ [Partyausfall](rto-pa.md)
