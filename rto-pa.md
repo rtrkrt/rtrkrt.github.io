@@ -1,3 +1,96 @@
+#### Dryconditions - Into The Night (Black Light)
+
+_12. Dezember 2009_
+
+Schweizer Post-Punk-Routinier und Pink-Floyd-Prisma-Plagiat, darf man das? Pop-Appeal und Massenkompatibilität als "Dark Side Of The Moon"-Lookalike, darf man das? Vielleicht sind es die zehn Jahre des gemeinsamen Musizierens oder die vielen Live-Shows, die sie sich anrechnen dürfen, für die vier Züricher Mannen von Dryconditions scheinen sich diese Fragen jedenfalls gar nicht zu stellen und so steht allen Musikinteressierten "Into The Night (Black Light)", die neueste Veröffentlichung des Quartetts ins Haus; man gibt sich selbstbewusst und proklamiert voller Stolz: "Pink Floyd is dead, DC are alive[...]"; ob man so was nun darf oder nicht.
+
+Die Vorzeichen stehen gut: Eine gute halbe Stunde lang sorgen insgesamt zwölf Tracks für solide bis überdurchschnittliche Unterhaltung. Kurzweil im Mid-Tempo-Bereich und bewährter Gesang irgendwo zwischen punkigen Hymnen und rockigen Shouts, Einflüsse aus dem Hartkern-Bereich sind regelrecht allgegenwärtig, aber nur selten dermaßen präsent, dass man die gebotenen Stücke der Post-Hardcore-Schublade zuordnen könnte. Abgerundet wird das Gesamtbild durch instrumentale Einlagen; abwechslungsreich, durchaus ansprechend, doch auch wenn der eine oder andere Song erfolgreich zündet, nichts, aber auch gar nichts von alldem überdauert die Laufzeit der CD.
+Gute Vorzeichen sind eben nicht alles und so kreiert "Into The Night (Black Light)" zuerst das Wohlgefallen, um sich anschließend wieder gänzlich darin aufzulösen. Durchschnittskost, gut umgesetzt, aber zu egal, um dauerhaft begeistern zu können.
+
+Textlich bewegen sich Dryconditions zwar auf nicht ganz unberührten Pfaden, doch bereits der erste Blick ins Booklet verrät, dass selbst häufig verarbeitete Themen von einer gewählten Ausdrucksweise nur profitieren können; "Take me down the empty road / My pockets filled with heavy notes of you" ("Teenage Sundown").
+
+Anspieltipps sind der Opener "Against Panic!" und "City Sind Rondo", das komplette Album lässt sich derzeit noch kostenfrei online anhören. Der entsprechende Link zum Stream ist auf dem MySpace-Profil der Band hinterlegt.
+
+<hr>
+
+#### Scarscab - Under The System Of Mass Destruction
+
+_25. November 2009_
+
+Bei der Vielzahl unterschiedlichster Musikrichtungen und der stetig stärker werdenden Flut neuer Veröffentlichungen innerhalb der einzelnen Stile ist es nicht immer einfach, eine eindeutige Zuordnung vorzunehmen. Im Zuge dessen bekommt man es in unregelmäßigen Abständen mit mehr oder weniger ungewöhnlichen Kombinationen zu tun. So geschehen im Fall der Wiesbadener Thrash-Metal-Kombo Scarscab und ihres kürzlich erschienenen Langeisens "Under The System Of Mass Destruction", für welches das in Nordrhein-Westfalen heimische Label Build A Nation Records verantwortlich zeichnet.
+
+Der Planet steht in Flammen, der "666"-Strichcode unter einem Krikelkrakel-Schriftzug und dem etwas lieblos anmutenden Albumtitel, über Geschmack lässt sich bekanntlich streiten. Dieses Buch sollte man wirklich nicht anhand seines Covers beurteilen, denn dann wird man feststellen, dass der Sound keinesfalls so klischeebeladen und stilisiert daherdröhnt, wie es die Optik vermuten lässt.
+
+Auf der Webseite der Band schreibt man in diesem Zusammenhang von 1990er-Thrash und einem nicht von der Hand zu weisenden Hang zum Nu Metal. Und tatsächlich: Gesanglich eine Gratwanderung zwischen derben Shouts, älteren Metallica, einer betont maskulinen Hardrock-Kante à la Godsmack und melodischen Refrains, wie sie schon Disturbed und aktuelle Slipknot-Releases erfolgreich zum Einsatz bringen; tonal mal schnell, mal langsam, mal noch langsamer, größtenteils aber mitten ins Gesicht. Eine Mixtur, die Scarscab nun schon seit sieben Jahren, auf einigen Demos und bislang zwei Alben zelebrieren.
+
+Das Soundgewand und die gesellschaftskritischen Texte machen "Under The System Of Mass Destruction" zumindest hörenswert, aber auch mehr zu einer reinen Geschmackssache als es bei anderen Genre-Vertretern der Fall ist; interessant, technisch versiert, aber wenig einprägsam. Wenig klischeebeladen oder stilisiert, ja, aber keine Offenbarung. Der Song "Forsaking Freedom" glänzt mit all dem, das im Laufe dieser Rezension beschrieben wurde und steht Interessenten derzeit auf dem MySpace-Profil der Band zur freien Verfügung. Weitere Anspieltipps sind "In Chains" und "A Call To Resistance".
+
+<hr>
+
+#### Crownstreet Boulevard - Notes And Words
+
+_19. November 2009_
+
+Was schon im Jahre 2006 unter dem Pseudonym Anger Management aus der Taufe gehoben wurde, schickte sich bereits im letzten Jahr an, der Hardcore-Welt mit tonaler Umorientierung und einem neuen Namen einzuheizen. Ob Crownstreet Boulevard nun die logische Konsequenz aus dem Ablegen des Bollo-Gewandes ist oder ob der beschauliche Landkreis Tuttlingen ganz einfach nicht genügend Zorn provoziert, den man als Anger Management hätte verwalten können, sei ganz einfach dahingestellt und stattdessen angemerkt, dass die Band sich einen Melodic-Hardcore-Mantel übergestreift hat, der sowohl klanglich als auch textlich nicht wenige Ähnlichkeiten zu Musikern wie denen von My First Failure, insbesondere aber zum "The Color" betitelten Debüt der Aschaffenburger Punks aufweist. Viel Melodie, einige Breaks, Crew-Shouts und eine dezente Rock-Kante.
+
+Verbittert, roh und angefressen, so sieht sich die Band und so hört sich "Notes And Words" auch an, "it's raining dust in my dead buried heart" ("dance(with)the$$devil"), es wird gelitten, was das Zeug hält und ganz genau wie ihre bayerischen Artgenossen, erfreut sich das baden-württembergische Quartett in unregelmäßigen Abständen auch positiv motivierter Mußestunden: "[We] are on the rise", "our hearts still not broken" ("*our#rise"); "set³us-on?fire" etwa beschreibt die Dynamik und die Faszination, die von einer Live-Show ausgehen, auf eine sympathisch euphorische Art und Weise.
+
+Alles in allem klingt das zwar nicht schlecht, vermag aber nur bedingt zu überzeugen. Nicht schlechter als das Gros der Melodic-Hardcore-Masse, aber auch nicht besser und zu keiner Zeit mit Genre-Vertretern wie den Gold Kids zu vergleichen.
+
+Antesten und reinhören, so muss die Empfehlung lauten, "set³us-on?fire" und "deadºdreams%!" bilden dabei die Speerspitze der auf dem MySpace-Profil abrufbaren Songs und sollten die Urteilsbildung deutlich erleichtern können, dort dann auch ohne diese merkwürdigen Schreibweisen, die sich auf dem CD-Release wiederfinden lassen.
+
+<hr>
+
+#### COR - Seit Ich Die Menschen Kenne, Liebe Ich Die Tiere!
+
+_16. November 2009_
+
+Gute sieben Jahre des Bestehens auf dem Buckel, weit mehr als ein halbes Dutzend Veröffentlichungen im Plattenregal und "Trashrock for Life" auf der Stirn zu stehen: Die Rügener Punkrock-Gruppierung COR hissen auch anno 2009 wieder die Rügencore-Flagge und schippern fröhlich die Punk-, Thrash- und Hardcore-Gewässer auf und ab. Vielleicht ist "fröhlich" aber auch das falsche Wort, denn ein Titel wie "Seit ich die Menschen kenne, liebe ich die Tiere!" spricht Bände über die Einstellung der Band und die inhaltliche Richtung, in die sie mit dem neuen Release driftet. Wem das jedoch noch nicht eindeutig genug ist, dem gereichen eventuell die zwei Menschenhirn schnabulierenden Cover-Affen, die sich an einer offenen Schädeldecke laben wie an einem überteuerten Erdbeereisbecher, zu der Erkenntnis, dass er es mit latenten Misanthropen zu tun hat.
+
+Ob COR sich als "[die] Gewalt, die aus den Boxen knallt", als "[ein] Guerillakrieg aus dem Hinterhalt" über die Debilität aktueller Popergüsse aufregen ("AntiPop"), mit "[mach] ne Platte, bring sie raus, 'Fuck Big Deals!'" zu mehr Eigeninitiative aufrufen ("DIY") oder die Themen schlagartig melancholische Ernsthaftigkeit annehmen, "[wenn] der Nachbar sich sehr engagiert für die Kinder in der Stadt, [ihnen] mit Liebe, Wut und seinem Schwanz die Unbeschwertheit genommen hat" ("Das Tier"); das Vierer-Gespann strotzt vor Inhalt.
+
+Was die Vortragsweise angeht, so fällt die Beurteilung schon deutlich schwerer. Der Gesang, fast ausschließlich gesprochen, Punk durch und durch, dabei mindestens ebenso polarisierend. Die Produktion lässt Druck vermissen, wo die Texte zum Arschtreten einladen, gibt es schlimmstenfalls einen Klapps auf den Hinterkopf, die Arrangements fallen entsprechend unkompliziert und wenig aufregend aus.
+
+Die Entscheidung, inwiefern es sich bei der aktuellen Scheibe tatsächlich um die bisher beste Platte der Band handelt, dieser Meinung sind zumindest COR selbst, kann man getrost ihren wahren Fans überlassen, denn diese scharen sich nun schon seit Jahren um ihre liebsten Insel-Punks und werden von "Seit ich die Menschen kenne, liebe ich die Tiere!" keinesfalls enttäuscht sein. Sonstige Punk-Affine dürfen ein Ohr riskieren, sollten mit ihren Erwartungen jedoch behutsam umgehen. So fällt die Wertung auch neutral aus. Anspieltipps sind "Das Tier" und "Engel".
+
+<hr>
+
+#### Kyo:ma - 6:10
+
+_12. November 2009_
+
+"Freecore"; so heißt es auf der offiziellen Internetpräsenz von [kyo:ma], einer jungen deutschen Kapelle aus dem Raum Gießen, Marburg. Metal, Hardcore, Experimental, so wird versucht, diese Wortneuschöpfung mit bekannten Begriffen zu umschreiben, was auch zwingend notwendig ist, wenn ein nichtssagender EP-Titel wie "6:10" dem exzentrisch anmutenden Bandnamen in nichts nachsteht, zumindest was die Transparenz des Genres angeht. Was sollte man also von einer CD erwarten, die mit derartigen Grundvoraussetzungen an den Start geht? Die Antwort ist: Alles und noch ein wenig mehr. Chaos und Struktur, Geschrei, hoch und tief, englisch und deutsch, Melodie und Mosh, Tempo und Gemach, Gitarren und Didgeridoos, ganz recht, Didgeridoos. Allein auf altbackene und festgefahrene Stilvorgaben muss Verzicht geübt werden, [kyo:ma] sparen also an genau den richtigen Ecken und Enden.
+
+Eine Band, die sich so wehement um eine eigene Identität bemüht, ist über alle Maßen sympathisch und das macht es umso bedauerlicher, dass dieses Konzept zwar angenehm frisch klingt, was aber vielversprechend beginnt, krankt an der erschwerten Zugänglichkeit gepaart mit der Monotonie, die sich auch dann nicht vermeiden lässt, wenn die sich wiederholenden Stilmittel innovativ und ungewöhnlich erscheinen. Ganz anders als die musikalische Bandbreite, fällt die Ausstattung dieser Veröffentlichung deutlich weniger üppig aus. So hätten die fehlenden Songtexte schon einiges mehr an Aufschluss zugelassen, worauf man mit "6:10" hinaus will. Die Intentionen entziehen sich jedoch nicht gänzlich einer sachlichen Auseinandersetzung: Wer sich auf der Homepage der Band umsieht, dem wird auch der Blick auf die Textinhalte der einzelnen Songs gewährt und siehe da, der Funke springt schon schneller, getreu dem Motto "Zünde dein Herz! Zünde deine Hoffnung! Zünde deine Wut! Vom Funken bis zur Glut!" ("Zeitzünder").
+
+[kyo:ma] verdienen es, ausgecheckt zu werden. "6:10" ist ein interessantes, ein vielschichtiges Debüt, dem es nur ein wenig am Durchhaltevermögen mangelt. Die Tracks "Zeitzünder" und "When Evil Prevails" stehen der Allgemeinheit auf dem MySpace-Profil der Band zur Verfügung.
+
+<hr>
+
+#### 400Colpi - Homo Homini Lupus
+
+_28. Oktober 2009_
+
+Druck, Druck, Druck und davon reichlich; aus Italien erreicht das aktuelle Release einer jungen Combo die deutschen Lande und hat einiges zu bieten. Bereits der Opener "Kane" unterhält mit einem vertraut anmutenden Riff aus der Hartwurst-Ecke und bleibt beileibe nicht die einzige Überraschung. Der Song "Neve" etwa startet in bester Rumpel-Metal-Manier, um dann wieder eiligen Schrittes nach vorn zu stoßen und anschließend über dem ahnungslosen Publikum zusammenzubrechen wie eine morsche Holzbrücke unter einem risikofreudigen Schwerlasttransport. Hier geben sich Metal und Hardcore zu gleichen Teilen die Ehre; ein erfrischend ungestümer Sound, der sich nicht um Konventionen schert, der genauso gern den Two-Step auf das Parkett legt, wie er sich dem hemmungslosen Gebolze hingibt. Das sind die richtigen Zutaten für eine knusprige Gänsehaut.
+
+Anders als ihre Landsmänner von den Gold Kids tragen 400Colpi die zehn Stücke dieses Debüts in ihrer Landessprache vor. Wer also nicht in der Lage ist, den O-Ton der kompletten Spencer-Hill-Filmografie zu reproduzieren, der wird auch an den Texten der Band wenig Freude haben, denn so gut sich diese in das übrige Soundgefüge integrieren, die aggressive Grundstimmung sogar unterstreichen, so wenig verständlich breiten sie sich vor der unbedarften Hörerschaft aus. So lassen einzig und allein das stimmige Cover-Artwork und der Titel "Homo Homini Lupus", "der Mensch ist des Menschen Wolf", Rückschlüsse auf lyrische Inhalte und Zusammenhänge zu: Die Gruppe aus der Familie von Chorus Of One Records scheut sich nicht vor sozialkritischen und politisch motivierten Themen.
+
+Leider verliert das Album nach der ersten Hälfte merklich an Fahrt, woran auch das durchaus gelungene Instrumentalstück "Sabra E Shatila" nicht viel ändern kann. Somit bleibt "Homo Homini Lupus" wohl ein Geheimtipp und 400Colpi ein sympathischer Haufen, den man im Auge behalten sollte. Anspieltipps sind die bereits erwähnten "Kane" und "Neve"; diese stehen auf dem MySpace-Profil der Band zur Verfügung, wo auch die acht restlichen Tracks angehört werden können.
+
+<hr>
+
+#### Go For It! - Reading Between The Front Lines
+
+_21. Oktober 2009_
+
+Go For It! sind vier finster dreinblickende Herren aus dem Ruhrgebiet, dem Quasizuhause finster dreinblickender Herren, was, zugegeben, durch einen Zuversicht verheißenden Bandnamen wie Go For It!, durch Ambitionen und Herz, die sich in den Songtexten widerspiegeln, durch ein mit Schnappschüssen von vermutlich Freunden und Familie ansprechend gestaltetes Booklet konterkariert wird. Blood For Blood und "White Trash Anthem"-Anleihen? Engagement und Bollo-Fassade? "Reading Between The Front Lines": Ein Name, ein Programm.
+
+"Fuck 'No Future', use your fucking brain!" ("Know Your History"), "Nothing can hold you down, go for it!" ("No Desperation"), "You're always in my heart!" ("Responsible For You"); Hardcore-Punk mit deutlich positiven Einschlägen und viel, viel Attitüde, die sich vor allem dann zeigt, wenn es um die Kritik an rechtem Gedankengut, den Ismen der Diskriminierung und einer Szene geht, die ihre Wurzeln zusehends zu vernachlässigen scheint; dabei bleiben die Referenten immer authentisch und glaubhaft. Darüber hinaus werden diese Themen mit einer solchen Fülle an Crew Shouts, Groove und Abgehparts vorgetragen, dass man nur zu einem Schluss kommen darf: Diese Band hortet die Sympathiepunkte regelrecht. Der stetige Wechsel zwischen tiefen Shouts und schnellem Gebell und die vom Punk beeinflusste Instrumentierung bitten zum Tanz; vertonte Dynamik über die Distanz von acht Tracks und einer Spieldauer von etwas mehr als einer Viertelstunde, leider aber auch kein Ausbrechen aus diesem Konzept, woran das letzte Drittel der EP spürbar zu kranken beginnt. Um auf einem Langspieler überzeugen zu können, wird man sich noch einiges einfallen lassen oder die Anzahl der Earcatcher erhöhen müssen.
+
+"Reading Between The Front Lines" stellt eine Rückbesinnung auf den Ursprung eines ganzen Genres dar und das ist es auch, was Go For It! von ihren Hörern wollen und worauf diese sich einlassen sollten, denn dann macht die alte Schule wieder richtig Spaß. Die komplette EP kann derzeit auf dem MySpace-Profil der Band gehört werden, eine klare Empfehlung.
+
+<hr>
+
 #### Zero Mentality - Black Rock
 
 _11. Oktober 2009_
