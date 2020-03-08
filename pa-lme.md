@@ -1,0 +1,11 @@
+#### Last Mile - Selftitled
+
+_15. Juni 2009_
+
+Mit "The Heavyweight" steht uns bereits die dritte Veröffentlichung der selbsternannten Schwergewichte von Last Mile ins Haus. Grund genug, sich das bereits im Jahr 2008 auf den Markt geworfene Debütalbum der Dänen etwas genauer anzusehen, besser anzuhören; doch zunächst lässt man sich eher zum Name dropping hinreißen: Bestehend aus As We Fight-, Stomped-, Barcode-Mitgliedern und Jacob "ehemals Hatesphere" Bredahl am Mikrofon sowie Tue Madsen hinter den Schiebereglern, lassen Last Mile bereits vor dem ersten Durchlauf eine geringfügige Ahnung zu, welches intonierte Brett der zukünftige Hörer von dem selbstbetitelten Langspieler zu erwarten haben dürfte.
+
+Schnell gespielter Hardcore mit Thrash-Anleihen und der nötigen Prise Punk obendrauf. Das ist keine alte Schule; doch egal, ob alt oder neu, ihre Hausaufgaben hat die Truppe auf jeden Fall gemacht: Heiseres Geschrei und kraftvolle Backing Vocals gehören ebenso zum Programm, wie die obligatorischen Moshparts, die enorm wuchtig daherkommen und zum Abbau der angestauten Aggressionen geradezu einladen.
+
+Ein fieses, nicht minder leckeres Süppchen, dem es jedoch an Würze fehlt, die dem Gericht eine gewisse Langzeitwirkung verleihen könnte; und so schlürft man genüsslich vor sich hin, bis der Teller nach nur knappen fünfundzwanzig Minuten leer gegessen, aber rein gar nichts hängengeblieben ist, von der kompromisslosen Härte einmal abgesehen.
+
+Man muss der Band das Können und Potential, das zweifellos in diesem Projekt verborgen ist, neidlos zugestehen. Das Debüt und seine fünfzehn Titel funktionieren. Sie entfalten ihre Wirkung, solange sie andauern, aber keine Sekunde länger. Sie bescheren somit jedem ambitionierten New-School- und Metalcore-Fan eine unterhaltsame halbe Stunde und schüren die Neugier auf das, was ihnen der Nachfolger wohl auftischen könnte. Kann dieser dann mit etwas mehr Eigenständigkeit oder sogar ohrwurmverdächtigen Momenten aufwarten, so sollte eine weitaus höhere Wertung möglich sein, als ich in diesem Augenblick für sinnvoll halte. Bis dahin verbleibe ich mit einer eingeschränkten Empfehlung an alle genreaffinen Musikliebhaber, die noch etwas Platz im Plattenschrank haben. Anspieltipps sind "Past And Present", "Pull Through" und "Talk Is Cheap And So Are You".
