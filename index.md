@@ -64,6 +64,8 @@ _2012-02-06_ [Not eines Handlungsr...](nh-neh.md)
 
 _2013-05-31_ [Nimbus](uz-nis.md)
 
+_2013-01-13_ [Der Brief des Hans S...](uz-bhs.md)
+
 _2012-10-09_ [Blutzoll: Elisabeth](uz-beh.md)
 
 _2012-08-19_ [SS M. C.](uz-smc.md)
@@ -84,6 +86,12 @@ _2011-07-21_ [Postmortale Sentenzen](uz-psn.md)
 
 _2011-07-14_ [Königswürde, Gang 6](uz-kg6.md)
 
+_2011-06-27_ [Therapie](uz-the.md)
+
+_2011-06-27_ [Nachtmahr](uz-nar.md)
+
+_2011-06-27_ [Damenwahl](uz-dal.md)
+
 _2011-06-27_ [Der Schwarze Mann](uz-dsm.md)
 
 _2011-06-27_ [Der Esel und die Elster](uz-eue.md)
@@ -93,6 +101,14 @@ _2011-06-27_ [Verbrannte Erde](uz-vee.md)
 _2011-06-27_ [Eilmeldung](uz-eig.md)
 
 _2011-06-27_ [Der kleine Mann](uz-dkm.md)
+
+_2011-06-27_ [Herodes](uz-hes.md)
+
+_2011-06-27_ [Geintherapie](uz-gee)
+
+_2011-06-27_ [Kemper fidelis](uz-kfs.md)
+
+_2011-06-27_ [Charon](uz-chn.md)
 
 <hr>
 
