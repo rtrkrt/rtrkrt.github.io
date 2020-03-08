@@ -2,7 +2,7 @@
 
 _27. Juni 2011_
 
-Der kleine Mann im Schaffenstal
-Hüllt die Narben des Verzichts
-In Nadelstreifen zweiter Wahl
+Der kleine Mann im Schaffenstal<br>
+Hüllt die Narben des Verzichts<br>
+In Nadelstreifen zweiter Wahl<br>
 Und sein Feiertagsgesicht.
