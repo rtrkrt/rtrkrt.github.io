@@ -1,6 +1,6 @@
 #### Damenwahl
 
-_31. Dezember 2010_
+_27. Juni 2011_
 
 Sie lehnt in einem gemütlich aussehenden Freischwinger, stumm und teilnahmslos, die Stirn in Falten gelegt, so will es meine Fantasie. Sie würde mich nicht bei sich haben wollen, wenn der Grund meiner Anwesenheit eine Wahl nicht schon ausgeschlossen hätte; eine Einstellung, die sie mit jeder meiner bisherigen Gastgeberinnen teilt. Eine Steppdecke verhüllt ihre Beine, Vlies vermutlich, das hält die Kälte zurück, sie zittert auch schon nicht mehr. Ich habe es bislang ebenso wenig vertreten können, mich meines Mantels zu entledigen, nicht wegen der Kälte, nicht ausschließlich, mir bleibt keine Zeit für Annehmlichkeiten, die Anderen werden in wenigen Augenblicken eintreffen.
 
