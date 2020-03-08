@@ -1,6 +1,6 @@
 #### Therapie
 
-_31. Dezember 2010_
+_27. Juni 2011_
 
 Ich habe es Ihnen schon so oft gesagt und kann mich auch heute nur wiederholen: Es geht einfach nicht.
 
