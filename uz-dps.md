@@ -2,16 +2,16 @@
 
 _1. Februar 2012_
 
-Unruhig liegt das
-Kristalline Schafott
-Im kalten Windhauch
-Mitternächtlicher Eile
-Und mit dem Hohn
-Des letzten Bronzehalls
-Senkt sich
-Die gläserne Lünette
-Auf der Frauheit
-Klaffend Sehnen
-Und hüllt sich
-In dickflüssigen Spuk
+Unruhig liegt das<br>
+Kristalline Schafott<br>
+Im kalten Windhauch<br>
+Mitternächtlicher Eile<br>
+Und mit dem Hohn<br>
+Des letzten Bronzehalls<br>
+Senkt sich<br>
+Die gläserne Lünette<br>
+Auf der Frauheit<br>
+Klaffend Sehnen<br>
+Und hüllt sich<br>
+In dickflüssigen Spuk<br>
 Emporquellender Lebensgeister
