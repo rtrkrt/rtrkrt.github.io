@@ -68,13 +68,13 @@ _2012-10-09_ [Blutzoll: Elisabeth](uz-beh.md)
 
 _2012-08-19_ [SS M. C.](uz-smc.md)
 
-_2012-08-08_ [Im Garten des Wiedererweckers](uz-gdw.md)
+_2012-08-08_ [Im Garten des Wieder...](uz-gdw.md)
 
 _2012-06-05_ [Aufzug der Agitatoren](uz-ada.md)
 
 _2012-04-20_ [Cäcilie](uz-cae.md)
 
-_2012-02-01_ [Das Prinzessinnen-Stigma](uz-dps.md)
+_2012-02-01_ [Das Prinzessinnen-St...](uz-dps.md)
 
 _2011-11-10_ [Ein Auszug](uz-eag.md)
 
