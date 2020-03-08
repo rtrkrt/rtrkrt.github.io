@@ -2,11 +2,11 @@
 
 _9. Oktober 2012_
 
-Welke jährt
-In alter Frische
-Ungeschöntheit
-Da pulsierend Jungsein
-Spöttisch schwallt
-Durch unbedarfte Bahnen
-Und übergeht
+Welke jährt<br>
+In alter Frische<br>
+Ungeschöntheit<br>
+Da pulsierend Jungsein<br>
+Spöttisch schwallt<br>
+Durch unbedarfte Bahnen<br>
+Und übergeht<br>
 Vom Herzzerreißen
