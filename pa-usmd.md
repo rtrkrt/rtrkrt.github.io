@@ -1,0 +1,11 @@
+#### Scarscab - Under The System Of Mass Destruction
+
+_25. November 2009_
+
+Bei der Vielzahl unterschiedlichster Musikrichtungen und der stetig stärker werdenden Flut neuer Veröffentlichungen innerhalb der einzelnen Stile ist es nicht immer einfach, eine eindeutige Zuordnung vorzunehmen. Im Zuge dessen bekommt man es in unregelmäßigen Abständen mit mehr oder weniger ungewöhnlichen Kombinationen zu tun. So geschehen im Fall der Wiesbadener Thrash-Metal-Kombo Scarscab und ihres kürzlich erschienenen Langeisens "Under The System Of Mass Destruction", für welches das in Nordrhein-Westfalen heimische Label Build A Nation Records verantwortlich zeichnet.
+
+Der Planet steht in Flammen, der "666"-Strichcode unter einem Krikelkrakel-Schriftzug und dem etwas lieblos anmutenden Albumtitel, über Geschmack lässt sich bekanntlich streiten. Dieses Buch sollte man wirklich nicht anhand seines Covers beurteilen, denn dann wird man feststellen, dass der Sound keinesfalls so klischeebeladen und stilisiert daherdröhnt, wie es die Optik vermuten lässt.
+
+Auf der Webseite der Band schreibt man in diesem Zusammenhang von 1990er-Thrash und einem nicht von der Hand zu weisenden Hang zum Nu Metal. Und tatsächlich: Gesanglich eine Gratwanderung zwischen derben Shouts, älteren Metallica, einer betont maskulinen Hardrock-Kante à la Godsmack und melodischen Refrains, wie sie schon Disturbed und aktuelle Slipknot-Releases erfolgreich zum Einsatz bringen; tonal mal schnell, mal langsam, mal noch langsamer, größtenteils aber mitten ins Gesicht. Eine Mixtur, die Scarscab nun schon seit sieben Jahren, auf einigen Demos und bislang zwei Alben zelebrieren.
+
+Das Soundgewand und die gesellschaftskritischen Texte machen "Under The System Of Mass Destruction" zumindest hörenswert, aber auch mehr zu einer reinen Geschmackssache als es bei anderen Genre-Vertretern der Fall ist; interessant, technisch versiert, aber wenig einprägsam. Wenig klischeebeladen oder stilisiert, ja, aber keine Offenbarung. Der Song "Forsaking Freedom" glänzt mit all dem, das im Laufe dieser Rezension beschrieben wurde und steht Interessenten derzeit auf dem MySpace-Profil der Band zur freien Verfügung. Weitere Anspieltipps sind "In Chains" und "A Call To Resistance".
