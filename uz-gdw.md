@@ -2,13 +2,13 @@
 
 _8. August 2012_
 
-Mondsüchtig
-Treibt der fahle Spross
-Purpur geäderter Fäule
-Aus der
-Schwulstigen Maserung
-Klammen Wurmstichs
-Sich aufrichtend
-Zum Kniefall
-Im blutmelierten
+Mondsüchtig<br>
+Treibt der fahle Spross<br>
+Purpur geäderter Fäule<br>
+Aus der<br>
+Schwulstigen Maserung<br>
+Klammen Wurmstichs<br>
+Sich aufrichtend<br>
+Zum Kniefall<br>
+Im blutmelierten<br>
 Basaltschatten
