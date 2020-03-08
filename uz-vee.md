@@ -2,17 +2,17 @@
 
 _27. Juni 2011_
 
-Verbrannte Erde
-Schwarz und fahl
-Samenhülsen
+Verbrannte Erde<br>
+Schwarz und fahl<br>
+Samenhülsen<br>
 Überall
 
-Messingsaat
-In aller Mund
-Klatschmohn sprießt
+Messingsaat<br>
+In aller Mund<br>
+Klatschmohn sprießt<br>
 Aus totem Grund
 
-Verdruss benagt
-Der Stille Klang
-Schon wieder klagt
+Verdruss benagt<br>
+Der Stille Klang<br>
+Schon wieder klagt<br>
 Der Ackermann
