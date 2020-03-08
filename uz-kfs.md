@@ -1,6 +1,6 @@
 #### Kemper fidelis
 
-_31. Dezember 2010_
+_27. Juni 2011_
 
 Metallischer Aufschrei<br>
 Durchdringt Mark und Bein
