@@ -22,9 +22,9 @@ _2019-01-15_ [Slam Before Time](mm-sbt.md)
 
 Ein Kompendium erinnernswerter Torheiten von A bis Z
 
-_2019-03-29_ [G wie in ...](bikpb-g.md)
+_2019-03-29_ [G wie in ...](bp-gwi.md)
 
-_2019-02-04_ [F wie in ...](bikpb-f.md)
+_2019-02-04_ [F wie in ...](bp-fwi.md)
 
 _2018-01-31_ [E wie in ...](bikpb-e.md)
 
