@@ -1,6 +1,6 @@
 #### Nachtmahr
 
-_31. Dezember 2010_
+_27. Juni 2011_
 
 Und wieder: Ich sitze aufrecht in meinem Bett und starre vor mich hin, zu vertraut mit der mich umgebenden Dunkelheit, zu vertraut mit dem Schrecken, der sich mir ins Mark bohrt. Es ist dieser Traum, ein sich ständig wiederholendes Kammerspiel, noch heute Morgen erzählte ich meinem besten Freund davon.
 
