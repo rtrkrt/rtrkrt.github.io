@@ -1,0 +1,11 @@
+#### Black Thunder - Not Enough Graves
+
+_19. August 2009_
+
+"Let's go!" grunzt es unvermittelt aus den Boxen und los geht es dann auch tatsächlich, fünf mal Melo-Tod peitscht den dankbaren Schwermetall-Anhängern entgegen und hält erst dann wieder inne, wenn die ganze Show vorüber ist. Aufgeboten wird, was Spaß macht, gut klingt und sich bereits während des achtjährigen Bestehens von "Black Thunder" oder im Programm anderer etablierter Künstler dieses Fachgebiets schon bewährt hat: Tiefe bis abgrundtiefe Shouts, schöne Melodien und ein nicht von der Hand zu weisendes Gespür für den einen oder anderen einprägsamen Part. Einzig auf die hohen Screams müssen Stirb-Langsam-Fans von The Black Dahlia Murder, Job For A Cowboy und Konsorten dieses Mal verzicht üben.
+
+Gegründet im Jahre 2001, können die fünf Hannoveraner heute auf eine beachtliche Anzahl an Shows zurückblicken, im Zuge derer sie die Bühne mit großen Namen teilen durften: Arkangel, Walls Of Jericho, Lay Down Rotten, um nur einige zu nennen. Dazu gesellen sich In Flames, Carcass, aber auch Iron Maiden und Amon Amarth, welche die Band unter anderen zu ihren Einflüssen zählt. Inwiefern sich die genannten Gruppierungen im Sound von "Black Thunder" wiederfinden lassen, sei vorerst dahingestellt, letzteren zumindest sind sie, wenn es um das Thema Melodien geht, nicht unähnlich.
+
+Die inhaltliche Nähe zu den Mythologie-Metallern von Amon Amarth wird bei einem flüchtigen Blick in das Booklet einmal mehr deutlich. "If Only The Black Birds Fly" oder "Lead The Chariot To The Cliffs"; derartige Titel würden den bärtigen Männern aus Schweden sicher gefallen. Die Texte zeugen von rhetorischen Fähigkeiten und regen zum Nachdenken an. Zwar spricht das Info-Sheet von der Anprangerung sozialer und menschlicher Missstände, doch für deren Deutung erscheint ein gewisses Maß an Interpretationstalent unumgänglich, wenn es schon zu Beginn heißt: "The days when the human race was part of the natural circle of life are over."
+
+"Not Enough Graves" ist ein netter kleiner Death-Metal-Happen für Zwischendurch, krankt aber an Monotonie und einem immer gleichen Aufbau. Anspieltipps sind der Opener "Dura Mater" und das bereits erwähnte "Lead The Chariot To The Cliffs".
