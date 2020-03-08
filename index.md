@@ -40,23 +40,23 @@ _2016-11-08_ [A wie in ...](bp-awi.md)
 
 #### Not eines Handlungsreisenden _(2012 bis 2013)_
 
-_2013-
+_2013-06-23_ [Im Land der Schuldlosen](nh-lds.md)
 
-_2012-
+_2012-11-22_ [Die zehn Wege zu einem reibungslosen Gesprächsverlauf, wenn Sie mich an meinem Arbeitsplatz besuchen - Der dritte Teil](nh-zwd.md)
 
-_2012-
+_2012-11-06_ [Die zehn Wege zu einem reibungslosen Gesprächsverlauf, wenn Sie mich an meinem Arbeitsplatz besuchen - Der zweite Teil](nh-zwz.md)
 
-_2012-
+_2012-09-15_ [Die zehn Wege zu einem reibungslosen Gesprächsverlauf, wenn Sie mich an meinem Arbeitsplatz besuchen - Der erste Teil](nh-zwe.md)
 
-_2012-
+_2012-06-13_ [Gangreserve, Bereitschaft trotz Netztrennung](nh-gbn.md)
 
-_2012-
+_2012-05-29_ [Wer nur heiße Luft produziert, darf sich über Servicewüsten nicht wundern](nh-hlw.md)
 
-_2012-
+_2012-04-02_ [Lassen Sie mich durch, ich bin vom Fach](nh-lmf.md)
 
-_2012-
+_2012-02-15_ [Es ist nichts Gesundes an Buchstabensalat](nh-ngb.md)
 
-_2012-
+_2012-02-06_ [Not eines Handlungsreisenden](nh-neh.md)
 
 <hr>
 
