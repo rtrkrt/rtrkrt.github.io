@@ -2,10 +2,10 @@
 
 _14. Juli 2011_
 
-Der Kunde ist König
-Im Kampf um Liquidität.
-Ritter Megahertz und Knappe
-Schwingen Preishammer und Typenschild
-Im Namen seiner Majestät
-Des Königs mit der Narrenkappe
+Der Kunde ist König<br>
+Im Kampf um Liquidität.<br>
+Ritter Megahertz und Knappe<br>
+Schwingen Preishammer und Typenschild<br>
+Im Namen seiner Majestät<br>
+Des Königs mit der Narrenkappe<br>
 Und der bezaubernden Brunhild.
