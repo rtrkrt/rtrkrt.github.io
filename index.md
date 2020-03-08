@@ -82,7 +82,7 @@ _2009-06-19_ [3L1T3](pa-3l3.md)
 
 _2009-06-15_ [Last Mile](pa-lme.md)
 
-_2009-06-15_ [What Tomorrow Will Never Bring](pa-wtb.md)
+_2009-06-15_ [What Tomorrow Will ...](pa-wtb.md)
 
 _2009-06-11_ [On Thin Ice](pa-oti.md)
 
