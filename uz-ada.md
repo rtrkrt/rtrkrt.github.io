@@ -2,22 +2,22 @@
 
 _5. Juni 2012_
 
-Erstarkt
+Erstarkt<br>
 Wie euch geheißen
 
-Noch einmal ruhen
+Noch einmal ruhen<br>
 Im Schoße alter Väter
 
-Die ergebenste Preisung
+Die ergebenste Preisung<br>
 Einer Unbefleckten Busen
 
-Ein letzter Zug
-Am Gesäuge
+Ein letzter Zug<br>
+Am Gesäuge<br>
 Entstellter Dickhäuter
 
-Auf dass euer Opfer
+Auf dass euer Opfer<br>
 Unvergessen
 
-Im Streit
-Der um Funkenflug
+Im Streit<br>
+Der um Funkenflug<br>
 Entbrannt
