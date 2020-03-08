@@ -1,0 +1,9 @@
+#### Wer nur heiße Luft produziert, darf sich über Servicewüsten nicht wundern
+
+_29. Mai 2012_
+
+Das betont höfliche Geschäftsgebaren im alltäglichen Umgang mit dem blasenschlagenden Einheitsbrei, aus dem sich der vermeintlich vielschichtige Kundenstamm eines Einzelhändlers zusammensetzt, ist ein auslaugender Balanceakt auf einem drahtseilartigen Geduldsfaden, gespannt zwischen der Bereitschaft, dem Verbraucher gegenüber ein größtmögliches Maß an Kulanz aufzuwenden, und der überlebenswichtigen Notwendigkeit, den eigenen, kaufmännischen Interessen zu entsprechen, während der feuchtmuffige Wind unwissender Empörung von der Seite bläst.
+
+Vom Leben gezeichnete Capri-Sonne-Kids in ihren Thug-Life-T-Shirts, die sich darüber entrüsten, dass ihre brandneuen, praktisch nur aus Bildschirm bestehenden Taschenbuchformat-Mobiltelefone, zweifellos bedingt durch einen gemeinsamen Konstruktionsfehler, infolge des vierten Sturzes auf Asphalt Glasbruch erlitten haben; besserwisserische Spätsemester, deren fabrikneue Bombast-Computer den devolutionären Verkümmerungsprozess von der neidhaschenden Rechenmaschine hin zum digitalen Köderbehälter in Rekordzeit durchlaufen haben; oder der Kettenraucher, der der unumstößlichen Meinung ist, einen nachweislichen, gutachterlich bestätigten Gerätedefekt aufgrund wiederholt übermäßiger Nikotineinwirkung auf die Elektronik als anfänglich ausgeben zu können. Ihnen allen ist gemein, dass sie Leistungen aus Ansprüchen einfordern, die sie nicht haben, sich einer sachlichen Belehrung jedoch konsequent verweigern.
+
+Der Kampf der Gerechten wird nicht halb so gerecht geführt, wie es die niemals abebbende Speichelgischt dümmlich lamentierender Pseudo-Anwälte und Möchtegern-Pressevertreter vermuten lässt, die sich auch dann nicht überführt fühlen, wenn sie sich abscheulichster Schimpfworte bedienen, um mir Unwissen und Unhöflichkeit zum Vorwurf zu machen.
