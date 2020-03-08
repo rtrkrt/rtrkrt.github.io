@@ -90,7 +90,7 @@ _2011-06-27_ [Der Esel und die Elster](uz-eue.md)
 
 _2011-06-27_ [Verbrannte Erde](uz-vee.md)
 
-_2011-06-27_ [Eilmeldung](uz-emg.md)
+_2011-06-27_ [Eilmeldung](uz-eig.md)
 
 _2011-06-27_ [Der kleine Mann](uz-dkm.md)
 
