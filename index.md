@@ -42,17 +42,17 @@ _2016-11-08_ [A wie in ...](bikpb-a.md)
 
 _2009-12-12_ [Into The Night (Black Light)](pa-itn.md)
 
-_2009-11-25_ [Under The System Of Mass Destruction](pa-usmd.md)
+_2009-11-25_ [Under The System Of ...](pa-usmd.md)
 
 _2009-11-19_ [Notes And Words](pa-naw.md)
 
-_2009-11-16_ [Seit Ich Die Menschen Kenne, Liebe Ich Die Tiere!](pa-smklt.md)
+_2009-11-16_ [Seit Ich Die Menschen ...](pa-smklt.md)
 
 _2009-11-12_ [6:10](pa-610.md)
 
 _2009-10-28_ [Homo Homini Lupus](pa-hhl.md)
 
-_2009-10-21_ [Reading Between The Front Lines](pa-rbfl.md)
+_2009-10-21_ [Reading Between The ...](pa-rbfl.md)
 
 _2009-10-11_ [Black Rock](pa-br.md)
 
