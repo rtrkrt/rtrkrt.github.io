@@ -1,3 +1,9 @@
+#### Es ist nicht tot, was ewig liegt ... aber ungenießbar - mit "Social Distancing" zum Spielleiter! _(seit 2020)_
+
+[Tagebuch](cc.md)
+
+<hr>
+
 #### Memento Metallum _(seit 2019)_
 
 _2019-12-12_ [Darkness](mm-dns.md)
@@ -18,9 +24,7 @@ _2019-01-15_ [Slam Before Time](mm-sbt.md)
 
 <hr>
 
-#### Brockhaus ist kein Plattenbau _(seit 2016)_
-
-Ein Kompendium erinnernswerter Torheiten von A bis Z
+#### Brockhaus ist kein Plattenbau - Ein Kompendium erinnernswerter Torheiten von A bis Z _(seit 2016)_
 
 _2019-03-29_ [G wie in ...](bp-gwi.md)
 
@@ -60,7 +64,7 @@ _2012-02-06_ [Not eines Handlungsr...](nh-neh.md)
 
 <hr>
 
-#### Unerhört! Zusammengereimtes _(2011 bis 2013)_
+#### Unerhört! Zusammengereimtes von Florian Merkel _(2011 bis 2013)_
 
 _2013-05-31_ [Nimbus](uz-nis.md)
 
