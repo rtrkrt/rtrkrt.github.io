@@ -1,8 +1,8 @@
-#### Es ist nicht tot, was ewig liegt ... aber ungenießbar - mit "Social Distancing" zum Spielleiter!
+#### Stell dir vor, es ist Pandemie und keiner geht hin!
 
 _17. April 2020_
 
-Stell dir vor, es ist Pandemie und keiner geht hin! Niemand verwandelt sich in einen geifernden Hirntoten, der, seinen niederen Instinkten folgend, die bröckelnden Überbleibsel unserer Zivilisation nach menschlicher Nahrung durchstreift. Und niemand ist gezwungen, die leergefegten Innenstädte für haltbare Lebensmittel, Waffen und Munition zu plündern.
+Niemand verwandelt sich in einen geifernden Hirntoten, der, seinen niederen Instinkten folgend, die bröckelnden Überbleibsel unserer Zivilisation nach menschlicher Nahrung durchstreift. Und niemand ist gezwungen, die leergefegten Innenstädte für haltbare Lebensmittel, Waffen und Munition zu plündern.
 
 Stattdessen herrscht Kontaktbeschränkung. Alle kauern vor der Flimmerkiste wie geifernde Hirntote, die, dem allgemeinen Hype folgend, ein Überangebot an Streaming-Plattformen nach leicht verdaulicher Unterhaltung durchkämmen, oder sehen sich gezwungen, die leergefegten Innenstädte für haltbare Lebensmittel und Toilettenpapier zu plündern.
 
