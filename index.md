@@ -64,7 +64,7 @@ _2012-02-06_ [Not eines Handlungsr...](nh-neh.md)
 
 <hr>
 
-#### Unerhört! Zusammengereimtes von Florian Merkel _(2011 bis 2013)_
+#### Unerhört! Zusammengereimtes _(2011 bis 2013)_
 
 _2013-05-31_ [Nimbus](uz-nis.md)
 
