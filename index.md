@@ -1,6 +1,6 @@
 #### Es ist nicht tot, was ewig liegt ... aber ungenießbar - mit "Social Distancing" zum Spielleiter! _(seit 2020)_
 
-[Tagebuch](cc.md)
+_2020-04-17_ [Stell dir vor, es ist Pandemie und keiner geht hin!](cc-sdv.md)
 
 <hr>
 
