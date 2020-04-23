@@ -42,6 +42,12 @@ _2016-11-08_ [A wie in ...](bp-awi.md)
 
 <hr>
 
+#### Aus dem Leben eines Spitzenprädators _(seit 2012)_
+
+_Gesamt_ [Aus dem Leben eines Spitzenprädators](adles.md)
+
+<hr>
+
 #### Not eines Handlungsreisenden _(2012 bis 2013)_
 
 _2013-06-23_ [Im Land der Schuldlo...](nh-lds.md)
