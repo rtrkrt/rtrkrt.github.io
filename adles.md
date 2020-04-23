@@ -1,6 +1,6 @@
 #### Aus dem Leben eines Spitzenprädators
 
-_20. Oktober 2019_
+_23. April 2020_
 
 Ich: "Ich möchte nicht mehr 'kämpfende Löwen' spielen!"<br>
 Kind: "Dann spielen wir 'Batman kämpft gegen Löwen' ..."<br>
