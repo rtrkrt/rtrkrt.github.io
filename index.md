@@ -44,7 +44,7 @@ _2016-11-08_ [A wie in ...](bp-awi.md)
 
 #### Aus dem Leben eines Spitzenprädators _(seit 2012)_
 
-_Gesamt_ [Aus dem Leben eines Spitzenprädators](adles.md)
+_Gesamt_ [Aus dem Leben eines ...](adles.md)
 
 <hr>
 
