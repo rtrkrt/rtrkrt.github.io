@@ -6,6 +6,8 @@ _2020-04-17_ [Stell dir vor, es is...](cc-sdv.md)
 
 #### Memento Metallum _(seit 2019)_
 
+_2020-05-24_ [Herzblatt: Die Black-Metal-Edition](mm-hbt.md)
+
 _2019-12-12_ [Darkness](mm-dns.md)
 
 _2019-12-02_ [Scumprophet](mm-spt.md)
