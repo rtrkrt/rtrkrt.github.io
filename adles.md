@@ -70,7 +70,7 @@ Ich behaupte ja nicht, dass wir nicht auch wunderbar ohne eine allgemeinverbindl
 
 _2. Juni 2019_
 
-Kol|la|te|ral|er|zie|hung, die; kein Pl. (seltenes Phänomen auf Kinderspielplätzen, bei dem eine nachdrücklich geäußerte Zurechtweisung durch ein Elternteil fremden Nachwuchs dazu veranlasst, in die Umsetzung zu gehen, noch bevor es die eigenen Kinder tun)
+Kollateralerziehung, die; kein Pl. (seltenes Phänomen auf Kinderspielplätzen, bei dem eine nachdrücklich geäußerte Zurechtweisung durch ein Elternteil fremden Nachwuchs dazu veranlasst, in die Umsetzung zu gehen, noch bevor es die eigenen Kinder tun)
 
 _29. Mai 2019_
 
