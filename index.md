@@ -1,6 +1,6 @@
 #### Es ist nicht tot, was ewig liegt ... aber ungenießbar - mit "Social Distancing" zum Spielleiter! _(seit 2020)_
 
-_2020-04-17_ [Stell dir vor, es is...](cc-sdv.md)
+_2020-04-17_ [Stell dir vor, es ist Pandemie und keiner geht hin!](cc-sdv.md)
 
 <hr>
 
@@ -8,39 +8,39 @@ _2020-04-17_ [Stell dir vor, es is...](cc-sdv.md)
 
 _2020-05-24_ [Herzblatt: Die Black-Metal-Edition](mm-hbt.md)
 
-_2019-12-12_ [Darkness](mm-dns.md)
+_2019-12-12_ [Fallbrawl - Darkness](mm-dns.md)
 
-_2019-12-02_ [Scumprophet](mm-spt.md)
+_2019-12-02_ [Hollow Prophet / Scumfuck - Scumprophet](mm-spt.md)
 
-_2019-11-14_ [Take To The Skies](mm-tts.md)
+_2019-11-14_ [Enter Shikari - Take To The Skies](mm-tts.md)
 
-_2019-10-20_ [Smear Campaign](mm-scn.md)
+_2019-10-20_ [Napalm Death - Smear Campaign](mm-scn.md)
 
-_2019-09-26_ [The Silver Scream](mm-ssm.md)
+_2019-09-26_ [Ice Nine Kills - The Silver Scream](mm-ssm.md)
 
-_2019-06-01_ [Swarm!](mm-swm.md)
+_2019-06-01_ [Torture Killer - Swarm!](mm-swm.md)
 
-_2019-01-27_ [D E A T H W I S H](mm-dwh.md)
+_2019-01-27_ [Within Destruction - D E A T H W I S H](mm-dwh.md)
 
-_2019-01-15_ [Slam Before Time](mm-sbt.md)
+_2019-01-15_ [Operation Cunt Destroyer - Slam Before Time](mm-sbt.md)
 
 <hr>
 
 #### Brockhaus ist kein Plattenbau - Ein Kompendium erinnernswerter Torheiten von A bis Z _(seit 2016)_
 
-_2019-03-29_ [G wie in ...](bp-gwi.md)
+_2019-03-29_ [G wie in Gaseruption to go](bp-gwi.md)
 
-_2019-02-04_ [F wie in ...](bp-fwi.md)
+_2019-02-04_ [F wie in Freibad-Romanzen](bp-fwi.md)
 
-_2018-01-31_ [E wie in ...](bp-ewi.md)
+_2018-01-31_ [E wie in Éclat de Toilette](bp-ewi.md)
 
-_2017-07-19_ [D wie in ...](bp-dwi.md)
+_2017-07-19_ [D wie in Discountwarenbeförderungsmittellogistiker](bp-dwi.md)
 
-_2017-04-07_ [C wie in ...](bp-cwi.md)
+_2017-04-07_ [C wie in Cyber-Mobbing im Frühstadium](bp-cwi.md)
 
-_2016-11-28_ [B wie in ...](bp-bwi.md)
+_2016-11-28_ [B wie in Blutorange ex](bp-bwi.md)
 
-_2016-11-08_ [A wie in ...](bp-awi.md)
+_2016-11-08_ [A wie in Abwrack-Kondolenzen](bp-awi.md)
 
 <hr>
 
@@ -174,29 +174,29 @@ _2016-10-28_ [Freitag, der 13. (2009)]()
 
 #### Aus dem Leben eines Spitzenprädators _(seit 2012)_
 
-_Gesamt_ [Aus dem Leben eines ...](adles.md)
+_Gesamt_ [Aus dem Leben eines Spitzenprädators](adles.md)
 
 <hr>
 
 #### Not eines Handlungsreisenden _(2012 bis 2013)_
 
-_2013-06-23_ [Im Land der Schuldlo...](nh-lds.md)
+_2013-06-23_ [Im Land der Schuldlosen](nh-lds.md)
 
-_2012-11-22_ [Die zehn Wege zu ein...](nh-zwd.md)
+_2012-11-22_ [Die zehn Wege zu einem reibungslosen Gesprächsverlauf, wenn Sie mich an meinem Arbeitsplatz besuchen - Der dritte Teil](nh-zwd.md)
 
-_2012-11-06_ [Die zehn Wege zu ein...](nh-zwz.md)
+_2012-11-06_ [Die zehn Wege zu einem reibungslosen Gesprächsverlauf, wenn Sie mich an meinem Arbeitsplatz besuchen - Der zweite Teil](nh-zwz.md)
 
-_2012-09-15_ [Die zehn Wege zu ein...](nh-zwe.md)
+_2012-09-15_ [Die zehn Wege zu einem reibungslosen Gesprächsverlauf, wenn Sie mich an meinem Arbeitsplatz besuchen - Der erste Teil](nh-zwe.md)
 
-_2012-06-13_ [Gangreserve, Bereits...](nh-gbn.md)
+_2012-06-13_ [Gangreserve, Bereitschaft trotz Netztrennung](nh-gbn.md)
 
-_2012-05-29_ [Wer nur heiße Luft p...](nh-hlw.md)
+_2012-05-29_ [Wer nur heiße Luft produziert, darf sich über Servicewüsten nicht wundern](nh-hlw.md)
 
-_2012-04-02_ [Lassen Sie mich durc...](nh-lmf.md)
+_2012-04-02_ [Lassen Sie mich durch, ich bin vom Fach](nh-lmf.md)
 
-_2012-02-15_ [Es ist nichts Gesund...](nh-ngb.md)
+_2012-02-15_ [Es ist nichts Gesundes an Buchstabensalat](nh-ngb.md)
 
-_2012-02-06_ [Not eines Handlungsr...](nh-neh.md)
+_2012-02-06_ [Not eines Handlungsreisenden](nh-neh.md)
 
 <hr>
 
@@ -204,19 +204,19 @@ _2012-02-06_ [Not eines Handlungsr...](nh-neh.md)
 
 _2013-05-31_ [Nimbus](uz-nis.md)
 
-_2013-01-13_ [Der Brief des Hans S...](uz-bhs.md)
+_2013-01-13_ [Der Brief des Hans Schneider](uz-bhs.md)
 
 _2012-10-09_ [Blutzoll: Elisabeth](uz-beh.md)
 
 _2012-08-19_ [SS M. C.](uz-smc.md)
 
-_2012-08-08_ [Im Garten des Wieder...](uz-gdw.md)
+_2012-08-08_ [Im Garten des Wiedererweckers](uz-gdw.md)
 
 _2012-06-05_ [Aufzug der Agitatoren](uz-ada.md)
 
 _2012-04-20_ [Cäcilie](uz-cae.md)
 
-_2012-02-01_ [Das Prinzessinnen-St...](uz-dps.md)
+_2012-02-01_ [Das Prinzessinnen-Stigma](uz-dps.md)
 
 _2011-11-10_ [Ein Auszug](uz-eag.md)
 
@@ -254,50 +254,50 @@ _2011-06-27_ [Charon](uz-chn.md)
 
 #### Partyausfall _(2009)_
 
-_2009-12-12_ [Into The Night (Blac...](pa-itn.md)
+_2009-12-12_ [Dryconditions - Into The Night (Black Light)](pa-itn.md)
 
-_2009-11-25_ [Under The System Of ...](pa-usm.md)
+_2009-11-25_ [Scarscab - Under The System Of Mass Destruction](pa-usm.md)
 
-_2009-11-19_ [Notes And Words](pa-naw.md)
+_2009-11-19_ [Crownstreet Boulevard - Notes And Words](pa-naw.md)
 
-_2009-11-16_ [Seit Ich Die Mensche...](pa-smk.md)
+_2009-11-16_ [COR - Seit Ich Die Menschen Kenne, Liebe Ich Die Tiere!](pa-smk.md)
 
-_2009-11-12_ [6:10](pa-610.md)
+_2009-11-12_ [Kyo:ma - 6:10](pa-610.md)
 
-_2009-10-28_ [Homo Homini Lupus](pa-hhl.md)
+_2009-10-28_ [400Colpi - Homo Homini Lupus](pa-hhl.md)
 
-_2009-10-21_ [Reading Between The ...](pa-rbf.md)
+_2009-10-21_ [Go For It! - Reading Between The Front Lines](pa-rbf.md)
 
-_2009-10-11_ [Black Rock](pa-brk.md)
+_2009-10-11_ [Zero Mentality - Black Rock](pa-brk.md)
 
-_2009-10-05_ [Threshold](pa-thd.md)
+_2009-10-05_ [Reaching Hand - Threshold](pa-thd.md)
 
-_2009-09-26_ [Ruins Afire](pa-rae.md)
+_2009-09-26_ [Versus The Throne - Ruins Afire](pa-rae.md)
 
-_2009-09-22_ [Secrets Of The World](pa-sow.md)
+_2009-09-22_ [Trapped Under Ice - Secrets Of The World](pa-sow.md)
 
-_2009-08-27_ [Between Light And Shade](pa-bls.md)
+_2009-08-27_ [Out For The Count - Between Light And Shade](pa-bls.md)
 
-_2009-08-19_ [Not Enough Graves](pa-neg.md)
+_2009-08-19_ [Black Thunder - Not Enough Graves](pa-neg.md)
 
-_2009-08-14_ [World Gone Mad](pa-wgm.md)
+_2009-08-14_ [World Gone Mad - Selftitled](pa-wgm.md)
 
-_2009-08-04_ [Twelve Out Of Chamber](pa-toc.md)
+_2009-08-04_ [Scalping Screen - Twelve Out Of Chamber](pa-toc.md)
 
-_2009-07-30_ [Almost Dead](pa-add.md)
+_2009-07-30_ [Half Past Death - Almost Dead](pa-add.md)
 
-_2009-07-27_ [Better Ways To Die](pa-bwd.md)
+_2009-07-27_ [Death Before Dishonor - Better Ways To Die](pa-bwd.md)
 
-_2009-07-11_ [The Few The Deep](pa-ftd.md)
+_2009-07-11_ [Bun Dem Out - The Few The Deep](pa-ftd.md)
 
-_2009-06-25_ [Breed Of Lilith](pa-bol.md)
+_2009-06-25_ [Halcyon As Lilith - Breed Of Lilith](pa-bol.md)
 
-_2009-06-19_ [3L1T3](pa-3l3.md)
+_2009-06-19_ [Nueva Etica - 3L1T3](pa-3l3.md)
 
-_2009-06-15_ [Last Mile](pa-lme.md)
+_2009-06-15_ [Last Mile - Selftitled](pa-lme.md)
 
-_2009-06-15_ [What Tomorrow Will N...](pa-wtb.md)
+_2009-06-15_ [Reconcile - What Tomorrow Will Never Bring](pa-wtb.md)
 
-_2009-06-11_ [On Thin Ice](pa-oti.md)
+_2009-06-11_ [In Blood We Trust - On Thin Ice](pa-oti.md)
 
-_2009-06-09_ [A New Hope](pa-anh.md)
+_2009-06-09_ [Vanna - A New Hope](pa-anh.md)
