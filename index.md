@@ -30,19 +30,21 @@ _2019-01-15_ [Operation Cunt Destroyer - Slam Before Time](mm-sbt.md)
 
 #### Brockhaus ist kein Plattenbau - Ein Kompendium erinnernswerter Torheiten von A bis Z _(seit 2016)_
 
-_2019-03-29_ [G wie in Gaseruption to go](bp-gwi.md)
+_2020-06-07_ [H ... wie in Honigwein aus Eierbechern](bp-hwi.md)
 
-_2019-02-04_ [F wie in Freibad-Romanzen](bp-fwi.md)
+_2019-03-29_ [G ... wie in Gaseruption to go](bp-gwi.md)
 
-_2018-01-31_ [E wie in Éclat de Toilette](bp-ewi.md)
+_2019-02-04_ [F ... wie in Freibad-Romanzen](bp-fwi.md)
 
-_2017-07-19_ [D wie in Discountwarenbeförderungsmittellogistiker](bp-dwi.md)
+_2018-01-31_ [E ... wie in Éclat de Toilette](bp-ewi.md)
 
-_2017-04-07_ [C wie in Cyber-Mobbing im Frühstadium](bp-cwi.md)
+_2017-07-19_ [D ... wie in Discountwarenbeförderungsmittellogistiker](bp-dwi.md)
 
-_2016-11-28_ [B wie in Blutorange ex](bp-bwi.md)
+_2017-04-07_ [C ... wie in Cyber-Mobbing im Frühstadium](bp-cwi.md)
 
-_2016-11-08_ [A wie in Abwrack-Kondolenzen](bp-awi.md)
+_2016-11-28_ [B ... wie in Blutorange ex](bp-bwi.md)
+
+_2016-11-08_ [A ... wie in Abwrack-Kondolenzen](bp-awi.md)
 
 <hr>
 
