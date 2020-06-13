@@ -50,6 +50,8 @@ _2016-11-08_ [A ... wie in Abwrack-Kondolenzen](bp-awi.md)
 
 #### Kurts Sicht _(seit 2016)_
 
+_2020-06-13_ [Slasher: Guilty Party (Staffel 2, 2017)](ks-spy.md)
+
 _2019-08-11_ [Bruder (Ania Ahlborn)](ks-bdr.md)
 
 _2019-06-15_ [Hatchet - Victor Crowley (2017)](ks-hct.md)
