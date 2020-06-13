@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_13. Juni 2020_
+
+... und wenn es dir schwerfällt zu glauben, dass ein siebenjähriger, auf domestizierten Berglöwen reitender Polizeibeamter zum Chef seiner eigenen Zweigstelle der Gebirgspolizei beordert werden kann, noch bevor er die Biene-Maja-Klasse auf der Akademie absolviert hat, dann solltest du dein Legospiel schnellstmöglich auf das nächste Level heben!
+
 _17. Mai 2020_
 
 Du kannst gut und gerne sechzig Euro Jahresgebühr für eine Running-App hinblättern und sie wird dir trotzdem nicht sagen, dass du während des Cooldowns besser nicht an einem Döner-Imbiss vorbeiläufst.
