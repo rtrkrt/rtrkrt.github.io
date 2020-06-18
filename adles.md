@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_18. Juni 2020_
+
+AMAZONs Alexa gibt mal wieder vor, den umsichtig postulierten Wunschtitel deiner angelsächsischen Lieblingsmusikanten nicht finden zu können? Frag sie nochmal ... und zwar so, wie es die am schlechtesten Englisch sprechende Person tun würde, die dir auf Anhieb in den Sinn kommt! Dieser Trick wird dein Leben verändern!
+
 _13. Juni 2020_
 
 ... und wenn es dir schwerfällt zu glauben, dass ein siebenjähriger, auf domestizierten Berglöwen reitender Polizeibeamter zum Chef seiner eigenen Zweigstelle der Gebirgspolizei beordert werden kann, noch bevor er die Biene-Maja-Klasse auf der Akademie absolviert hat, dann solltest du dein Legospiel schnellstmöglich auf das nächste Level heben!
