@@ -1,4 +1,5 @@
 #### Herzblatt: Die Black-Metal-Edition
+
 _24. Mai 2020 in Memento Metallum_
 
 … und das wird unsere Susi jetzt nochmal in knappen Worten zusammenfassen …
@@ -16,6 +17,7 @@ So, lieber Kurt, nun musst du dich entscheiden!
 <hr>
 
 #### Fallbrawl - Darkness
+
 _12. Dezember 2019 in Memento Metallum_
 
 Nicht weniger als eine Frage der Ehre war es meinem einundzwanzigjährigen Selbst, kaum dass Fallbrawl ihr passenderweise “Cold World” betiteltes Erstlingswerk im fahlen Licht der Wirklichkeit auf den nasskalten Fliesenboden gepresst hatten, dem heldenhaft stoischen Schlachtruf von Optimus Prime auf eine Handvoll Prellungen (einschließlich Übernachtung im Doppelzimmer einer familiengeführten Pension) zum Charitycore ins sieben Bahnstunden entfernte Minden nachzureisen.
@@ -25,6 +27,7 @@ Und jetzt, ganze zehn Jahre, drei unbeachtete Veröffentlichungen, einen Sänger
 <hr>
 
 #### Hollow Prophet / Scumfuck - Scumprophet
+
 _2. Dezember 2019 in Memento Metallum_
 
 Grenzen. Und warum sie so wichtig sind. Darüber sollten wir uns dringend einmal unterhalten! Nicht, dass ein kleines bisschen orchestriertes Weltgericht keine Bereicherung für jede Form gesellschaftlicher Anlässe darstellen würde. Von mesopotamischen Geistwesen in Besitz genommene Nachwuchs-Poser hingegen, die erbarmungslos mit sardonischen Tierlauten um sich werfend meine gesamte Blutlinie zu einem Leben in freudloser Knechtschaft unter chronischem Reizdarmsyndrom verfluchen, dass mir der Geifer nur so vor die Stirnseite wogt - DAS (man sehe es mir nach) wäre so eine dieser Grenzen, auf die ich hinaus will!
@@ -34,6 +37,7 @@ Dem Wunder moderner Verbreitungskanäle und zum Speien romantisierter Selfmade-M
 <hr>
 
 #### Enter Shikari - Take To The Skies
+
 _14. November 2019 in Memento Metallum_
 
 Uckermärkische Bühnen, irgendwann 2008. Drei hochdekorierte Moshpit-Recken zwischen zwanzig und fünfundzwanzig Jahren haben sich auf den Weg ins geistig-kulturelle Epizentrum ihres Heimatortes begeben. Auf den Steinstufen zur Theaterpforte entfacht ein durch Goldkrone und Johannisbeersaft befeuerter Diskurs über die umgreifende Gehemmtheit unter eingefleischten Metalcore-Enthusiasten, sich als Freunde des ins Zuckersüße hybridisierten Wirkens auf dem Langspiel-Debüt der aufstrebenden Enter Shikari zu bekennen. Wenig später. Drei hochderangierte Moshpit-Recken zwischen anderthalb und zwei Promille grölen Textpassagen aus “Sorry You’re Not a Winner” zu dem Gedudel eines schwachbrüstigen Vorläufers heutiger Bluetooth-Lautsprecher in die merklich aufgefrischte Spätsommernacht hinaus. Das unerlässliche Mitklatschen bei der 30-Sekunden-Marke könnte besser getimt sein …
@@ -43,6 +47,7 @@ St. Annen und Brigitten, September 2016. Die Standesbeamtin hält für den Augen
 <hr>
 
 #### Napalm Death - Smear Campaign
+
 _20. Oktober 2019 in Memento Metallum_
 
 Zu der Zeit, als sie mit “Smear Campaign” an der Seite von Waffenbrüdern wie All Shall Perish oder Amon Amarth, über deren Qualitäten ich bei passender Gelegenheit zu befinden haben werde, zum neuerlichen Angriff auf den auditiven Cortex bliesen, wusste ich über 25 Jahre Napalm Death kaum mehr zu berichten, als dass ihr Guinness-Buch-gewürdigtes “You Suffer” das wohl trefflichste Ein-Sekunden-Musikstück in der übersichtlichen Geschichte trefflicher Ein-Sekunden-Musikstücke sein musste.
@@ -52,6 +57,7 @@ Es war nicht, bevor die Heft-CD der LEGACY-Ausgabe #44 infolge unzähliger Rotat
 <hr>
 
 #### Ice Nine Kills - The Silver Scream
+
 _26. September 2019 in Memento Metallum_
 
 Warnung, Fanboy-Gewäsch in drei, zwei, eins …
@@ -67,6 +73,7 @@ Fanboy, Ende.
 <hr>
 
 #### Torture Killer - Swarm!
+
 _1. Juni 2019 in Memento Metallum_
 
 Es war einmal vor langer, langer Zeit, in dem Land, in dem Lakritzliköre und einkommensabhängige Bußgelder fließen, das Jahr Zweitausendundsechs. Vier Mal war der Erdball bereits zu seinem Streifzug um die Sonne angetreten, seit im finnischen Ballungsraum fünf Freunde infernalischer Spielarten mobil gemacht hatten, um zu tun, was Freunde infernalischer Spielarten aus dem finnischen Ballungsraum üblicherweise so tun: mit vereinten Fähigkeiten durch das Unterholz des US-amerikanischen Oldschool-Deathmetal pflügen. So trug es sich zu, dass eines ihrer weitschweifig besungenen Vorbilder, bis in die letzte Dreadlockspitze von Schaffenskraft und Nächstenliebe beseelt, die Erfüllung im Tagwerk seiner Eiferer zu suchen begann - und zwar in kreativer wie gutturaler Ausnahmeform, wie es der Widerhall aus einschlägigen Fachkreisen bald darauf verlautbaren ließ.
@@ -76,6 +83,7 @@ Und wahrlich, vom ersten leprösen Knurren an bahnen sich morastige Rhythmen, ei
 <hr>
 
 #### Within Destruction - D E A T H W I S H
+
 _27. Januar 2019 in Memento Metallum_
 
 Denke ich an die Zeit im Ausbildungsbetrieb zurück, da sich der größte Teil meiner Musikeinkäufe danach entschied, welche CD-Hülle bei ihrer elektronischen Erfassung während der halbjährlichen Tonträger-Inventur den meisten Eindruck zu schinden vermochte, so hege ich nicht den geringsten Zweifel, dass dieses Vorzeigeexemplar unheilvollen Grafikdesigns alsogleich in meinen verlotterten Eastpak und Within Destruction schließlich zu den anderen Krachbrüdern ins heimische Stufenregal vom Möbel-Discounter gewandert wären. Ein wahrer Glücksgriff, wie sich mit den ersten Tönen aus der ELAC-Einstiegsklasse herausgestellt hätte: druckvoll, dynamisch, durchgestylt vom Eröffnungs-Sample bis zum letzten Ellbogencheck.
@@ -85,6 +93,7 @@ Heute läuft das selbstverständlich anders … heute ist eine dauerhafte Verpfl
 <hr>
 
 #### Operation Cunt Destroyer - Slam Before Time
+
 _15. Januar 2019 in Memento Metallum_
 
 Allein bei dem Anblick der aus paläozoologischer Sicht vermutlich himmelschreiend inakkuraten Darstellung artübergreifender Kopulation dürfte jedem ehrenamtlich verpflichteten Sittenwächter das Klappmesser in der Hosentasche aufspringen. Das hat man wohl davon, wenn man sich vom einheitsrotbraunen Groß aus dilettantischer Mutilation und glorifizierter Leichenschändung abheben will, das die übliche Ästhetik des Genres bestimmt.
