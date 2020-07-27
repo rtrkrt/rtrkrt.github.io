@@ -1,5 +1,8 @@
 #### Zuletzt hinzugefügt
 
+[Aus dem Leben eines Spitzenprädators](adles.md)<br>
+_2020-07-27 in Aus dem Leben eines Spitzenprädators_
+
 [Damenwahl 2020](zusates.md)<br>
 _2020-07-25 in Zusammengereimtes_
 
