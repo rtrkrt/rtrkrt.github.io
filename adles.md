@@ -1,5 +1,11 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_27. Juli 2020 in Aus dem Leben eines Spitzenprädators_
+
+Vormund - Deutsch, Deutsch - Vormund: „Ich sage es nicht noch einmal!“ - „Ich sage es allerhöchstens noch 4 Mal, bevor ich mich garantiert nur noch 3 Mal wiederhole!“
+
+<hr>
+
 _18. Juni 2020_
 
 AMAZONs Alexa gibt mal wieder vor, den umsichtig postulierten Wunschtitel deiner angelsächsischen Lieblingsmusikanten nicht finden zu können? Frag sie nochmal ... und zwar so, wie es die am schlechtesten Englisch sprechende Person tun würde, die dir auf Anhieb in den Sinn kommt! Dieser Trick wird dein Leben verändern!
