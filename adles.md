@@ -1,5 +1,13 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_2. August 2020 in Aus dem Leben eines Spitzenprädators_
+
+Die Vorboten des ostdeutschen Badeurlaubs: Melonenschnitze aus dem 1-Liter-Eimer Bautz’ner „mittelscharf“.
+
+<hr>
+
+#### Aus dem Leben eines Spitzenprädators
+
 _27. Juli 2020 in Aus dem Leben eines Spitzenprädators_
 
 Vormund - Deutsch, Deutsch - Vormund: „Ich sage es nicht noch einmal!“ - „Ich sage es allerhöchstens noch 4 Mal, bevor ich mich garantiert nur noch 3 Mal wiederhole!“
