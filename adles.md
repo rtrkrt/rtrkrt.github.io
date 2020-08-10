@@ -1,5 +1,13 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_10. August 2020 in Aus dem Leben eines Spitzenprädators_
+
+Vierzehn Jahre Abitur und noch immer voller Stolz, dem Englisch-Leistungskurs angehört zu haben, welcher die Lehrkraft dazu veranlasste, ihre Aufgabenstellung „Präsentiert einen englischsprachigen Song eurer Wahl!“ für die nachfolgenden Jahrgänge in „Präsentiert einen englischsprachigen Song eurer Wahl, der mich nicht in unerträgliche Agonie versetzt!“ zu ändern.
+
+<hr>
+
+#### Aus dem Leben eines Spitzenprädators
+
 _2. August 2020 in Aus dem Leben eines Spitzenprädators_
 
 Die Vorboten des ostdeutschen Badeurlaubs: Melonenschnitze aus dem 1-Liter-Eimer Bautz’ner „mittelscharf“.
