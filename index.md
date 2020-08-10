@@ -1,6 +1,9 @@
 #### Zuletzt hinzugefügt
 
 [Aus dem Leben eines Spitzenprädators](adles.md)<br>
+_2020-08-10 in Aus dem Leben eines Spitzenprädators_
+
+[Aus dem Leben eines Spitzenprädators](adles.md)<br>
 _2020-08-02 in Aus dem Leben eines Spitzenprädators_
 
 [Aus dem Leben eines Spitzenprädators](adles.md)<br>
