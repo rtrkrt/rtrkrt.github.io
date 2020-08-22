@@ -37,5 +37,23 @@ _seit 2020_
 [Memento Metallum](memmet.md)<br>
 _seit 2019_
 
+_2020-05-24_ Herzblatt: Die Black-Metal-Edition
+
+_2019-12-12_ Fallbrawl - Darkness
+
+_2019-12-02_ Hollow Prophet / Scumfuck - Scumprophet
+
+_2019-11-14_ Enter Shikari - Take To The Skies
+
+_2019-10-20_ Napalm Death - Smear Campaign
+
+_2019-09-26_ Ice Nine Kills - The Silver Scream
+
+_2019-06-01_ Torture Killer - Swarm!
+
+_2019-01-27_ Within Destruction - D E A T H W I S H
+
+_2019-01-15_ Operation Cunt Destroyer - Slam Before Time
+
 [Zusammengereimtes](zusates.md)<br>
 _seit 2011_
