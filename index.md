@@ -1,5 +1,8 @@
 #### Zuletzt hinzugefügt
 
+[Uckermark-Passagen 2020](alapron.md)<br>
+_2020-08-22 in Altlast-Impressionen_
+
 [Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](kufile.md)<br>
 _2020-08-21 in Kurts Filme_
 
