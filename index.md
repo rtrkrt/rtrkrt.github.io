@@ -49,26 +49,25 @@ _2016-11-08_ [A wie in ... Abwrack-Kondolenzen](bp.md)
 [Kurts Filme](kufile.md)<br>
 _seit 2020_
 
-[Memento Metallum](memmet.md)<br>
-_seit 2019_
+#### Memento Metallum _(seit 2019)_
 
-_2020-05-24_ Herzblatt: Die Black-Metal-Edition
+_2020-05-24_ [Herzblatt: Die Black-Metal-Edition](mm.md)
 
-_2019-12-12_ Fallbrawl - Darkness
+_2019-12-12_ [Fallbrawl - Darkness](mm.md)
 
-_2019-12-02_ Hollow Prophet / Scumfuck - Scumprophet
+_2019-12-02_ [Hollow Prophet / Scumfuck - Scumprophet](mm.md)
 
-_2019-11-14_ Enter Shikari - Take To The Skies
+_2019-11-14_ [Enter Shikari - Take To The Skies](mm.md)
 
-_2019-10-20_ Napalm Death - Smear Campaign
+_2019-10-20_ [Napalm Death - Smear Campaign](mm.md)
 
-_2019-09-26_ Ice Nine Kills - The Silver Scream
+_2019-09-26_ [Ice Nine Kills - The Silver Scream](mm.md)
 
-_2019-06-01_ Torture Killer - Swarm!
+_2019-06-01_ [Torture Killer - Swarm!](mm.md)
 
-_2019-01-27_ Within Destruction - D E A T H W I S H
+_2019-01-27_ [Within Destruction - D E A T H W I S H](mm.md)
 
-_2019-01-15_ Operation Cunt Destroyer - Slam Before Time
+_2019-01-15_ [Operation Cunt Destroyer - Slam Before Time](mm.md)
 
 [Zusammengereimtes](zusates.md)<br>
 _seit 2011_
