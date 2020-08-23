@@ -28,8 +28,7 @@ _2020-07-25 in Zusammengereimtes_
 [Altlast-Impressionen](alapron.md)<br>
 _seit 2020_
 
-#### Brockhaus ist kein Plattenbau<br>
-_seit 2016_
+#### Brockhaus ist kein Plattenbau _(seit 2016)_
 
 _2020-06-07_ [H wie in ... Honigwein aus Eierbechern](bp.md)
 
