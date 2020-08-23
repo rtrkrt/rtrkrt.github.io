@@ -46,8 +46,9 @@ _2016-11-28_ [B wie in ... Blutorange ex](bp.md)
 
 _2016-11-08_ [A wie in ... Abwrack-Kondolenzen](bp.md)
 
-[Kurts Filme](kufile.md)<br>
-_seit 2020_
+#### Kurts Filme _(seit 2020)_
+
+_2020-08-21_ [Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](kf.md)
 
 #### Memento Metallum _(seit 2019)_
 
