@@ -28,8 +28,24 @@ _2020-07-25 in Zusammengereimtes_
 [Altlast-Impressionen](alapron.md)<br>
 _seit 2020_
 
-[Brockhaus ist kein Plattenbau](broplau.md)<br>
+#### Brockhaus ist kein Plattenbau<br>
 _seit 2016_
+
+_2020-06-07_ [H wie in ... Honigwein aus Eierbechern](bp.md)
+
+_2019-03-29_ [G wie in ... Gaseruption to go](bp.md)
+
+_2019-02-04_ [F wie in ... Freibad-Romanzen](bp.md)
+
+_2018-01-31_ [E wie in ... Éclat de Toilette](bp.md)
+
+_2017-07-19_ [D wie in ... Discountwarenbeförderungsmittellogistiker](bp.md)
+
+_2017-04-07_ [C wie in ... Cyber-Mobbing im Frühstadium](bp.md)
+
+_2016-11-28_ [B wie in ... Blutorange ex](bp.md)
+
+_2016-11-08_ [A wie in ... Abwrack-Kondolenzen](bp.md)
 
 [Kurts Filme](kufile.md)<br>
 _seit 2020_
