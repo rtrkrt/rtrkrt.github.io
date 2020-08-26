@@ -1,5 +1,8 @@
 #### Zuletzt hinzugefügt
 
+[Aus dem Leben eines Spitzenprädators](adles.md)<br>
+_2020-08-26 in Aus dem Leben eines Spitzenprädators_
+
 [Uckermark-Passagen 2020](alapron.md)<br>
 _2020-08-22 in Altlast-Impressionen_
 
