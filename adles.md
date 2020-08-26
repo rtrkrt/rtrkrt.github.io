@@ -1,8 +1,8 @@
 #### Aus dem Leben eines Spitzenprädators
 
-Kein Absatzmarkt kann so hart umkämpft sein wie der für Gesellschaftsspiele, wenn bereits ein so ernüchterndes Prädikat wie "Auf der Auswahlliste 'Spiel des Jahres 2017'" es wert ist, die aufwendig gestaltete Produktverpackung zu zieren!
-
 _26. August 2020 in Aus dem Leben eines Spitzenprädators_
+
+Kein Absatzmarkt kann so hart umkämpft sein wie der für Gesellschaftsspiele, wenn bereits ein so ernüchterndes Prädikat wie "Auf der Auswahlliste 'Spiel des Jahres 2017'" es wert ist, die aufwendig gestaltete Produktverpackung zu zieren!
 
 <hr>
 
