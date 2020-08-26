@@ -1,5 +1,13 @@
 #### Aus dem Leben eines Spitzenprädators
 
+Kein Absatzmarkt kann so hart umkämpft sein wie der für Gesellschaftsspiele, wenn bereits ein so ernüchterndes Prädikat wie "Auf der Auswahlliste 'Spiel des Jahres 2017'" es wert ist, die aufwendig gestaltete Produktverpackung zu zieren!
+
+_26. August 2020 in Aus dem Leben eines Spitzenprädators_
+
+<hr>
+
+#### Aus dem Leben eines Spitzenprädators
+
 _13. August 2020 in Aus dem Leben eines Spitzenprädators_
 
 Urlaub im Freizeitpark, Tag 3. Frustration macht sich breit angesichts ausbleibender Erkenntnisse in der Frage, wie groß die Entfernung zwischen den Aberhundert Abfallbehältern auf dem Parkgelände höchstens sein darf, dass kein Unrat mehr achtlos in der Botanik oder kurzerhand auf den Gehwegen entsorgt wird. Gelernt habe ich bislang nur so viel: 5 Meter sind noch zu weit!
