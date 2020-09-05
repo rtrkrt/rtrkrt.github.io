@@ -1,5 +1,27 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_5. September 2020 in Aus dem Leben eines Spitzenprädators_
+
+Ich: „KON...“
+
+Kind: „KON!“
+
+Ich: „...TRA...“
+
+Kind: „TRA!“
+
+Ich: „...BASS!“
+
+Kind: „BASS!“
+
+Ich: „KONTRABASS!“
+
+Kind: „Ich sag’ das, wie ich will!“
+
+<hr>
+
+#### Aus dem Leben eines Spitzenprädators
+
 _26. August 2020 in Aus dem Leben eines Spitzenprädators_
 
 Kein Absatzmarkt kann so hart umkämpft sein wie der für Gesellschaftsspiele, wenn bereits ein so ernüchterndes Prädikat wie "Auf der Auswahlliste 'Spiel des Jahres 2017'" es wert ist, die aufwendig gestaltete Produktverpackung zu zieren!
