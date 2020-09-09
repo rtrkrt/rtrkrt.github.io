@@ -66,3 +66,7 @@ _2019-01-15_ [Operation Cunt Destroyer - Slam Before Time](mm.md)
 
 [Zusammengereimtes](zusates.md)<br>
 _seit 2011_
+
+#### Am Anfang war Fireworks
+
+[Mortal Storm](afafiwo.md)
