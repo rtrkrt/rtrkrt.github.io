@@ -5,7 +5,7 @@ _2020-10-09 in Aus dem Leben eines Spitzenprädators_
 
 <hr>
 
-#### Brockhaus ist kein Plattenbau _(seit 2016)_
+#### Brockhaus ist kein Plattenbau<br>_(seit 2016)_
 
 [H wie in ... Honigwein aus Eierbechern](broplau-howabern.md)<br>
 _2020-06-07 in Brockhaus ist kein Plattenbau_
@@ -33,14 +33,14 @@ _2016-11-08 in Brockhaus ist kein Plattenbau_
 
 <hr>
 
-#### Kurts Filme _(seit 2020)_
+#### Kurts Filme<br>_(seit 2020)_
 
 [Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](kurfil-eruzwan.md)<br>
 _2020-08-21 in Kurts Filme_
 
 <hr>
 
-#### Memento Metallum _(seit 2019)_
+#### Memento Metallum<br>_(seit 2019)_
 
 _2020-05-24_ [Herzblatt: Die Black-Metal-Edition](mm.md)
 
