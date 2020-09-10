@@ -1,7 +1,7 @@
 #### Aus dem Leben eines Spitzenprädators _(seit 2012)_
 
-[Aus dem Leben eines Spitzenprädators](adeles.md)
-_2020-10-09_
+[Aus dem Leben eines Spitzenprädators](adeles.md)<br>
+_2020-10-09 in Aus dem Leben eines Spitzenprädators_
 
 <hr>
 
