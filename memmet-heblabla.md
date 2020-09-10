@@ -1,6 +1,6 @@
 #### Herzblatt: Die Black-Metal-Edition
 
-_24. Mai 2020_
+_24. Mai 2020 in Memento Metallum_
 
 _... und das wird unsere Susi jetzt nochmal in knappen Worten zusammenfassen ..._
 
