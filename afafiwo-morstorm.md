@@ -1,5 +1,7 @@
 #### Mortal Storm
 
+_2006 bis 2007_
+
 [morstorm_banner.gif](https://rtrkrt.4lima.de/afafiwo/morstorm/morstorm_banner.gif)<br>
 [morstorm_button01.png](https://rtrkrt.4lima.de/afafiwo/morstorm/morstorm_button01.png)<br>
 [morstorm_cover01.png](https://rtrkrt.4lima.de/afafiwo/morstorm/morstorm_cover01.png)<br>
