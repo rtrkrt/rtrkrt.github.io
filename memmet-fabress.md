@@ -1,6 +1,6 @@
 #### Fallbrawl - Darkness
 
-_12. Dezember 2019_
+_12. Dezember 2019 in Memento Metallum_
 
 Nicht weniger als eine Frage der Ehre war es meinem einundzwanzigjährigen Selbst, kaum dass Fallbrawl ihr passenderweise "Cold World" betiteltes Erstlingswerk im fahlen Licht der Wirklichkeit auf den nasskalten Fliesenboden gepresst hatten, dem heldenhaft stoischen Schlachtruf von Optimus Prime auf eine Handvoll Prellungen (einschließlich Übernachtung im Doppelzimmer einer familiengeführten Pension) zum Charitycore ins sieben Bahnstunden entfernte Minden nachzureisen.
 
