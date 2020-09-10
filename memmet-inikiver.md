@@ -1,6 +1,6 @@
 #### Ice Nine Kills - The Silver Scream
 
-_26. September 2019_
+_26. September 2019 in Memento Metallum_
 
 Warnung, Fanboy-Gewäsch in drei, zwei, eins ...
 
