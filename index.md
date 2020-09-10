@@ -3,19 +3,28 @@
 [H wie in ... Honigwein aus Eierbechern](broplau-howabern.md)<br>
 _2020-06-07 in Brockhaus ist kein Plattenbau_
 
-_2019-03-29_ [G wie in ... Gaseruption to go](broplau-garutogo.md)
+[G wie in ... Gaseruption to go](broplau-garutogo.md)<br>
+_2019-03-29 in Brockhaus ist kein Plattenbau_
 
-_2019-02-04_ [F wie in ... Freibad-Romanzen](broplau-frebaron.md)
+[F wie in ... Freibad-Romanzen](broplau-frebaron.md)<br>
+_2019-02-04 in Brockhaus ist kein Plattenbau_
 
-_2018-01-31_ [E wie in ... Éclat de Toilette](broplau-edelette.md)
+[E wie in ... Éclat de Toilette](broplau-edelette.md)<br>
+_2018-01-31 in Brockhaus ist kein Plattenbau_
 
-_2017-07-19_ [D wie in ... Discountwarenbeförderungsmittellogistiker](broplau-discologi.md)
+[D wie in ... Discountwarenbeförderungsmittellogistiker](broplau-discologi.md)<br>
+_2017-07-19 in Brockhaus ist kein Plattenbau_
 
-_2017-04-07_ [C wie in ... Cyber-Mobbing im Frühstadium](broplau-cybobing.md)
+[C wie in ... Cyber-Mobbing im Frühstadium](broplau-cybobing.md)<br>
+_2017-04-07 in Brockhaus ist kein Plattenbau_
 
-_2016-11-28_ [B wie in ... Blutorange ex](broplau-blutorex.md)
+[B wie in ... Blutorange ex](broplau-blutorex.md)<br>
+_2016-11-28 in Brockhaus ist kein Plattenbau_
 
-_2016-11-08_ [A wie in ... Abwrack-Kondolenzen](broplau-abolenz.md)
+[A wie in ... Abwrack-Kondolenzen](broplau-abolenz.md)<br>
+_2016-11-08 in Brockhaus ist kein Plattenbau_
+
+<hr>
 
 #### Kurts Filme _(seit 2020)_
 
