@@ -1,6 +1,6 @@
 #### Torture Killer - Swarm!
 
-_1. Juni 2019_
+_1. Juni 2019 in Memento Metallum_
 
 Es war einmal vor langer, langer Zeit, in dem Land, in dem Lakritzliköre und einkommensabhängige Bußgelder fließen, das Jahr Zweitausendundsechs. Vier Mal war der Erdball bereits zu seinem Streifzug um die Sonne angetreten, seit im finnischen Ballungsraum fünf Freunde infernalischer Spielarten mobil gemacht hatten, um zu tun, was Freunde infernalischer Spielarten aus dem finnischen Ballungsraum üblicherweise so tun: mit vereinten Fähigkeiten durch das Unterholz des US-amerikanischen Oldschool-Deathmetal pflügen. So trug es sich zu, dass eines ihrer weitschweifig besungenen Vorbilder, bis in die letzte Dreadlockspitze von Schaffenskraft und Nächstenliebe beseelt, die Erfüllung im Tagwerk seiner Eiferer zu suchen begann - und zwar in kreativer wie gutturaler Ausnahmeform, wie es der Widerhall aus einschlägigen Fachkreisen bald darauf verlautbaren ließ.
 
