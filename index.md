@@ -28,7 +28,10 @@ _2016-11-08 in Brockhaus ist kein Plattenbau_
 
 #### Kurts Filme _(seit 2020)_
 
-_2020-08-21_ [Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](kf.md)
+[Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](kurfil-eruzwan.md)<br>
+_2020-08-21 in Kurts Filme_
+
+<hr>
 
 #### Memento Metallum _(seit 2019)_
 
