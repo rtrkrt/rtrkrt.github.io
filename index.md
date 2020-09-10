@@ -42,23 +42,34 @@ _2020-08-21 in Kurts Filme_
 
 #### Memento Metallum<br>_(seit 2019)_
 
-_2020-05-24_ [Herzblatt: Die Black-Metal-Edition](mm.md)
+[Herzblatt: Die Black-Metal-Edition](memmet-heblabla.md)<br>
+_2020-05-24 in Memento Metallum_
 
-_2019-12-12_ [Fallbrawl - Darkness](mm.md)
+[Fallbrawl - Darkness](memmet-fabress.md)<br>
+_2019-12-12 in Memento Metallum_
 
-_2019-12-02_ [Hollow Prophet / Scumfuck - Scumprophet](mm.md)
+[Hollow Prophet / Scumfuck - Scumprophet](memmet-hofupret.md)<br>
+_2019-12-02 in Memento Metallum_
 
-_2019-11-14_ [Enter Shikari - Take To The Skies](mm.md)
+[Enter Shikari - Take To The Skies](memmet-enartokies.md)<br>
+_2019-11-14 in Memento Metallum_
 
-_2019-10-20_ [Napalm Death - Smear Campaign](mm.md)
+[Napalm Death - Smear Campaign](memmet-nademarn.md)<br>
+_2019-10-20 in Memento Metallum_
 
-_2019-09-26_ [Ice Nine Kills - The Silver Scream](mm.md)
+[Ice Nine Kills - The Silver Scream](memmet-inikiver.md)<br>
+_2019-09-26 in Memento Metallum_
 
-_2019-06-01_ [Torture Killer - Swarm!](mm.md)
+[Torture Killer - Swarm!](memmet-torkiwa.md)<br>
+_2019-06-01 in Memento Metallum_
 
-_2019-01-27_ [Within Destruction - D E A T H W I S H](mm.md)
+[Within Destruction - D E A T H W I S H](memmet-widewis.md)<br>
+_2019-01-27 in Memento Metallum_
 
-_2019-01-15_ [Operation Cunt Destroyer - Slam Before Time](mm.md)
+[Operation Cunt Destroyer - Slam Before Time](memmet-opuslat.md)<br>
+_2019-01-15 in Memento Metallum_
+
+<hr>
 
 [Zusammengereimtes](zusates.md)<br>
 _seit 2011_
