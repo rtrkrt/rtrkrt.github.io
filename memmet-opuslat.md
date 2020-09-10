@@ -1,6 +1,6 @@
 #### Operation Cunt Destroyer - Slam Before Time
 
-_15. Januar 2019_
+_15. Januar 2019 in Memento Metallum_
 
 Allein bei dem Anblick der aus paläozoologischer Sicht vermutlich himmelschreiend inakkuraten Darstellung artübergreifender Kopulation dürfte jedem ehrenamtlich verpflichteten Sittenwächter das Klappmesser in der Hosentasche aufspringen. Das hat man wohl davon, wenn man sich vom einheitsrotbraunen Groß aus dilettantischer Mutilation und glorifizierter Leichenschändung abheben will, das die übliche Ästhetik des Genres bestimmt.
 
