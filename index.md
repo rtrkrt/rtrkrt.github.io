@@ -1,3 +1,10 @@
+#### Aus dem Leben eines Spitzenprädators _(seit 2012)_
+
+[Aus dem Leben eines Spitzenprädators](adeles.md)
+_2020-10-09_
+
+<hr>
+
 #### Brockhaus ist kein Plattenbau _(seit 2016)_
 
 [H wie in ... Honigwein aus Eierbechern](broplau-howabern.md)<br>
