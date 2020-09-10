@@ -71,13 +71,16 @@ _2019-01-15 in Memento Metallum_
 
 <hr>
 
+#### Am Anfang war Fireworks
+
+[Mortal Storm](afafiwo-morstorm.md)<br>
+_2006 bis 2007_
+
+<hr>
+
 [Zusammengereimtes](zusates.md)<br>
 _seit 2011_
 
 [Altlast-Impressionen](alapron.md)<br>
 _seit 2020_
 
-#### Am Anfang war Fireworks
-
-[Mortal Storm](afafiwo-morstorm.md)<br>
-_2006 bis 2007_
