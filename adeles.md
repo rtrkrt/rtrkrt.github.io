@@ -1,6 +1,6 @@
 #### Aus dem Leben eines Spitzenprädators
 
-_5. September 2020 in Aus dem Leben eines Spitzenprädators_
+_5. September 2020_
 
 Ich: „KON...“
 
@@ -18,47 +18,25 @@ Ich: „KONTRABASS!“
 
 Kind: „Ich sag’ das, wie ich will!“
 
-<hr>
-
-#### Aus dem Leben eines Spitzenprädators
-
-_26. August 2020 in Aus dem Leben eines Spitzenprädators_
+_26. August 2020_
 
 Kein Absatzmarkt kann so hart umkämpft sein wie der für Gesellschaftsspiele, wenn bereits ein so ernüchterndes Prädikat wie "Auf der Auswahlliste 'Spiel des Jahres 2017'" es wert ist, die aufwendig gestaltete Produktverpackung zu zieren!
 
-<hr>
-
-#### Aus dem Leben eines Spitzenprädators
-
-_13. August 2020 in Aus dem Leben eines Spitzenprädators_
+_13. August 2020_
 
 Urlaub im Freizeitpark, Tag 3. Frustration macht sich breit angesichts ausbleibender Erkenntnisse in der Frage, wie groß die Entfernung zwischen den Aberhundert Abfallbehältern auf dem Parkgelände höchstens sein darf, dass kein Unrat mehr achtlos in der Botanik oder kurzerhand auf den Gehwegen entsorgt wird. Gelernt habe ich bislang nur so viel: 5 Meter sind noch zu weit!
 
-<hr>
-
-#### Aus dem Leben eines Spitzenprädators
-
-_10. August 2020 in Aus dem Leben eines Spitzenprädators_
+_10. August 2020_
 
 Vierzehn Jahre Abitur und noch immer voller Stolz, dem Englisch-Leistungskurs angehört zu haben, welcher die Lehrkraft dazu veranlasste, ihre Aufgabenstellung „Präsentiert einen englischsprachigen Song eurer Wahl!“ für die nachfolgenden Jahrgänge in „Präsentiert einen englischsprachigen Song eurer Wahl, der mich nicht in unerträgliche Agonie versetzt!“ zu ändern.
 
-<hr>
-
-#### Aus dem Leben eines Spitzenprädators
-
-_2. August 2020 in Aus dem Leben eines Spitzenprädators_
+_2. August 2020_
 
 Die Vorboten des ostdeutschen Badeurlaubs: Melonenschnitze aus dem 1-Liter-Eimer Bautz’ner „mittelscharf“.
 
-<hr>
-
-#### Aus dem Leben eines Spitzenprädators
-
-_27. Juli 2020 in Aus dem Leben eines Spitzenprädators_
+_27. Juli 2020_
 
 Vormund - Deutsch, Deutsch - Vormund: „Ich sage es nicht noch einmal!“ - „Ich sage es allerhöchstens noch 4 Mal, bevor ich mich garantiert nur noch 3 Mal wiederhole!“
-
-<hr>
 
 _18. Juni 2020_
 
