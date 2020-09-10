@@ -1,6 +1,6 @@
 #### Enter Shikari - Take To The Skies
 
-_14. November 2019_
+_14. November 2019 in Memento Metallum_
 
 Uckermärkische Bühnen, irgendwann 2008. Drei hochdekorierte Moshpit-Recken zwischen zwanzig und fünfundzwanzig Jahren haben sich auf den Weg ins geistig-kulturelle Epizentrum ihres Heimatortes begeben. Auf den Steinstufen zur Theaterpforte entfacht ein durch Goldkrone und Johannisbeersaft befeuerter Diskurs über die umgreifende Gehemmtheit unter eingefleischten Metalcore-Enthusiasten, sich als Freunde des ins Zuckersüße hybridisierten Wirkens auf dem Langspiel-Debüt der aufstrebenden Enter Shikari zu bekennen. Wenig später. Drei hochderangierte Moshpit-Recken zwischen anderthalb und zwei Promille grölen Textpassagen aus "Sorry You're Not a Winner" zu dem Gedudel eines schwachbrüstigen Vorläufers heutiger Bluetooth-Lautsprecher in die merklich aufgefrischte Spätsommernacht hinaus. Das unerlässliche Mitklatschen bei der 30-Sekunden-Marke könnte besser getimt sein ...
 
