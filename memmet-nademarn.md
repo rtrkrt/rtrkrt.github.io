@@ -1,6 +1,6 @@
 #### Napalm Death - Smear Campaign
 
-_20. Oktober 2019_
+_20. Oktober 2019 in Memento Metallum_
 
 Zu der Zeit, als sie mit "Smear Campaign" an der Seite von Waffenbrüdern wie All Shall Perish oder Amon Amarth, über deren Qualitäten ich bei passender Gelegenheit zu befinden haben werde, zum neuerlichen Angriff auf den auditiven Cortex bliesen, wusste ich über 25 Jahre Napalm Death kaum mehr zu berichten, als dass ihr Guinness-Buch-gewürdigtes "You Suffer" das wohl trefflichste Ein-Sekunden-Musikstück in der übersichtlichen Geschichte trefflicher Ein-Sekunden-Musikstücke sein musste.
 
