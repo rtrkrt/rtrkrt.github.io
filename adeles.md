@@ -1,5 +1,13 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_10. September 2020_
+
+Namenssuche im Jahr 2071 ...
+
+Sie: „Was hältst du von Finn Joel?“
+
+Er: „Findest du das nicht ein bisschen altmodisch, Chickaletta-Rocher?“
+
 _5. September 2020_
 
 Ich: „KON...“
