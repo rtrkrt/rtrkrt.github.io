@@ -79,4 +79,5 @@ _seit 2020_
 
 #### Am Anfang war Fireworks
 
-[Mortal Storm](afafiwo.md)
+[Mortal Storm](afafiwo-morstorm.md)<br>
+_2006 bis 2007_
