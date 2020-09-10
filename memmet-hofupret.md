@@ -1,6 +1,6 @@
 #### Hollow Prophet / Scumfuck - Scumprophet
 
-_2. Dezember 2019_
+_2. Dezember 2019 in Memento Metallum_
 
 Grenzen. Und warum sie so wichtig sind. Darüber sollten wir uns dringend einmal unterhalten! Nicht, dass ein kleines bisschen orchestriertes Weltgericht keine Bereicherung für jede Form gesellschaftlicher Anlässe darstellen würde. Von mesopotamischen Geistwesen in Besitz genommene Nachwuchs-Poser hingegen, die erbarmungslos mit sardonischen Tierlauten um sich werfend meine gesamte Blutlinie zu einem Leben in freudloser Knechtschaft unter chronischem Reizdarmsyndrom verfluchen, dass mir der Geifer nur so vor die Stirnseite wogt - DAS (man sehe es mir nach) wäre so eine dieser Grenzen, auf die ich hinaus will!
 
