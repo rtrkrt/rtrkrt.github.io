@@ -42,6 +42,9 @@ _2020-08-21 in Kurts Filme_
 
 #### Memento Metallum<br>_(seit 2019)_
 
+[Within Destruction - Yōkai](memmet-wideyok.md)<br>
+_2020-09-15 in Memento Metallum_
+
 [Herzblatt: Die Black-Metal-Edition](memmet-heblabla.md)<br>
 _2020-05-24 in Memento Metallum_
 
