@@ -1,76 +1,76 @@
 #### Aus dem Leben eines Spitzenprädators<br>_(seit 2012)_
 
 [Aus dem Leben eines Spitzenprädators](adeles.md)<br>
-_2020-10-09 in Aus dem Leben eines Spitzenprädators_
+_2020-10-09_
 
 <hr>
 
 #### Brockhaus ist kein Plattenbau<br>_(seit 2016)_
 
 [H wie in ... Honigwein aus Eierbechern](broplau-howabern.md)<br>
-_2020-06-07 in Brockhaus ist kein Plattenbau_
+_2020-06-07_
 
 [G wie in ... Gaseruption to go](broplau-garutogo.md)<br>
-_2019-03-29 in Brockhaus ist kein Plattenbau_
+_2019-03-29_
 
 [F wie in ... Freibad-Romanzen](broplau-frebaron.md)<br>
-_2019-02-04 in Brockhaus ist kein Plattenbau_
+_2019-02-04_
 
 [E wie in ... Éclat de Toilette](broplau-edelette.md)<br>
-_2018-01-31 in Brockhaus ist kein Plattenbau_
+_2018-01-31_
 
 [D wie in ... Discountwarenbeförderungsmittellogistiker](broplau-discologi.md)<br>
-_2017-07-19 in Brockhaus ist kein Plattenbau_
+_2017-07-19_
 
 [C wie in ... Cyber-Mobbing im Frühstadium](broplau-cybobing.md)<br>
-_2017-04-07 in Brockhaus ist kein Plattenbau_
+_2017-04-07_
 
 [B wie in ... Blutorange ex](broplau-blutorex.md)<br>
-_2016-11-28 in Brockhaus ist kein Plattenbau_
+_2016-11-28_
 
 [A wie in ... Abwrack-Kondolenzen](broplau-abolenz.md)<br>
-_2016-11-08 in Brockhaus ist kein Plattenbau_
+_2016-11-08_
 
 <hr>
 
 #### Kurts Filme<br>_(seit 2020)_
 
 [Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](kurfil-eruzwan.md)<br>
-_2020-08-21 in Kurts Filme_
+_2020-08-21_
 
 <hr>
 
 #### Memento Metallum<br>_(seit 2019)_
 
 [Within Destruction - Yōkai](memmet-wideyok.md)<br>
-_2020-09-15 in Memento Metallum_
+_2020-09-15_
 
 [Herzblatt: Die Black-Metal-Edition](memmet-heblabla.md)<br>
-_2020-05-24 in Memento Metallum_
+_2020-05-24_
 
 [Fallbrawl - Darkness](memmet-fabress.md)<br>
-_2019-12-12 in Memento Metallum_
+_2019-12-12_
 
 [Hollow Prophet / Scumfuck - Scumprophet](memmet-hofupret.md)<br>
-_2019-12-02 in Memento Metallum_
+_2019-12-02_
 
 [Enter Shikari - Take To The Skies](memmet-enartokies.md)<br>
-_2019-11-14 in Memento Metallum_
+_2019-11-14_
 
 [Napalm Death - Smear Campaign](memmet-nademarn.md)<br>
-_2019-10-20 in Memento Metallum_
+_2019-10-20_
 
 [Ice Nine Kills - The Silver Scream](memmet-inikiver.md)<br>
-_2019-09-26 in Memento Metallum_
+_2019-09-26_
 
 [Torture Killer - Swarm!](memmet-torkiwa.md)<br>
-_2019-06-01 in Memento Metallum_
+_2019-06-01_
 
 [Within Destruction - D E A T H W I S H](memmet-widewis.md)<br>
-_2019-01-27 in Memento Metallum_
+_2019-01-27_
 
 [Operation Cunt Destroyer - Slam Before Time](memmet-opuslat.md)<br>
-_2019-01-15 in Memento Metallum_
+_2019-01-15_
 
 <hr>
 
