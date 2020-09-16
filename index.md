@@ -1,11 +1,11 @@
-#### Aus dem Leben eines Spitzenprädators<br>_(seit 2012)_
+#### Aus dem Leben eines Spitzenprädators
 
 [Aus dem Leben eines Spitzenprädators](adeles.md)<br>
 _2020-10-09_
 
 <hr>
 
-#### Brockhaus ist kein Plattenbau<br>_(seit 2016)_
+#### Brockhaus ist kein Plattenbau
 
 [H wie in ... Honigwein aus Eierbechern](broplau-howabern.md)<br>
 _2020-06-07_
@@ -33,14 +33,14 @@ _2016-11-08_
 
 <hr>
 
-#### Kurts Filme<br>_(seit 2020)_
+#### Kurts Filme
 
 [Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](kurfil-eruzwan.md)<br>
 _2020-08-21_
 
 <hr>
 
-#### Memento Metallum<br>_(seit 2019)_
+#### Memento Metallum
 
 [Within Destruction - Yōkai](memmet-wideyok.md)<br>
 _2020-09-15_
