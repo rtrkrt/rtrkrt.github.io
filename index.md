@@ -79,6 +79,9 @@ _2019-01-15 in Memento Metallum_
 [Mortal Storm](afafiwo-morstorm.md)<br>
 _2006 bis 2007_
 
+[Skin City](afafiwo-skinity.md)<br>
+_2001 bis 2002_
+
 <hr>
 
 [Zusammengereimtes](zusates.md)<br>
