@@ -1,6 +1,6 @@
 #### Skin City
 
-_2001 bis 2002_
+_Mit Skin City verwaltet - oder, wahrscheinlicher, verwaltete - Ralf Rohr die wohl größte Sammlung von Charakter-Skins und -Models für das PC-Spiel Unreal Tournament und dessen Nachfolger, was ein renommiertes Spielemagazin dazu veranlasste, ihm den etwas makaberen Beinamen "Herr der Häute" zu verpassen. Auch mein 14-jähriges Ich (Jugendschützer!) hat mit Feuereifer und diversen Eigenkreationen von durchwachsener Qualität zu dieser Sammlung beigetragen._
 
 [E-Killers](https://rtrkrt.4lima.de/afafiwo/skinity/skinity_ekille.jpg)<br>
 _2002-??-?? in Skin City_
