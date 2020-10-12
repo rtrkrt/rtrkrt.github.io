@@ -1,6 +1,6 @@
 #### WG: Pit-Arbeiter des Monats gesucht!
 
-_12. Oktober 2020_
+_12. Oktober 2020 in Memento Metallum_
 
 Liebe Mitmosherinnen,<br>
 liebe Mitmosher,
