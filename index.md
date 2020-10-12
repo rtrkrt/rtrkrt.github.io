@@ -42,6 +42,9 @@ _2020-08-21_
 
 #### Memento Metallum
 
+[WG: Pit-Arbeiter des Monats gesucht!](memmet-piamiage.md)<br>
+_2020-10-12_
+
 [Within Destruction - Yōkai](memmet-wideyok.md)<br>
 _2020-09-15_
 
