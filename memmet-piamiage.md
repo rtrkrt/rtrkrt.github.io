@@ -1,5 +1,7 @@
 #### WG: Pit-Arbeiter des Monats gesucht!
 
+_12. Oktober 2020_
+
 Liebe Mitmosherinnen,<br>
 liebe Mitmosher,
 
@@ -13,7 +15,6 @@ Gemeinsam mit euch werde ich weiter daran arbeiten, das zu bewahren, was vor 15 
 
 Kollegiale Grüße<br>
 Euer Kurt
-
 
 _(1) Ich wähle Jugendkultur für 200: Job For A Cowboy - Doom (2005)_
 
