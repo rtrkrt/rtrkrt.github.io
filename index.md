@@ -45,7 +45,7 @@ _2020-08-21_
 [WG: Pit-Arbeiter des Monats gesucht!](memmet-piamiage.md)<br>
 _2020-10-12_
 
-[Within Destruction - Yōkai](memmet-wideyok.md)<br>
+[(SERIE) Dieser Termin steht jeden Tag an](memmet-sertetan.md)<br>
 _2020-09-15_
 
 [Herzblatt: Die Black-Metal-Edition](memmet-heblabla.md)<br>
