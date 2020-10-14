@@ -1,5 +1,21 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_14. Oktober 2020_
+
+Sie: "Schneidest du mir bitte drei Scheiben Brot ab?"
+
+Er: "Drei, ja?"
+
+Sie: "Ja, aber nicht so dicke. Oder zwei dicke. Oder zwei dünne und eine dicke."
+
+Er: "..."
+
+Sie: "..."
+
+Er: "Drei, ja?"
+
+Sie: "Ja."
+
 _10. September 2020_
 
 Namenssuche im Jahr 2071 ...
