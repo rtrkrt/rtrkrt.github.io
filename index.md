@@ -1,7 +1,7 @@
 #### Aus dem Leben eines Spitzenprädators
 
 [Aus dem Leben eines Spitzenprädators](adeles.md)<br>
-_2020-10-14_
+_2020-10-19_
 
 <hr>
 
