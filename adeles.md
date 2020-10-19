@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_19. Oktober 2020_
+
+Frauen! Den lieben langen Tag liegen sie dir mit ihrem „gemütlichen Couch-Abend“ in den Ohren. Aber gemeinsam Tierdokus schauen und Dinge wie „‚Kegelrobbe‘ klingt voll nach dir!“ zu äußern, ist auch wieder nicht richtig!
+
 _14. Oktober 2020_
 
 Sie: "Schneidest du mir bitte drei Scheiben Brot ab?"
