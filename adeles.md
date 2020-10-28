@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_28. Oktober 2020_
+
+... und Musik-Streamingdienste so: "Du stehst also auf 'Perverse Recollections Of A Necromangler' von Waking The Cadaver? Dann solltest du dir unbedingt 'LIEBE' von Mark Forster anhören!"
+
 _19. Oktober 2020_
 
 Frauen! Den lieben langen Tag liegen sie dir mit ihrem „gemütlichen Couch-Abend“ in den Ohren. Aber gemeinsam Tierdokus schauen und Dinge wie „‚Kegelrobbe‘ klingt voll nach dir!“ zu äußern, ist auch wieder nicht richtig!
