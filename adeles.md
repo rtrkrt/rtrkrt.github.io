@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_17. November 2020_
+
+Was sind das eigentlich für Menschen, die die Sahnehaube unter ihren Schokoladenpudding rühren? Und kommen die wenigstens in Sicherungsverwahrung, sobald sie ihre Haftstrafe abgesessen haben?
+
 _28. Oktober 2020_
 
 ... und Musik-Streamingdienste so: "Du stehst also auf 'Perverse Recollections Of A Necromangler' von Waking The Cadaver? Dann solltest du dir unbedingt 'LIEBE' von Mark Forster anhören!"
