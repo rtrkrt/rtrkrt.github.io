@@ -1,5 +1,24 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_10. Dezember 2020_
+
+Ich nenne es „Das Lied der Kündigerrückgewinnung“ ...
+
+Vertrag verlängern und Gutschrift sichern:<br>
+Nur noch bis zum 11.02.! <br>
+Letzte Chance, nur noch heute!
+
+Vertrag verlängern und Gutschrift sichern: <br>
+Nur noch bis zum 18.02.! <br>
+Letzte Chance, nur noch heute!
+
+Vertrag verlängern und Gutschrift sichern: <br>
+Nur noch bis zum 25.02.! <br>
+Letzte Chance, nur noch heute!
+
+Vertrag verlängern und Gutschrift sichern: <br>
+Nur noch ...
+
 _17. November 2020_
 
 Was sind das eigentlich für Menschen, die die Sahnehaube unter ihren Schokoladenpudding rühren? Und kommen die wenigstens in Sicherungsverwahrung, sobald sie ihre Haftstrafe abgesessen haben?
