@@ -60,7 +60,7 @@ _2020-05-24_
 [Fallbrawl - Darkness](memmet-fabress.md)<br>
 _2019-12-12_
 
-[Hollow Prophet / Scumfuck - Scumprophet](memmet-hofupret.md)<br>
+[Levitikus 18,23a: "Du sollst nicht lautäußern in den Zungen des Viehzeugs."](memmet-levilauzu.md)<br>
 _2019-12-02_
 
 [Enter Shikari - Take To The Skies](memmet-enartokies.md)<br>
