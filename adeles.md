@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_13. Dezember 2020_
+
+"Kinder"? Du meinst kleine Personen, die so wertschätzende Dinge sagen wie "Hast du nur die gelben Lichterketten rangemacht? Das ist ja voll langweilig ..."?!
+
 _10. Dezember 2020_
 
 Ich nenne es „Das Lied der Kündigerrückgewinnung“ ...
