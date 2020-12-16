@@ -75,7 +75,7 @@ _2019-09-26_
 [Torture Killer - Swarm!](memmet-torkiwa.md)<br>
 _2019-06-01_
 
-[Within Destruction - D E A T H W I S H](memmet-widewis.md)<br>
+[Ich - Einfach oberflächlich](memmet-ifaobich.md)<br>
 _2019-01-27_
 
 [Operation Cunt Destroyer - Slam Before Time](memmet-opuslat.md)<br>
