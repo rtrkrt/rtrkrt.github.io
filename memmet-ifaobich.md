@@ -1,0 +1,9 @@
+#### Ich - Einfach oberflächlich
+
+_27. Januar 2019 in Memento Metallum_
+
+Denke ich an die Zeit im Ausbildungsbetrieb zurück, da sich der größte Teil meiner Musikeinkäufe danach entschied, welche CD-Hülle bei ihrer elektronischen Erfassung während der halbjährlichen Tonträger-Inventur den meisten Eindruck zu schinden vermochte, so hege ich nicht den geringsten Zweifel, dass dieses Vorzeigeexemplar unheilvollen Grafikdesigns alsogleich in meinen verlotterten Eastpak und Within Destruction schließlich zu den anderen Krachbrüdern ins heimische Stufenregal vom Möbel-Discounter gewandert wären. Ein wahrer Glücksgriff, wie sich mit den ersten Tönen aus der ELAC-Einstiegsklasse herausgestellt hätte: druckvoll, dynamisch, durchgestylt vom Eröffnungs-Sample bis zum letzten Ellbogencheck._(1)_
+
+Heute läuft das selbstverständlich anders … heute ist eine dauerhafte Verpflichtung in der Musikbibliothek davon abhängig, welches Vorschaubild inmitten der verhaltensbasierten „Schon gehört?“-Produkteinblendungen diverser Streaming-Anbieter das meisten Augenmerk für sich zu beanspruchen weiß, woraufhin geeigneten Aspiranten mittels Sprachassistentin kurzerhand ein Platz auf der „Später anhören“-Ersatzbank zugewiesen wird und spätestens beim abendlichen Wäschefalten „D E A T H W I S H“ aus dem 360-Grad-Kompaktlautsprecher wallt: atmosphärisch dicht, mit augenzwinkernder Poser-Attitüde und einem außergewöhnlichen Stimmspektrum. Vielleicht hat sich ja doch nicht allzu viel geändert …
+
+_(1) Gut designt ist halb gekauft: Within Destruction - Deathwish (2018)_
