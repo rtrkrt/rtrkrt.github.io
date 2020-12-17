@@ -1,0 +1,9 @@
+#### Von einem, der auszog, das Fürchten zu lehren
+
+_1. Juni 2019 in Memento Metallum_
+
+Es war einmal vor langer, langer Zeit, in dem Land, in dem Lakritzliköre und einkommensabhängige Bußgelder fließen, das Jahr Zweitausendundsechs. Vier Mal war der Erdball bereits zu seinem Streifzug um die Sonne angetreten, seit im finnischen Ballungsraum fünf Freunde infernalischer Spielarten mobil gemacht hatten, um zu tun, was Freunde infernalischer Spielarten aus dem finnischen Ballungsraum üblicherweise so tun: mit vereinten Fähigkeiten durch das Unterholz des US-amerikanischen Oldschool-Deathmetal pflügen. So trug es sich zu, dass eines ihrer weitschweifig besungenen Vorbilder, bis in die letzte Dreadlockspitze von Schaffenskraft und Nächstenliebe beseelt, die Erfüllung im Tagwerk seiner Eiferer zu suchen begann - und zwar in kreativer wie gutturaler Ausnahmeform, wie es der Widerhall aus einschlägigen Fachkreisen bald darauf verlautbaren ließ.
+
+Und wahrlich, vom ersten leprösen Knurren an bahnen sich morastige Rhythmen, einem Schwarm Schmeißfliegen gleich, unbeirrbar ihren Weg durch den Gehörkanal, derweil das abscheuliche Zerrbild eines Barden Geschichten aus tausend und einer Pandemie zum Besten gibt und mit jedem Lautenschlag weiter auf den Punkt der vollständigen Verwesung zusteuert. So waten sie, den Sumpf aus eingängigem Mittelklasse-Death zu ihren Füßen, vorbei an amtlichen Mitgröl-Kleinoden und waschechten Klassikern, fünf Freunde infernalischer Spielarten und ihr gemeinsames Idol, verbunden im Geiste der Mutilation und der Menschenfresserei, bis dass kreative Differenzen sie wieder scheiden. Und wenn sie nicht die Legionellen aus der Nebelmaschine eines zwielichtigen Konzertveranstalters dahingerafft haben, dann sorgen sie noch heute für kreisendes Haupthaar und schweißnasse Tourshirts._(1)_
+
+_(1) Wie aus tausend und einer Zombieplage: Torture Killer - Swarm!_
