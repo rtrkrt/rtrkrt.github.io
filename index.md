@@ -72,7 +72,7 @@ _2019-10-20_
 [Warnung, Fanboy-Gewäsch in drei, zwei, eins ...](memmet-wafabogewa.md)<br>
 _2019-09-26_
 
-[Torture Killer - Swarm!](memmet-torkiwa.md)<br>
+[Von einem, der auszog, das Fürchten zu lehren](memmet-vonedafu.md)<br>
 _2019-06-01_
 
 [Ich - Einfach oberflächlich](memmet-ifaobich.md)<br>
