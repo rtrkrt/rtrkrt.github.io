@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_24. Dezember 2020_
+
+O du fröhliche, Tag 1: "Papa, darf ich beim Mandarinenschälen helf... - UPS, zermatscht - ich geh' in meinem Zimmer  spielen!"
+
 _13. Dezember 2020_
 
 "Kinder"? Du meinst kleine Personen, die so wertschätzende Dinge sagen wie "Hast du nur die gelben Lichterketten rangemacht? Das ist ja voll langweilig ..."?!
