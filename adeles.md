@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_25. Dezember 2020_
+
+O du fröhliche, Tag 2: "Papa, hör mal, die Geräusche, wenn man das Rohr vom Staubsauger GANZ! DOLL! HERUMSCHLEUDERT!"
+
 _24. Dezember 2020_
 
 O du fröhliche, Tag 1: "Papa, darf ich beim Mandarinenschälen helf... - UPS, zermatscht - ich geh' in meinem Zimmer  spielen!"
