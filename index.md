@@ -78,7 +78,7 @@ _2019-06-01_
 [Ich - Einfach oberflächlich](memmet-ifaobich.md)<br>
 _2019-01-27_
 
-[Operation Cunt Destroyer - Slam Before Time](memmet-opuslat.md)<br>
+[BDC präsentiert: Im Laich der Giganten](memmet-iladegen.md)<br>
 _2019-01-15_
 
 <hr>
