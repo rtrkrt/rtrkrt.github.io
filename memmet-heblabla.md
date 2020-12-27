@@ -2,7 +2,7 @@
 
 _24. Mai 2020 in Memento Metallum_
 
-_... und das wird unsere Susi jetzt nochmal in knappen Worten zusammenfassen ..._
+... und das wird unsere Susi jetzt nochmal in knappen Worten zusammenfassen ...
 
 Experten sind sich heute einig, es gibt Schwarz, und es gibt schwärzeres Schwarz. Wie finster es bei deinem Black-Metal-Herzblatt zugehen soll, diese Entscheidung liegt derweil ganz bei dir, mein lieber Kurt!
 
