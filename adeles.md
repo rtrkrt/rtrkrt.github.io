@@ -1,5 +1,13 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_26. Dezember 2020_
+
+O du fröhliche, Tag 3: Das erste Haiku, immer besonders ...
+
+"Löwen fressen Fleisch<br>
+Langhälse fressen Blätter<br>
+Krokodile nicht"
+
 _25. Dezember 2020_
 
 O du fröhliche, Tag 2: "Papa, hör mal, die Geräusche, wenn man das Rohr vom Staubsauger GANZ! DOLL! HERUMSCHLEUDERT!"
