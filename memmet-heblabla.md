@@ -2,11 +2,11 @@
 
 _24. Mai 2020 in Memento Metallum_
 
-> Nur echt mit 52 Anklagepunkten: Mayhem - Live In Leipzig (1993)
-
 _... und das wird unsere Susi jetzt nochmal in knappen Worten zusammenfassen ..._
 
 Experten sind sich heute einig, es gibt Schwarz, und es gibt schwärzeres Schwarz. Wie finster es bei deinem Black-Metal-Herzblatt zugehen soll, diese Entscheidung liegt derweil ganz bei dir, mein lieber Kurt!
+
+> Nur echt mit 52 Anklagepunkten: Mayhem - Live In Leipzig (1993)
 
 Da wäre Kandidat Nummer eins: Leif „Gutblaster“ Baluschke. Der in seiner unumstößlichen Geisteshaltung verhaftete Traditionalist hat dank seines besonderen Gespürs für sinistre Klangspektren und aus naiver Bitternis treibende Wertvorstellungen die Genese des nordeuropäischen Waschküchen-Sounds entscheidend geprägt. Wenn auch deine Begeisterung für kapitale Gräuel und mit suizidalem Vorsatz versprengte Hirnmasse keine Grenzen kennt, dann freue dich auf lauschige Nächte bei (anti-)theistischem Identitätsdefekt und kriegslüsternem Narrativ im Schein lodernder Gotteshäuser!
 
