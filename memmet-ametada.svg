@@ -1,27 +1,25 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="400">
+<foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
         <ul>
-            <li>
             <script language="JavaScript">
 quotes = new Array(10);
-quotes[0] = "IT'S ALL DOWNHILL FROM HERE!";
-quotes[1] = "THEIR CULT WAS DEATH...THEIR LUST WAS FOR BLOOD!";
-quotes[2] = "IT'S NOT HUMAN, AND IT'S GOT AN AXE!";
-quotes[3] = "A HORROR CHAMBER OF BLOOD AND GORE!";
-quotes[4] = "A CHILL-FILLED FESTIVAL OF HORROR!";
-quotes[5] = "WE DARE YOU TO SEE IT! WE DOUBLE-DARE YOU TO FORGET IT!";
-quotes[6] = "MEAT IS MEAT, BUT THIS SAUSAGE IS SPECIAL!";
-quotes[7] = "RABID, DRUG-INFESTED HIPPIES ON A BLOOD-CRAZED KILLING RAMPAGE!";
-quotes[8] = "...THE DAY THE INSANE TOOK OVER THE ASYLUM!";
-quotes[9] = "...THE SCREAMS YOU HEAR MAY BE YOUR OWN!";
-quotes[10] = "";
-quotes[11] = "";
+quotes[0] = "bild";
+quotes[1] = "bild";
+quotes[2] = "bild";
+quotes[3] = "bild";
+quotes[4] = "bild";
+quotes[5] = "bild";
+quotes[6] = "bild";
+quotes[7] = "bild";
+quotes[8] = "bild";
+quotes[9] = "bild";
+quotes[10] = "bild";
+quotes[11] = "bild";
 index = Math.floor(Math.random() * quotes.length);
 document.write("\n");
 document.write(quotes[index]);
 </script>
-            </li>
         </ul>
 </div>
 </foreignObject>
