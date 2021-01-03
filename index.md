@@ -1,5 +1,3 @@
-![](./memmet-ametada.svg)
-
 #### Aus dem Leben eines Spitzenprädators
 
 [Aus dem Leben eines Spitzenprädators](adeles.md)<br>
