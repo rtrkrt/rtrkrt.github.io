@@ -7,7 +7,7 @@ _2020-12-26_
 
 #### Brockhaus ist kein Plattenbau
 
-[I wie in ... Honigwein aus Eierbechern](broplau-indofribe.md)<br>
+[I wie in ... Indoor-Frisbee](broplau-indofribe.md)<br>
 _2021-01-08_
 
 [H wie in ... Honigwein aus Eierbechern](broplau-howabern.md)<br>
