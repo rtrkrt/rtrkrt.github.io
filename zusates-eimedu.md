@@ -1,6 +1,6 @@
 #### Eilmeldung
 
-_27. Juni 2011 in Zusammengereimtes_
+_??. ???? 20?? in Zusammengereimtes_
 
 Gesichtszug bei Abstecher entgleist.<br>
 Nervenbahn drückt ihr Bedauern aus.<br>
