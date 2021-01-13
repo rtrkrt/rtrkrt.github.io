@@ -86,6 +86,60 @@ _2019-01-15_
 
 <hr>
 
+#### Unerhört! - Zusammengereimtes
+
+Damenwahl 2020
+
+Nimbus
+
+Der Brief des Hans Schneider
+
+Blutzoll: Elisabeth
+
+SS M. C.
+
+Im Garten des Wiedererweckers
+
+Aufzug der Agitatoren
+
+Cäcilie
+
+Das Prinzessinnen-Stigma
+
+Ein Auszug
+
+Trauma
+
+Postmortale Sentenzen
+
+Königswürde, Gang 6
+
+Therapie
+
+Nachtmahr
+
+Damenwahl
+
+Der Schwarze Mann
+
+Der Esel und die Elster
+
+Verbrannte Erde
+
+Eilmeldung
+
+Der kleine Mann
+
+Herodes
+
+Geintherapie
+
+Kemper fidelis
+
+Charon
+
+<hr>
+
 #### Am Anfang war Fireworks
 
 [Mortal Storm](afafiwo-morstorm.md)<br>
