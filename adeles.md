@@ -1,5 +1,19 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_21. Februar 2021_
+
+Kind: Papi, was ist eigentlich schlimmer - wenn man blutet oder wenn man verbrennt?
+
+Ich: Wie meinst du das genau?
+
+Kind: Also, ich erkläre dir das mal: Was ist schlimmer - wenn man blutet oder wenn man verbrennt?
+
+Ich: ...
+
+Kind: ...
+
+Ich: Verbrennen. Verbrennen ist schlimmer.
+
 _26. Dezember 2020_
 
 O du fröhliche, Tag 3: Das erste Haiku, immer besonders ...
