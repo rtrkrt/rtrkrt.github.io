@@ -2,17 +2,17 @@
 
 _21. Februar 2021_
 
-Kind: Papi, was ist eigentlich schlimmer - wenn man blutet oder wenn man verbrennt?
+Kind: "Papi, was ist eigentlich schlimmer - wenn man blutet oder wenn man verbrennt?"
 
-Ich: Wie meinst du das genau?
+Ich: "Wie meinst du das genau?"
 
-Kind: Also, ich erkläre dir das mal: Was ist schlimmer - wenn man blutet oder wenn man verbrennt?
+Kind: "Also, ich erkläre dir das mal: Was ist schlimmer - wenn man blutet oder wenn man verbrennt?"
 
-Ich: ...
+Ich: "..."
 
-Kind: ...
+Kind: "..."
 
-Ich: Verbrennen. Verbrennen ist schlimmer.
+Ich: "Verbrennen. Verbrennen ist schlimmer."
 
 _26. Dezember 2020_
 
