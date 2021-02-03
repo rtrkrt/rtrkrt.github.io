@@ -1,6 +1,10 @@
 #### Aus dem Leben eines Spitzenprädators
 
-_21. Februar 2021_
+_03. Februar 2021_
+
+Die zwei sich stets wiederholenden Phasen des Kinderspiels sind Regieanweisung: "Und jetzt merken wir, dass da HUNDERT Feuermonster kommen und hier alles in Brand stecken wollen!" Und die unmittelbar darauffolgende, preisverdächtig theatralische Darbietung: "Oh nein, da kommen HUNDERT Feuermonster und wollen hier alles in Brand stecken!"
+
+_21. Januar 2021_
 
 Kind: "Papi, was ist eigentlich schlimmer - wenn man blutet oder wenn man verbrennt?"
 
