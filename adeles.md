@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_06. Februar 2021_
+
+Falls sich noch jemand von euch fragt, wie es ist, verheiratet zu sein: "Bei Streuselschnecken hört der Spaß auf!"
+
 _03. Februar 2021_
 
 Die zwei sich stets wiederholenden Phasen des Kinderspiels sind Regieanweisung: "Und jetzt merken wir, dass da HUNDERT Feuermonster kommen und hier alles in Brand stecken wollen!" Und die unmittelbar darauffolgende, preisverdächtig theatralische Darbietung: "Oh nein, da kommen HUNDERT Feuermonster und wollen hier alles in Brand stecken!"
