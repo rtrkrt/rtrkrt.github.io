@@ -1,0 +1,9 @@
+#### Lobgesänge: Die Vorgeschichte zu Fanboy-Gewäsch
+
+_16. Februar 2021 in Memento Metallum_
+
+Hast du eins­tens vielleicht auch im Leistungskurs für Englisch sitzen und Orwells „Farm der Tiere“ in all seine bedeutungsschwangeren Subatome zerlegen dürfen? Oder schon einmal nach nur wenigen Absätzen vor der übermannenden Seitenanzahl eines King-Romans kapituliert, ungeachtet der Tatsache, dass es sich um ein Geschenk deines Grundschulschwarms gehandelt hat? Oder bist du, wie ich des Öfteren, mit nichts als deinem Kindle und läppischen 99 Cent auf dem Guthabenkonto zwischen London und dem Herrschaftssitz eines fahlgesichtigen Eigenbrötlers in Zentralrumänien gependelt? Womöglich hältst du sogar an der irrwitzigen Überzeugung fest, du hättest die literaturhistorische Tragweite und Symbolkraft auch nur eines dieser Werke vollumfänglich begriffen ... ERBÄRMLICH!
+
+> Concept-Core in 10 Akten: Ice Nine Kills - Every Trick In The Book (2015)
+
+Hast du etwa jemals irgendwen dazu bewogen, sich bei der Wikipedia durch die unvermutet ausschweifende Synopsis zu Hardys „Tess von den d’Urbervilles“ zu wühlen, nur um denjenigen daraufhin dank deiner höchsteigenen musikalischen Auslegung des Stoffes an den Rand eines sturzbachartigen, gleichwohl unbestritten maskulinen Tränenausbruchs zu drängen? Oder den sich Bahn brechenden Untergang der Anne Frank in einem ebenso markzerreißenden wie sorgfältig recherchierten Breakdown verarbeitet? Oder dein Gefolge schmachtender Dreiviertel-Erwachsener allein durch den gekonnten Einsatz deiner Stimme glauben gemacht, dass die etwaige Bedrohung durch dämonische Kräfte eine in jeder Hinsicht ernstzunehmende und der leibhaftige Pazuzu gegenwärtig in der Gestalt eines nerdigen Rockmusikers an der US-Amerikanischen Ostküste auf Dummenfang ist? Nein? Dachte ich doch ... Die Jungs von Ice Nine Kills, DIE haben es begriffen!
