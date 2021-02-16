@@ -48,6 +48,9 @@ _2020-08-21_
 
 #### Memento Metallum
 
+[Lobgesänge: Die Vorgeschichte zu Fanboy-Gewäsch](memmet-logevoge.md)<br>
+_2021-02-16_
+
 [Linksversifft und längst vergriffen](memmet-liveren.md)<br>
 _2020-11-10_
 
