@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_19. Februar 2021_
+
+"Aber wir gucken noch, wie hoch die Corona-Zahlen in Sachsen sind!" ist also das neue "Bitte, Papa, nur noch 5 Minuten!"
+
 _06. Februar 2021_
 
 Falls sich noch jemand von euch fragt, wie es ist, verheiratet zu sein: "Bei Streuselschnecken hört der Spaß auf!"
