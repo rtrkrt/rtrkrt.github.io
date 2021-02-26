@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_26. Februar 2021_
+
+Sohnemann hat seinen ersten Witz erzählt: "Wie nennt man eine Bad-Küche? Schlitten!" - kapier' ich nicht ...
+
 _19. Februar 2021_
 
 "Aber wir gucken noch, wie hoch die Corona-Zahlen in Sachsen sind!" ist also das neue "Bitte, Papa, nur noch 5 Minuten!"
