@@ -1,6 +1,6 @@
 #### Antifa heißt Friendzone ...
 
-_4. Mai 2019 in #Rechtsabkratzen_
+_4. Mai 2019 in #RechtsAbkratzen_
 
 Heimatverl. Patriotin, 28/168/74, naturblond, anspr. Schädelumfang, sucht traditionsbew. Freiheitskämpfer für gem. Fackelzüge.
 
