@@ -89,6 +89,22 @@ _2019-01-15_
 
 <hr>
 
+#### #RechtsAbkratzen
+
+[Wehr Dich! Es ist Dein Land!](rechtsabkratzen_wehrdich.md)
+_2019-06-27_
+
+[Golden Shower Black Power](rechtsabkratzen_goldenshower.md)
+_2019-05-10_
+
+[Antifa heißt Friendzone ...](rechtsabkratzen_friendzone.md)
+_2019-05-04_
+
+[HKNKRZ](rechtsabkratzen_hknkrz.md)
+_2019-04-28_
+
+<hr>
+
 #### Unerhört! - Zusammengereimtes
 
 [Damenwahl 2020](zusates-dawazwa.md)<br>
