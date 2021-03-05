@@ -1,0 +1,7 @@
+#### Wir sind die Jugend ohne Migrationshintergrund.
+
+_5. März 2021 in #RechtsAbkratzen_
+
+Und ohne Bürgerkriegsneurosen. Ohne Massenverelendung. Ohne Hungerödem. Ohne Skarifizierungsriten. Ohne Kastenbestimmtheit. Ohne Zwangsverheiratung. Ohne Wassermangel. Ohne Kindssoldatentum. Ohne Digitalisierungsnotstand. Ohne Wellblechslums. Ohne Genitalverstümmelung. Ohne Jungfernmast. Ohne Schwermetallintoxikation. Ohne Bildungsentzug. Ohne Versteppungseffekt. Ohne ...
+
+![hintergrund](https://rtrkrt.4lima.de/rechtsabkratzen/rechtsabkratzen_hintergrund.jpg)
