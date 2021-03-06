@@ -75,7 +75,7 @@ _2019-11-14_
 [Napalm Death - Smear Campaign](mtllm191020.md)<br>
 _2019-10-20_
 
-[Warnung, Fanboy-Gewäsch in drei, zwei, eins ...](mtllm190626.md)<br>
+[Warnung, Fanboy-Gewäsch in drei, zwei, eins ...](mtllm190926.md)<br>
 _2019-09-26_
 
 [Von einem, der auszog, das Fürchten zu lehren](mtllm190601.md)<br>
