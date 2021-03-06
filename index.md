@@ -186,20 +186,3 @@ _20??-??-??_
 _20??-??-??_
 
 <hr>
-
-#### Am Anfang war Fireworks
-
-[Mortal Storm](afafiwo-morstorm.md)<br>
-_2006 bis 2007_
-
-[Skin City](afafiwo-skinity.md)<br>
-_2001 bis 2002_
-
-<hr>
-
-[Zusammengereimtes](zusates.md)<br>
-_seit 2011_
-
-[Altlast-Impressionen](alapron.md)<br>
-_seit 2020_
-
