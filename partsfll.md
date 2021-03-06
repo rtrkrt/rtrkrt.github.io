@@ -89,6 +89,19 @@ Zero Mentality haben sich einmal mehr weiterentwickelt, auf "Black Rock" gebärd
 
 <hr>
 
+#### Reaching Hand - Threshold
+
+_5. Oktober 2009_
+
+Sie sind produktiv, passioniert und bei ihnen hat die Frau das Sagen: Portugals Posi-Jungspunde von Reaching Hand haben die letzte ihrer wenigen Tourpausen darauf verwandt, eine Hand voll Tracks aufzunehmen und sie ihrer ausgehungerten Anhängerschaft in Form der EP "Threshold" zu präsentieren.
+Fünf Songs schicken sich also an, die Frage aufzuwerfen, ob die Truppe genauso heiß ist wie der Sommer des Jahres 2007, in welchem sie aus der Taufe gehoben wurde.
+
+Emotionsgeladene Gesichter und gereckte Fäuste, vermutliche Fans schreien sich zusammen mit der Band durch das energisch vorgetragene Programm, die Aufmachung der CD verfehlt ihre Wirkung nicht, ein Blick in das mit Live-Bildern optisch aufgepeppte Booklet macht dann deutlich, die acht Augen der Band scheinen stets geradeaus gerichtet zu sein. Always "make every moment count" ("Time And Again") and "trying [their] best" ("Insight"), gelegentlich werden alte Rechnungen beglichen ("Settle The Score"); das lyrische Standardrepertoire einer jeden Hardcore-Kapelle erfüllt einmal mehr seinen Zweck, solide, aber frei von Überraschungen.
+
+Ein ganz ähnliches Muster zieht sich auch durch die sonstige musikalische Gestaltung. Abgeh-Parts an den richtigen Stellen, ein paar Zeilen zum euphorischen Mitsingen und das Ganze mit weiblicher Röhre am Mikrofon, die hier und da aufhorchen lässt, denn bei Reaching Hand gibt es ausschließlich Geschrei statt zuckersüßer Gesangseinlagen. Das ist mit Sicherheit nicht das Portfolio der Wahl, wenn es darum geht, auf einschlägigen Flirtportalen um die Gunst eines potentiellen Lebensabschnittsgefährten zu buhlen, das Festhalten an der Einstellung "niedlich war gestern" vermag jedoch zu gefallen und den einen oder anderen Pluspunkt zu verbuchen. Die Zutaten stimmen, alte Schule und ein Quäntchen Melodie, welcher Koch hier jedoch den Brei verdorben hat, erscheint nicht eindeutig. Vielleicht ist "verdorben" auch ein zu hartes Wort für ein durchaus gelungenes Debut, dem es einfach an Individualität mangelt und das mitreißender, spannender hätte ausfallen können. Anspieltipps sind "Time And Again" und das derzeit auf dem MySpace-Profil der Band zur Verfügung stehende "Insight".
+
+<hr>
+
 #### Versus The Throne - Ruins Afire
 
 _26. September 2009_
