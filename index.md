@@ -1,37 +1,37 @@
 #### Aus dem Leben eines Spitzenprädators
 
-[Aus dem Leben eines Spitzenprädators](adeles.md)<br>
+[Aus dem Leben eines Spitzenprädators](sptznprdtr.md)<br>
 _2021-02-26_
 
 <hr>
 
 #### Brockhaus ist kein Plattenbau
 
-[I wie in ... Indoor-Frisbee](broplau-indofribe.md)<br>
+[I wie in ... Indoor-Frisbee](brckhs210108.md)<br>
 _2021-01-08_
 
-[H wie in ... Honigwein aus Eierbechern](broplau-howabern.md)<br>
+[H wie in ... Honigwein aus Eierbechern](brckhs200607.md)<br>
 _2020-06-07_
 
-[G wie in ... Gaseruption to go](broplau-garutogo.md)<br>
+[G wie in ... Gaseruption to go](brckhs190329.md)<br>
 _2019-03-29_
 
-[F wie in ... Freibad-Romanzen](broplau-frebaron.md)<br>
+[F wie in ... Freibad-Romanzen](brckhs190204.md)<br>
 _2019-02-04_
 
-[E wie in ... Éclat de Toilette](broplau-edelette.md)<br>
+[E wie in ... Éclat de Toilette](brckhs180131.md)<br>
 _2018-01-31_
 
-[D wie in ... Discountwarenbeförderungsmittellogistiker](broplau-discologi.md)<br>
+[D wie in ... Discountwarenbeförderungsmittellogistiker](brckhs170719.md)<br>
 _2017-07-19_
 
-[C wie in ... Cyber-Mobbing im Frühstadium](broplau-cybobing.md)<br>
+[C wie in ... Cyber-Mobbing im Frühstadium](brckhs170407.md)<br>
 _2017-04-07_
 
-[B wie in ... Blutorange ex](broplau-blutorex.md)<br>
+[B wie in ... Blutorange ex](brckhs161128.md)<br>
 _2016-11-28_
 
-[A wie in ... Abwrack-Kondolenzen](broplau-abolenz.md)<br>
+[A wie in ... Abwrack-Kondolenzen](brckhs161108.md)<br>
 _2016-11-08_
 
 <hr>
@@ -48,43 +48,43 @@ _2020-08-21_
 
 #### Memento Metallum
 
-[Lobgesänge: Die Vorgeschichte zu Fanboy-Gewäsch](memmet-logevoge.md)<br>
+[Lobgesänge: Die Vorgeschichte zu Fanboy-Gewäsch](mtllm210216.md)<br>
 _2021-02-16_
 
-[Linksversifft und längst vergriffen](memmet-liveren.md)<br>
+[Linksversifft und längst vergriffen](mtllm201110.md)<br>
 _2020-11-10_
 
-[WG: Pit-Arbeiter des Monats gesucht!](memmet-piamiage.md)<br>
+[WG: Pit-Arbeiter des Monats gesucht!](mtllm201012.md)<br>
 _2020-10-12_
 
-[(SERIE) Dieser Termin steht jeden Tag an](memmet-sertetan.md)<br>
+[(SERIE) Dieser Termin steht jeden Tag an](mtllm200915.md)<br>
 _2020-09-15_
 
-[Herzblatt: Die Black-Metal-Edition](memmet-heblabla.md)<br>
+[Herzblatt: Die Black-Metal-Edition](mtllm200524.md)<br>
 _2020-05-24_
 
-[Alle meine Hämatome](memmet-ametome.md)<br>
+[Alle meine Hämatome](mtllm191212.md)<br>
 _2019-12-12_
 
-[Levitikus 18,23a: "Du sollst nicht lautäußern in den Zungen des Viehzeugs."](memmet-levilauzu.md)<br>
+[Levitikus 18,23a: "Du sollst nicht lautäußern in den Zungen des Viehzeugs."](mtllm191202.md)<br>
 _2019-12-02_
 
-[Enter Shikari - Take To The Skies](memmet-enartokies.md)<br>
+[Enter Shikari - Take To The Skies](mtllm191114.md)<br>
 _2019-11-14_
 
-[Napalm Death - Smear Campaign](memmet-nademarn.md)<br>
+[Napalm Death - Smear Campaign](mtllm191020.md)<br>
 _2019-10-20_
 
-[Warnung, Fanboy-Gewäsch in drei, zwei, eins ...](memmet-wafabogewa.md)<br>
+[Warnung, Fanboy-Gewäsch in drei, zwei, eins ...](mtllm190626.md)<br>
 _2019-09-26_
 
-[Von einem, der auszog, das Fürchten zu lehren](memmet-vonedafu.md)<br>
+[Von einem, der auszog, das Fürchten zu lehren](mtllm190601.md)<br>
 _2019-06-01_
 
-[Ich - Einfach oberflächlich](memmet-ifaobich.md)<br>
+[Ich - Einfach oberflächlich](mtllm190127.md)<br>
 _2019-01-27_
 
-[BDC präsentiert: Im Laich der Giganten](memmet-iladegen.md)<br>
+[BDC präsentiert: Im Laich der Giganten](mtllm190115.md)<br>
 _2019-01-15_
 
 <hr>
