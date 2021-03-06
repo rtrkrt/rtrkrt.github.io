@@ -13,6 +13,20 @@ Anspieltipps sind der Opener "Against Panic!" und "City Sind Rondo", das komplet
 
 <hr>
 
+#### Scarscab - Under The System Of Mass Destruction
+
+_25. November 2009_
+
+Bei der Vielzahl unterschiedlichster Musikrichtungen und der stetig stärker werdenden Flut neuer Veröffentlichungen innerhalb der einzelnen Stile ist es nicht immer einfach, eine eindeutige Zuordnung vorzunehmen. Im Zuge dessen bekommt man es in unregelmäßigen Abständen mit mehr oder weniger ungewöhnlichen Kombinationen zu tun. So geschehen im Fall der Wiesbadener Thrash-Metal-Kombo Scarscab und ihres kürzlich erschienenen Langeisens "Under The System Of Mass Destruction", für welches das in Nordrhein-Westfalen heimische Label Build A Nation Records verantwortlich zeichnet.
+
+Der Planet steht in Flammen, der "666"-Strichcode unter einem Krikelkrakel-Schriftzug und dem etwas lieblos anmutenden Albumtitel, über Geschmack lässt sich bekanntlich streiten. Dieses Buch sollte man wirklich nicht anhand seines Covers beurteilen, denn dann wird man feststellen, dass der Sound keinesfalls so klischeebeladen und stilisiert daherdröhnt, wie es die Optik vermuten lässt.
+
+Auf der Webseite der Band schreibt man in diesem Zusammenhang von 1990er-Thrash und einem nicht von der Hand zu weisenden Hang zum Nu Metal. Und tatsächlich: Gesanglich eine Gratwanderung zwischen derben Shouts, älteren Metallica, einer betont maskulinen Hardrock-Kante à la Godsmack und melodischen Refrains, wie sie schon Disturbed und aktuelle Slipknot-Releases erfolgreich zum Einsatz bringen; tonal mal schnell, mal langsam, mal noch langsamer, größtenteils aber mitten ins Gesicht. Eine Mixtur, die Scarscab nun schon seit sieben Jahren, auf einigen Demos und bislang zwei Alben zelebrieren.
+
+Das Soundgewand und die gesellschaftskritischen Texte machen "Under The System Of Mass Destruction" zumindest hörenswert, aber auch mehr zu einer reinen Geschmackssache als es bei anderen Genre-Vertretern der Fall ist; interessant, technisch versiert, aber wenig einprägsam. Wenig klischeebeladen oder stilisiert, ja, aber keine Offenbarung. Der Song "Forsaking Freedom" glänzt mit all dem, das im Laufe dieser Rezension beschrieben wurde und steht Interessenten derzeit auf dem MySpace-Profil der Band zur freien Verfügung. Weitere Anspieltipps sind "In Chains" und "A Call To Resistance".
+
+<hr>
+
 #### Crownstreet Boulevard - Notes And Words
 
 _19. November 2009_
@@ -154,6 +168,33 @@ Die inhaltliche Nähe zu den Mythologie-Metallern von Amon Amarth wird bei einem
 
 <hr>
 
+#### World Gone Mad - Selftitled
+
+_14. August 2009_
+
+"Smokescreens And Lies", selten erhält ein metallischen Gitarrensolo einen eigenen Titel, doch genau so präsentiert sich der Auftakt für das Debüt der belgischen World Gone Mad. Die fünf jungen Pessimisten werden vielerseits als klassischer Hardcore Punk mit modernen Elementen angekündigt, doch was oftmals als Metal-Schlagseite abgetan werden kann, nimmt auf diesem Silberling nahezu groteske Züge an und verbannt jeden weiteren musikalischen Einfluss auf den zweiten Rang, keine Chance auf Rehabilitation. Nicht selten erinnern mich die dargebotenen Stücke an Hartwurst-Veteranen wie Metallica oder anverwandte Musikanten, vielleicht in einer etwas hardrockigeren Variation, aber Stimme und Vertonung provozieren diesen Vergleich geradezu. Die Wurzeln im Hardcore Punk mag man nicht ganz von der Hand weisen können, doch scheinen sie etwas tiefer unter der Erde zu liegen als es die Gewöhnung vermuten lässt.
+
+Das muss natürlich nichts Schlechtes bedeuten, keinesfalls, World Gone Mad zeichnen sich auf ihrer selbstbetitelten EP sogar durch vollauf respektable Leistungen an ihren Instrumenten aus, es kommt gehörig Groove auf, die Soli sind nett, die Titel wirken wie aus einem Guss; in dieser Hinsicht jedoch zu viel des Guten, die Songs verschwimmen ineinander, der Wiedererkennungswert tendiert gegen null.
+Die Texte hingegen müssen im Zuge dieser Rezension lobend erwähnt werden. Die negative Atmosphäre, die die Musik versprüht und das minimalistische Cover erahnen lässt, wird durch die Lyrics noch verstärkt: "I am your lord of the flies, Shining in the morning, cracking in the night" ("Rhymes Of The Troubled"), "Tied up in chaos, Trashed by insecurities, Beaten by the fists of time" ("World Gone Mad"), kein Goethe, aber überzeugend vorgetragen und fernab von schnödem Dicke-Hose-Einerlei.
+
+Anspieltipps machen im Fall von "World Gone Mad" wenig Sinn. Die Songs sind allesamt von ähnlicher Qualität und laden deshalb förmlich dazu ein, dieser MCD zumindest für einen Durchlauf das Ohr zu leihen. Im Umfang knapp bemessen, sollte dies auch kein allzu zeitraubendes Unterfangen darstellen.
+
+<hr>
+
+#### Scalping Screen - Twelve Out Of Chamber
+
+_4. August 2009_
+
+Besteht die Möglichkeit, dass sich Napalm Death und Hatebreed vor rund acht Jahren während eines Festivals über den Weg gelaufen sind, sich ineinander verliebt und zu den Klängen ihrer beider favorisierten Death-Metal-Bands ein Kind gezeugt haben? Diese Frage drängt sich zumindest auf, wenn ein Opener wie "Two Bladed Sword" versucht, dem Rezensenten ohne Vorwarnung den Schädel einzuschlagen. Wenn es tatsächlich eine solche Liaison gegeben hat, wie sie eingangs beschrieben wurde, dann könnte es für den daraus hervorgegangenen unehelichen Bastard keinen besseren Namen geben als Scalping Screen.
+
+Grundsätzlich im Hardcore verankert, zeigt dieser finnische Fünfer sehr anschaulich, wie man die Extreme des Genres auslotet. Das ist Hardcore Punk im Rausch der Geschwindigkeit, keine Pausen, nichts zum Auswendiglernen, nur Arschaufreißen par excellence und das über die gesamte Distanz, Greenways Knüppelbarden aus Birmingham nicht unähnlich, was vor allem der Stimme von Frontschnauze Mika zuzuschreiben ist.
+
+Ein zweischneidiges Schwert, denn während der Aggro-Only-Weg genau das richtige ist, um einen stressigen Arbeitstag vergessen zu machen oder sich zur Abwechslung mal wieder so richtig auszutoben, stellt er andererseits auch die größte Schwäche von "Twelve Out Of Chamber" dar, wenn einem bewusst wird, dass man bereits nach fünf, vielleicht zehn Minuten alles gehört hat; Überraschungen, negativ, ein Ausbrechen aus ihrem Schema, niemals, Scalping Screen preschen weiterhin nach vorn; beinahe eine halbe Stunde bewegt sich die Band also auf ihrem Trampelpfad, der peinlich genau neben der Grenze des Ertragbaren verläuft und mit "Infected" genau dann sein abruptes Ende findet, wenn das Maß den kritischen Füllstand erreicht hat.
+
+Was bleibt, ist der Eindruck, sich die Zeit mit einem grundsoliden Album vertrieben zu haben, das mit seinen Qualitäten sicher für die eine oder andere erneute Rotation sorgen wird; empfehlenswert vor allem für Anhänger derberer Metal-Stile oder Schlimmerem. Anspieltipps sind schwierig auszumachen, aber "Turning Point" und "Fight For Life" hinterlassen einen durchweg positiven Eindruck.
+
+<hr>
+
 #### Half Past Death - Almost Dead
 
 _30. Juli 2009_
@@ -225,6 +266,23 @@ Es ist alles andere als einfach, sich einer Rezension zuzuwenden, wenn man gepl�
 Der metallische Hardcore mit leichtem New York-Einschlag, den Scott Vogel mit seinem Beitrag zu "Nunca Seran" doppelt zu unterstreichen weiß, ist rauh, temporeich, bietet satten Groove und natürlich genügend Möglichkeiten, sich mal wieder so richtig auszutoben. Vor allem aber weiß das Shouting zu begeistern, für welches sich gar mehrere Sänger verantwortlich zeigen; ein ständiges Wechselspiel, das dem Spektakel ein wenig die Eintönigkeit nimmt. Diese stellt nämlich die hauptsächliche Schwäche dar, die dem Album anzulasten wäre.
 
 Stellt sich nur noch die Frage, ob auch Maschinen von Sodbrennen heimgesucht werden können, denn eine solche Menge Wut im Bauch muss früher oder später gesundheitliche Folgen nach sich ziehen. Solange das Intro der neuen "3l1t3" gemäßigt vor sich hin tönt, sollte man also entweder schleunigst die Flucht ergreifen oder die "Blood in, blood out"-Ansage verdammt ernst nehmen, denn die anschließend folgenden fünfundzwanzig Minuten bieten erst dann wieder eine Möglichkeit zum Verschnaufen, wenn sie vorüber sind. Doch bevor es dazu kommt, rotzen Nueva Etica ihrer unvorbereiteten Hörerschaft puren spanischen Hass mitten ins Gesicht; Hass, so authentisch und überzeugend, dass diese die Fleischtheke im Supermarkt fortan großzügig umgehen werden, sich vor der Rache ängstigend, die sie während eines weiteren Hördurchgangs ereilen könnte. Anspieltipps sind "Nunca Seran" und der Titeltrack.
+
+<hr>
+
+#### Reconcile - What Tomorrow Will Never Bring
+
+_15. Juni 2009_
+
+Argentinien, unendliche Weiten, fußballverrückt, Geburtsort des Tangos, Heimat für unzählige Rinder und energiegeladenen Straight-Edge-Hardcore.
+
+Was, ihr glaubt mir nicht? Ich habe fünf kleine Freunde, die allesamt gegenteiliger Meinung sind. Ihre Namen lassen sich der Tracklist des mir vorliegenden aktuellen Mini-Albums der in Buenos Aires beheimateten Reconcile entnehmen. In ihrer Heimat bereits 2007 als "What Tomorrow Will Never Bring" aus der Taufe gehoben, macht diese EP keinen Hehl um ihre Einflüsse und Adressaten.
+Der schnelle, sich oft überschlagende Gesang spricht eine eindeutige Old-School-Sprache, klassisch, aber nicht altbacken und auch wenn die Geschwindigkeit von "The Test Of Time" im weiteren Verlauf nicht noch einmal erreicht wird, so wird zumindest der von diesem ersten Titel eingeschlagene Weg grundsätzlich beibehalten: Intensiv, ohne anstrengend zu werden, wütend, aber niemals negativ.
+
+Die Straight-Edge-Szene gehört bekanntermaßen zu den weniger ergiebigen Motiven, was musikalische und textliche Abwechslung oder Vielfalt angeht. Reconcile are "living each day", "never going back" and "there's nothing you can say". Nichts, das nicht schon im Laufe der 1980er Jahre gesagt, wenig, das in der Vergangenheit nicht bereits ausprobiert worden wäre, doch das kann ihnen schwerlich angekreidet werden. Viel wichtiger hingegen ist, dass die Texte glaubwürdig und überzeugend präsentiert werden, woran ich in diesem Falle keinerlei Zweifel habe.
+
+Kaum mehr als acht Minuten vergehen nach dem Einlegen der CD, und "No More Pain" gibt den Startschuss für ein überzeugendes Finale. Sehr bewegt und beinahe poppig überrascht das Schlusslicht mit tollen Gitarrenläufen und einem einprägsamen Refrain. "Your emotions are nothing but politics, so get control" heißt es, wenn mit Alkohol-, Drogenkonsum und Plattitüden abgerechnet wird.
+
+Kurzum: "What Tomorrow Will Never Bring" klingt nach schweißtreibenden Pits, nach ausgestreckten Zeigefingern und jeder Menge Stagedives; gute Gründe, die bei der nächsten Urlaubsplanung berücksichtigt werden sollten. Anspieltipps sind "The Test Of Time" und "No More Pain".
 
 <hr>
 
