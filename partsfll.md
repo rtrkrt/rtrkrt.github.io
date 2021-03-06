@@ -13,6 +13,20 @@ Anspieltipps sind der Opener "Against Panic!" und "City Sind Rondo", das komplet
 
 <hr>
 
+#### Crownstreet Boulevard - Notes And Words
+
+_19. November 2009_
+
+Was schon im Jahre 2006 unter dem Pseudonym Anger Management aus der Taufe gehoben wurde, schickte sich bereits im letzten Jahr an, der Hardcore-Welt mit tonaler Umorientierung und einem neuen Namen einzuheizen. Ob Crownstreet Boulevard nun die logische Konsequenz aus dem Ablegen des Bollo-Gewandes ist oder ob der beschauliche Landkreis Tuttlingen ganz einfach nicht genügend Zorn provoziert, den man als Anger Management hätte verwalten können, sei ganz einfach dahingestellt und stattdessen angemerkt, dass die Band sich einen Melodic-Hardcore-Mantel übergestreift hat, der sowohl klanglich als auch textlich nicht wenige Ähnlichkeiten zu Musikern wie denen von My First Failure, insbesondere aber zum "The Color" betitelten Debüt der Aschaffenburger Punks aufweist. Viel Melodie, einige Breaks, Crew-Shouts und eine dezente Rock-Kante.
+
+Verbittert, roh und angefressen, so sieht sich die Band und so hört sich "Notes And Words" auch an, "it's raining dust in my dead buried heart" ("dance(with)the$$devil"), es wird gelitten, was das Zeug hält und ganz genau wie ihre bayerischen Artgenossen, erfreut sich das baden-württembergische Quartett in unregelmäßigen Abständen auch positiv motivierter Mußestunden: "[We] are on the rise", "our hearts still not broken" ("*our#rise"); "set³us-on?fire" etwa beschreibt die Dynamik und die Faszination, die von einer Live-Show ausgehen, auf eine sympathisch euphorische Art und Weise.
+
+Alles in allem klingt das zwar nicht schlecht, vermag aber nur bedingt zu überzeugen. Nicht schlechter als das Gros der Melodic-Hardcore-Masse, aber auch nicht besser und zu keiner Zeit mit Genre-Vertretern wie den Gold Kids zu vergleichen.
+
+Antesten und reinhören, so muss die Empfehlung lauten, "set³us-on?fire" und "deadºdreams%!" bilden dabei die Speerspitze der auf dem MySpace-Profil abrufbaren Songs und sollten die Urteilsbildung deutlich erleichtern können, dort dann auch ohne diese merkwürdigen Schreibweisen, die sich auf dem CD-Release wiederfinden lassen.
+
+<hr>
+
 #### Kyo:ma - 6:10
 
 _12. November 2009_
@@ -49,6 +63,18 @@ Zero Mentality haben sich einmal mehr weiterentwickelt, auf "Black Rock" gebärd
 
 <hr>
 
+#### Versus The Throne - Ruins Afire
+
+_26. September 2009_
+
+Es waren einmal fünf ambitionierte Musiker, die sich unter ihrem Banner "Blood Spencer" nicht mehr wohl fühlten und dies zum Anlass für eine Namensänderung machten, welche unter großen Begriffen wie "Ehrlichkeit" und "Weiterentwicklung" verbucht wurde. Neuer Name, altes Line-up, der selbe Stil, unveränderte Setlist, mit Bastardized Recordings aber zumindest ein neues Label über dem Kopf; über den Sinn oder Unsinn einer solchen Initiative lässt sich sicher streiten, produktiver wäre es jedoch, sich den Langspieler zu Gemüte zu führen, der aus dieser Umbenennung hervorging.
+
+Ein kurzes, nichtssagendes Intro eröffnet das folgende halbstündige Vergnügen: Düster, druckvoll und bedrohlich, Versus The Throne spielen Melodic Death Metal mit dezenten, auf einige wenige Crew-Shouts und sparsam eingesetzte Mosh-Parts reduzierten Hardcore-Anteilen, irgendwo zwischen The Black Dahlia Murder, frühen Job For A Cowboy und aktuellen Deathcore-Nasen. Anders als viele andere derzeitige Releases in diesem Genre und darüber hinaus macht "Ruins Afire" jedoch nicht den Fehler, die angehäufte Spannung im Laufe eines jeden Tracks in eine vertonte Kriegserklärung münden zu lassen. Weniger ist oftmals eben doch mehr und noch weniger wäre in diesem Fall auch nicht falsch gewesen, denn es sind vor allem die Band-Chöre und einige Breaks, die zum Teil deplatziert und wenig originell daherkommen. Lobende Erwähnung hingegen sollten die hervorragend eingängigen Melodien sowie der charismatische gutturale Gesang zwischen hohen Screams und tiefen Growls finden, die zu überzeugen wissen.
+
+Angesichts der wenigen wahrhaftigen Veränderungen innerhalb der Band und des Sounds, erscheint es fragwürdig, ob ein derartiges Release nicht auch durch Blood Spencer hätte verwirklicht werden können; das ändert aber nichts an der Tatsache, dass es sich bei "Ruins Afire" um einen Sure Shot für jeden Anhänger dieser Sparte handelt, eine rundum gelungene Angelegenheit, in der sich das immerhin dreijährige Bandbestehen und weit über einhundert gespielte Shows widerspiegeln. Anspieltipps sind Crestfallen, Judas Castigation und vor allem der Titeltrack.
+
+<hr>
+
 #### Out For The Count - Between Light And Shade
 
 _27. August 2009_
@@ -58,6 +84,20 @@ Wer sich in den letzten Tagen ohnehin des Öfteren in Frankreich aufhält, um de
 Out For The Count präsentieren sich, im direkten Vergleich mit Kickback, ähnlich metallisch, aber deutlich stumpfer und weit weniger einfallsreich. Nach einem mit verstörenden Schreien angereicherten Intro zeigen sich die eigentlichen Parallelen zwischen den beiden Referenzgrößen im heiseren Geschrei, das stark an die jeweils andere Band erinnert. "Between Light And Shade" erweitert das Spektrum außerdem um einen weiteren Vokalisten, der sich der üblichen Tough-Guy-Shouts bedient. Das Wechselspiel der beiden Sänger weiß zu gefallen; angefressen und negativ, immer die richtige Portion Mosh in der Hinterhand, ohne das Beatdown-Trittbrett zu sehr zu belasten.
 
 Textlich dreht sich alles um "having your insides revealed" ("Rugged Shit") und "then burn that shit with a barrel of fuel" ("The Blood And The Gall"), wobei man sich gern mit Dirty Harry und Steven Seagal vergleicht und den Hörer immer wieder darauf hinweist, dass man Out For The Count heißt. Das reicht, um den Pit anzuheizen und die hungrige Ninja-Meute in Spinkick-Ekstase zu versetzen, jedoch nicht, um bei den Großen mitzumischen und stellt für mich den größten Schwachpunkt einer Band dar, die sich ansonsten versiert durch die elf Tracks des Albums holzt, was mit Kurzweil belohnt wird. Anspieltipps sind "Rugged Shit", der mächtige Titeltrack und das durch Hip-Hop verstärkte "The Crown And The Thorns".
+
+<hr>
+
+#### Black Thunder - Not Enough Graves
+
+_19. August 2009_
+
+"Let's go!" grunzt es unvermittelt aus den Boxen und los geht es dann auch tatsächlich, fünf mal Melo-Tod peitscht den dankbaren Schwermetall-Anhängern entgegen und hält erst dann wieder inne, wenn die ganze Show vorüber ist. Aufgeboten wird, was Spaß macht, gut klingt und sich bereits während des achtjährigen Bestehens von "Black Thunder" oder im Programm anderer etablierter Künstler dieses Fachgebiets schon bewährt hat: Tiefe bis abgrundtiefe Shouts, schöne Melodien und ein nicht von der Hand zu weisendes Gespür für den einen oder anderen einprägsamen Part. Einzig auf die hohen Screams müssen Stirb-Langsam-Fans von The Black Dahlia Murder, Job For A Cowboy und Konsorten dieses Mal verzicht üben.
+
+Gegründet im Jahre 2001, können die fünf Hannoveraner heute auf eine beachtliche Anzahl an Shows zurückblicken, im Zuge derer sie die Bühne mit großen Namen teilen durften: Arkangel, Walls Of Jericho, Lay Down Rotten, um nur einige zu nennen. Dazu gesellen sich In Flames, Carcass, aber auch Iron Maiden und Amon Amarth, welche die Band unter anderen zu ihren Einflüssen zählt. Inwiefern sich die genannten Gruppierungen im Sound von "Black Thunder" wiederfinden lassen, sei vorerst dahingestellt, letzteren zumindest sind sie, wenn es um das Thema Melodien geht, nicht unähnlich.
+
+Die inhaltliche Nähe zu den Mythologie-Metallern von Amon Amarth wird bei einem flüchtigen Blick in das Booklet einmal mehr deutlich. "If Only The Black Birds Fly" oder "Lead The Chariot To The Cliffs"; derartige Titel würden den bärtigen Männern aus Schweden sicher gefallen. Die Texte zeugen von rhetorischen Fähigkeiten und regen zum Nachdenken an. Zwar spricht das Info-Sheet von der Anprangerung sozialer und menschlicher Missstände, doch für deren Deutung erscheint ein gewisses Maß an Interpretationstalent unumgänglich, wenn es schon zu Beginn heißt: "The days when the human race was part of the natural circle of life are over."
+
+"Not Enough Graves" ist ein netter kleiner Death-Metal-Happen für Zwischendurch, krankt aber an Monotonie und einem immer gleichen Aufbau. Anspieltipps sind der Opener "Dura Mater" und das bereits erwähnte "Lead The Chariot To The Cliffs".
 
 <hr>
 
@@ -132,6 +172,34 @@ Es ist alles andere als einfach, sich einer Rezension zuzuwenden, wenn man gepl�
 Der metallische Hardcore mit leichtem New York-Einschlag, den Scott Vogel mit seinem Beitrag zu "Nunca Seran" doppelt zu unterstreichen weiß, ist rauh, temporeich, bietet satten Groove und natürlich genügend Möglichkeiten, sich mal wieder so richtig auszutoben. Vor allem aber weiß das Shouting zu begeistern, für welches sich gar mehrere Sänger verantwortlich zeigen; ein ständiges Wechselspiel, das dem Spektakel ein wenig die Eintönigkeit nimmt. Diese stellt nämlich die hauptsächliche Schwäche dar, die dem Album anzulasten wäre.
 
 Stellt sich nur noch die Frage, ob auch Maschinen von Sodbrennen heimgesucht werden können, denn eine solche Menge Wut im Bauch muss früher oder später gesundheitliche Folgen nach sich ziehen. Solange das Intro der neuen "3l1t3" gemäßigt vor sich hin tönt, sollte man also entweder schleunigst die Flucht ergreifen oder die "Blood in, blood out"-Ansage verdammt ernst nehmen, denn die anschließend folgenden fünfundzwanzig Minuten bieten erst dann wieder eine Möglichkeit zum Verschnaufen, wenn sie vorüber sind. Doch bevor es dazu kommt, rotzen Nueva Etica ihrer unvorbereiteten Hörerschaft puren spanischen Hass mitten ins Gesicht; Hass, so authentisch und überzeugend, dass diese die Fleischtheke im Supermarkt fortan großzügig umgehen werden, sich vor der Rache ängstigend, die sie während eines weiteren Hördurchgangs ereilen könnte. Anspieltipps sind "Nunca Seran" und der Titeltrack.
+
+<hr>
+
+#### Last Mile - Selftitled
+
+_15. Juni 2009_
+
+Mit "The Heavyweight" steht uns bereits die dritte Veröffentlichung der selbsternannten Schwergewichte von Last Mile ins Haus. Grund genug, sich das bereits im Jahr 2008 auf den Markt geworfene Debütalbum der Dänen etwas genauer anzusehen, besser anzuhören; doch zunächst lässt man sich eher zum Name dropping hinreißen: Bestehend aus As We Fight-, Stomped-, Barcode-Mitgliedern und Jacob "ehemals Hatesphere" Bredahl am Mikrofon sowie Tue Madsen hinter den Schiebereglern, lassen Last Mile bereits vor dem ersten Durchlauf eine geringfügige Ahnung zu, welches intonierte Brett der zukünftige Hörer von dem selbstbetitelten Langspieler zu erwarten haben dürfte.
+
+Schnell gespielter Hardcore mit Thrash-Anleihen und der nötigen Prise Punk obendrauf. Das ist keine alte Schule; doch egal, ob alt oder neu, ihre Hausaufgaben hat die Truppe auf jeden Fall gemacht: Heiseres Geschrei und kraftvolle Backing Vocals gehören ebenso zum Programm, wie die obligatorischen Moshparts, die enorm wuchtig daherkommen und zum Abbau der angestauten Aggressionen geradezu einladen.
+
+Ein fieses, nicht minder leckeres Süppchen, dem es jedoch an Würze fehlt, die dem Gericht eine gewisse Langzeitwirkung verleihen könnte; und so schlürft man genüsslich vor sich hin, bis der Teller nach nur knappen fünfundzwanzig Minuten leer gegessen, aber rein gar nichts hängengeblieben ist, von der kompromisslosen Härte einmal abgesehen.
+
+Man muss der Band das Können und Potential, das zweifellos in diesem Projekt verborgen ist, neidlos zugestehen. Das Debüt und seine fünfzehn Titel funktionieren. Sie entfalten ihre Wirkung, solange sie andauern, aber keine Sekunde länger. Sie bescheren somit jedem ambitionierten New-School- und Metalcore-Fan eine unterhaltsame halbe Stunde und schüren die Neugier auf das, was ihnen der Nachfolger wohl auftischen könnte. Kann dieser dann mit etwas mehr Eigenständigkeit oder sogar ohrwurmverdächtigen Momenten aufwarten, so sollte eine weitaus höhere Wertung möglich sein, als ich in diesem Augenblick für sinnvoll halte. Bis dahin verbleibe ich mit einer eingeschränkten Empfehlung an alle genreaffinen Musikliebhaber, die noch etwas Platz im Plattenschrank haben. Anspieltipps sind "Past And Present", "Pull Through" und "Talk Is Cheap And So Are You".
+
+<hr>
+
+#### In Blood We Trust - On Thin Ice
+
+_11. Juni 2009_
+
+Jede Subkultur hat, in Abhängigkeit der vorherrschenden Generation, ihre drei oder vier Schlagworte, die vor Freude strahlende Gesichter auf der einen, gerümpfte Nasen und in Falten gelegte Stirnen auf der anderen Seite geradezu heraufbeschwören. Man wage nur den Versuch mit den folgenden Begriffen: Ruhrpott, Beatdown, Ruhrpott-Beatdown. In meinem Kopf vermengt sich kollektives Säufzen mit dem Geräusch von Jogginghosen, die über vor Erwartung zitternde Waden gestreift werden; was jedoch an anderer Stelle zu beweisen wäre, denn um das Für und Wider eines ganzen Genres soll es jetzt nicht gehen. Stattdessen möchte ich einige Worte über die fünf Kohle-Kumpel von In Blood We Trust und "On Thin Ice", ihren aktuellen Silberling verlieren, der sich wider Erwarten einer eindeutigen Kategorisierung entzieht.
+
+Hat die CD erst einmal angefangen, ihre Runden zu drehen und der Hörer die zwei, ganz recht, zwei Intros sowie den "Aces High" betitelten Erstling überstanden, der noch in gewohnter Beatdown-Manier aus den Lautsprechern mosht, so dröhnen "Deeper Than Blood" und "S.F.P." anschließend überraschend Old-School-lastig. Die Mosh-Anteile treten in den Hintergrund und sind lediglich das Tüpfelchen auf dem I, das von schnellen Shouts, enthusiastischem Gruppengeschrei und viel, viel Tanz dominiert wird.
+
+In Blood We Trust zeigen sich in der Lage, dieses Niveau für die verbleibende Dauer des Albums aufrechtzuerhalten und schaffen darüber hinaus noch Platz für Reduction-Stimme Samis, der einige Zeilen zu "Get Lost" beisteuert. Was auf "On Thin Ice" zelebriert wird klingt gut, nutzt sich jedoch zügig ab und zehrt leider am Wiedererkennungswert der einzelnen Songs, die, wenn man sie voneinander losgelöst hört, Spaß machen, in der Masse von acht "vollwertigen" Titeln aber oft verschwimmen.
+
+Möchte man zu einer Schlussfolgerung finden und an die anfänglichen Überlegungen anknüpfen, so lässt sich zusammenfassend festhalten, dass "On Thin Ice" seine Fans mit Sicherheit nicht erst finden muss. Meine Empfehlung richtet sich aus diesem Grund an all diejenigen, die bislang die Stirn gerunzelt haben: Schenkt diesem Album euer Gehör und die Möglichkeit, euch von seinen Vorzügen zu überzeugen. Anspieltipps sind "Deeper Than Blood", "Strong City" und der Titeltrack.
 
 <hr>
 
