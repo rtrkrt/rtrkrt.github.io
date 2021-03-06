@@ -1,3 +1,128 @@
+#### Dryconditions - Into The Night (Black Light)
+
+_12. Dezember 2009_
+
+Schweizer Post-Punk-Routinier und Pink-Floyd-Prisma-Plagiat, darf man das? Pop-Appeal und Massenkompatibilität als "Dark Side Of The Moon"-Lookalike, darf man das? Vielleicht sind es die zehn Jahre des gemeinsamen Musizierens oder die vielen Live-Shows, die sie sich anrechnen dürfen, für die vier Züricher Mannen von Dryconditions scheinen sich diese Fragen jedenfalls gar nicht zu stellen und so steht allen Musikinteressierten "Into The Night (Black Light)", die neueste Veröffentlichung des Quartetts ins Haus; man gibt sich selbstbewusst und proklamiert voller Stolz: "Pink Floyd is dead, DC are alive[...]"; ob man so was nun darf oder nicht.
+
+Die Vorzeichen stehen gut: Eine gute halbe Stunde lang sorgen insgesamt zwölf Tracks für solide bis überdurchschnittliche Unterhaltung. Kurzweil im Mid-Tempo-Bereich und bewährter Gesang irgendwo zwischen punkigen Hymnen und rockigen Shouts, Einflüsse aus dem Hartkern-Bereich sind regelrecht allgegenwärtig, aber nur selten dermaßen präsent, dass man die gebotenen Stücke der Post-Hardcore-Schublade zuordnen könnte. Abgerundet wird das Gesamtbild durch instrumentale Einlagen; abwechslungsreich, durchaus ansprechend, doch auch wenn der eine oder andere Song erfolgreich zündet, nichts, aber auch gar nichts von alldem überdauert die Laufzeit der CD.
+Gute Vorzeichen sind eben nicht alles und so kreiert "Into The Night (Black Light)" zuerst das Wohlgefallen, um sich anschließend wieder gänzlich darin aufzulösen. Durchschnittskost, gut umgesetzt, aber zu egal, um dauerhaft begeistern zu können.
+
+Textlich bewegen sich Dryconditions zwar auf nicht ganz unberührten Pfaden, doch bereits der erste Blick ins Booklet verrät, dass selbst häufig verarbeitete Themen von einer gewählten Ausdrucksweise nur profitieren können; "Take me down the empty road / My pockets filled with heavy notes of you" ("Teenage Sundown").
+
+Anspieltipps sind der Opener "Against Panic!" und "City Sind Rondo", das komplette Album lässt sich derzeit noch kostenfrei online anhören. Der entsprechende Link zum Stream ist auf dem MySpace-Profil der Band hinterlegt.
+
+<hr>
+
+#### Kyo:ma - 6:10
+
+_12. November 2009_
+
+"Freecore"; so heißt es auf der offiziellen Internetpräsenz von [kyo:ma], einer jungen deutschen Kapelle aus dem Raum Gießen, Marburg. Metal, Hardcore, Experimental, so wird versucht, diese Wortneuschöpfung mit bekannten Begriffen zu umschreiben, was auch zwingend notwendig ist, wenn ein nichtssagender EP-Titel wie "6:10" dem exzentrisch anmutenden Bandnamen in nichts nachsteht, zumindest was die Transparenz des Genres angeht. Was sollte man also von einer CD erwarten, die mit derartigen Grundvoraussetzungen an den Start geht? Die Antwort ist: Alles und noch ein wenig mehr. Chaos und Struktur, Geschrei, hoch und tief, englisch und deutsch, Melodie und Mosh, Tempo und Gemach, Gitarren und Didgeridoos, ganz recht, Didgeridoos. Allein auf altbackene und festgefahrene Stilvorgaben muss Verzicht geübt werden, [kyo:ma] sparen also an genau den richtigen Ecken und Enden.
+
+Eine Band, die sich so wehement um eine eigene Identität bemüht, ist über alle Maßen sympathisch und das macht es umso bedauerlicher, dass dieses Konzept zwar angenehm frisch klingt, was aber vielversprechend beginnt, krankt an der erschwerten Zugänglichkeit gepaart mit der Monotonie, die sich auch dann nicht vermeiden lässt, wenn die sich wiederholenden Stilmittel innovativ und ungewöhnlich erscheinen. Ganz anders als die musikalische Bandbreite, fällt die Ausstattung dieser Veröffentlichung deutlich weniger üppig aus. So hätten die fehlenden Songtexte schon einiges mehr an Aufschluss zugelassen, worauf man mit "6:10" hinaus will. Die Intentionen entziehen sich jedoch nicht gänzlich einer sachlichen Auseinandersetzung: Wer sich auf der Homepage der Band umsieht, dem wird auch der Blick auf die Textinhalte der einzelnen Songs gewährt und siehe da, der Funke springt schon schneller, getreu dem Motto "Zünde dein Herz! Zünde deine Hoffnung! Zünde deine Wut! Vom Funken bis zur Glut!" ("Zeitzünder").
+
+[kyo:ma] verdienen es, ausgecheckt zu werden. "6:10" ist ein interessantes, ein vielschichtiges Debüt, dem es nur ein wenig am Durchhaltevermögen mangelt. Die Tracks "Zeitzünder" und "When Evil Prevails" stehen der Allgemeinheit auf dem MySpace-Profil der Band zur Verfügung.
+
+<hr>
+
+#### 400Colpi - Homo Homini Lupus
+
+_28. Oktober 2009_
+
+Druck, Druck, Druck und davon reichlich; aus Italien erreicht das aktuelle Release einer jungen Combo die deutschen Lande und hat einiges zu bieten. Bereits der Opener "Kane" unterhält mit einem vertraut anmutenden Riff aus der Hartwurst-Ecke und bleibt beileibe nicht die einzige Überraschung. Der Song "Neve" etwa startet in bester Rumpel-Metal-Manier, um dann wieder eiligen Schrittes nach vorn zu stoßen und anschließend über dem ahnungslosen Publikum zusammenzubrechen wie eine morsche Holzbrücke unter einem risikofreudigen Schwerlasttransport. Hier geben sich Metal und Hardcore zu gleichen Teilen die Ehre; ein erfrischend ungestümer Sound, der sich nicht um Konventionen schert, der genauso gern den Two-Step auf das Parkett legt, wie er sich dem hemmungslosen Gebolze hingibt. Das sind die richtigen Zutaten für eine knusprige Gänsehaut.
+
+Anders als ihre Landsmänner von den Gold Kids tragen 400Colpi die zehn Stücke dieses Debüts in ihrer Landessprache vor. Wer also nicht in der Lage ist, den O-Ton der kompletten Spencer-Hill-Filmografie zu reproduzieren, der wird auch an den Texten der Band wenig Freude haben, denn so gut sich diese in das übrige Soundgefüge integrieren, die aggressive Grundstimmung sogar unterstreichen, so wenig verständlich breiten sie sich vor der unbedarften Hörerschaft aus. So lassen einzig und allein das stimmige Cover-Artwork und der Titel "Homo Homini Lupus", "der Mensch ist des Menschen Wolf", Rückschlüsse auf lyrische Inhalte und Zusammenhänge zu: Die Gruppe aus der Familie von Chorus Of One Records scheut sich nicht vor sozialkritischen und politisch motivierten Themen.
+
+Leider verliert das Album nach der ersten Hälfte merklich an Fahrt, woran auch das durchaus gelungene Instrumentalstück "Sabra E Shatila" nicht viel ändern kann. Somit bleibt "Homo Homini Lupus" wohl ein Geheimtipp und 400Colpi ein sympathischer Haufen, den man im Auge behalten sollte. Anspieltipps sind die bereits erwähnten "Kane" und "Neve"; diese stehen auf dem MySpace-Profil der Band zur Verfügung, wo auch die acht restlichen Tracks angehört werden können.
+
+<hr>
+
+#### Zero Mentality - Black Rock
+
+_11. Oktober 2009_
+
+"Black Rock, the beginning the primeval core, rockin' your world like nobody before", noch Fragen? Zero Mentality lassen sich nicht erst seit ihrem letzten Release schwerlich einer eindeutigen Musikrichtung zuordnen, doch der gleichnamige Opener ihres neuen Albums "Black Rock" erleichtert diese Angelegenheit ein wenig und läutet den folgenden Genrezirkus denkbar zuverlässig ein: Astreine Rocknummern, Groove-Granaten am laufenden Band, mal zügig, mal gemächlich, aber mit viel Sinn für Melodie und nahezu allgegenwärtigen Einflüssen aus dem Metal. Zusammen mit dem dezenten Hardcore-Hammer der hier und da noch geschwungen werden darf, Akustikeinlagen, Frauenchor und mehr ergibt sich ein spannendes Sammelsurium, das auch bis zur allerletzten Sekunde zu unterhalten vermag. Zugegeben: Wirklich leichter wird die Definition des Musikstils dadurch nicht, positiv ist diese musikalische Vielfalt aber allemal.
+
+Kratziger Gesang und einige gesprochene Parts werden durch schnelle Shouts und Growls ergänzt, auch auf weibliche Unterstützung darf der Zuhörer sich freuen. Die Vocals fallen ebenso eigenwillig wie polarisierend, aber wirkungsvoll aus und punkten mit entsprechendem Wiedererkennungswert; "No Salaam No Shalom", kein Frieden? "Feature Dich Selbst", ein Aufruf zu mehr Eigenverantwortung? Die Reichhaltigkeit der behandelten Themen steht der der tonalen Untermalung in nichts nach. "[...] one should be ready to include everything into expectation", so tönt die Werbetrommel und sowohl textlich als auch in jeder anderen Hinsicht ist dem nichts mehr hinzuzufügen.
+
+Zero Mentality haben sich einmal mehr weiterentwickelt, auf "Black Rock" gebärden sie sich auffallend, heben sie sich weiter vom Rest der Untergrundszene ab, jedoch nicht um jeden Preis, das ist nicht nur wünschenswert, sondern auch äußerst sympathisch; das Pfeifen auf Konventionen, die Konsequenz ihrer selbst, das verschafft der Band eine Fanbase, die mindestens genauso vielschichtig ist wie die Kapelle, die sie allesamt so feiern. Die Empfehlung, egal ob Anhänger, Quer- oder Neueinsteiger, kann also nur lauten: Reinhören! Anspieltipps sind "No Salaam No Shalom", "Devils Charity" und der Titeltrack, wovon letztgenannter auf dem MySpace-Profil der Jungs zur Verfügung steht.
+
+<hr>
+
+#### Out For The Count - Between Light And Shade
+
+_27. August 2009_
+
+Wer sich in den letzten Tagen ohnehin des Öfteren in Frankreich aufhält, um den postapokalyptischen Klängen von Kickbacks "No Surrender" zu lauschen, dem sei zumindest ein kleiner Probe-Abstecher in die trostlosen Gefilde von Out For The Count, die ihre Schimpftiraden vorzugsweise im Norden von Paris entfesseln, wärmstens ans Herz gelegt. "Positive is for your HIV test, not for hardcore"; wenn ein solcher Spruch auf dem imaginären Banner prangt, lässt das jedenfalls keinerlei Zweifel an der Intention aufkommen, der man sich als Band verschrieben hat: Blut und Galle, davon liest man auch auf dem Info-Sheet.
+
+Out For The Count präsentieren sich, im direkten Vergleich mit Kickback, ähnlich metallisch, aber deutlich stumpfer und weit weniger einfallsreich. Nach einem mit verstörenden Schreien angereicherten Intro zeigen sich die eigentlichen Parallelen zwischen den beiden Referenzgrößen im heiseren Geschrei, das stark an die jeweils andere Band erinnert. "Between Light And Shade" erweitert das Spektrum außerdem um einen weiteren Vokalisten, der sich der üblichen Tough-Guy-Shouts bedient. Das Wechselspiel der beiden Sänger weiß zu gefallen; angefressen und negativ, immer die richtige Portion Mosh in der Hinterhand, ohne das Beatdown-Trittbrett zu sehr zu belasten.
+
+Textlich dreht sich alles um "having your insides revealed" ("Rugged Shit") und "then burn that shit with a barrel of fuel" ("The Blood And The Gall"), wobei man sich gern mit Dirty Harry und Steven Seagal vergleicht und den Hörer immer wieder darauf hinweist, dass man Out For The Count heißt. Das reicht, um den Pit anzuheizen und die hungrige Ninja-Meute in Spinkick-Ekstase zu versetzen, jedoch nicht, um bei den Großen mitzumischen und stellt für mich den größten Schwachpunkt einer Band dar, die sich ansonsten versiert durch die elf Tracks des Albums holzt, was mit Kurzweil belohnt wird. Anspieltipps sind "Rugged Shit", der mächtige Titeltrack und das durch Hip-Hop verstärkte "The Crown And The Thorns".
+
+<hr>
+
+#### Half Past Death - Almost Dead
+
+_30. Juli 2009_
+
+Unheil verkündend stampft er aus den Lautsprechern, ein fieser Moshpart, wie er auch in der Hölle für Eindruck sorgen würde, "for my family" und "for my friends" tönt es teuflisch, wenn "Family" "Almost Dead", die neue EP der deutschen Half Past Death, eröffnet und der ahnungslose Hardcore-Proband glaubt sich schon im siebenten Beatdown-Himmel. Das Erwachen, wenn auch alles andere als böse, folgt auf dem Fuße, denn über diesen appetitlichen Einstieg hinaus lässt sich die Bollo-Fassade nicht aufrecht erhalten und es wird deutlich, welcher Spielart hier tatsächlich gefrönt wird: Eine knallige Mischung aus Death Metal, Melodie und einer Prise Hardcore; Metalcore muss das Zauberwort sein und das Tanzbein dankt es.
+
+Ein wenig August Burns Red, vielleicht Heaven Shall Burn, die Einflüsse, die man in Anbetracht eines dermaßen überlaufenen Genres herauszuhören glaubt, sind selbstverständlich vielseitig, es lässt sich jedoch durchaus feststellen, dass sich die Kapelle aus Nordrhein-Westfalen hinter keiner dieser vermeintlichen Einflussgrößen verstecken muss. Die Melodien gehen schnell ins Ohr, die Breaks sitzen, alles hat seinen angestammten Platz, keine Ausreißer, weder musikalisch noch textlich.
+Die mutigen Innovationsritter in strahlender Originalitätsrüstung sind Half Past Death wahrlich nicht, aber diesen Eindruck wollen sie auch keinesfalls erwecken und so obliegt es dem Hörer, überzogene Ansprüche an die thematischen Inhalte der sechs vollwertigen Titel ad acta zu legen und sich ganz der Musik hinzugeben oder angesichts einiger totgerittener Schwerpunkte die Stirn zu runzeln.
+Die ganz klare Empfehlung heißt in diesem Fall: Darüber hinwegsehen. Zum einen geht die Band viel zu beherzt und technisch versiert ans Werk, als dass sie ignoriert werden sollten und zum anderen soll hier niemandem das Recht abgesprochen werden, Freunden und der Familie Respekt zu zollen oder rechten Tendenzen in der Hardcore-Szene den Kampf anzusagen, ganz im Gegenteil.
+
+Almost Dead ist eine überdurchschnittlich gute EP einer vielversprechenden Truppe. Anspieltipps sind "Family" und der Titeltrack.
+
+<hr>
+
+#### Death Before Dishonor - Better Ways To Die
+
+_27. Juli 2009_
+
+Death Before Dishonor zeigen sich auf ihrem neusten Output experimentierfreudiger als jemals zuvor; sie gehen viele Kompromisse ein und überraschen ihre Hörer mit einem noch nie dagewesenen Facettenreichtum und, man kann es bereits erahnen, selbstverständlich war das alles komplett gelogen, aber welcher wahre Fan würde seinen fünf Lieblingen so etwas auch abverlangen? Stattdessen gibt es, wie seit nunmehr neun Jahren tourneegeprägter Bandgeschichte, auch anno 2009 auf "Better Ways To Die" feinsten New-School-Hardcore; immer direkt am Gas und mit kurzer Zündschnur (Flucht nach vorn: "Peace And Quiet").
+
+Fronter Bryan kläfft sich durch elf Songs, die allesamt die Zweieinhalb-Minuten-Grenze im Durchschnitt kaum überschreiten oder gar nicht erst an sie heranreichen. Die Crew in seinem Nacken scheint zu jedem verbalen Einwurf bereit und sich auch für "Woohoo"-Chöre niemals zu schade (mitreißend: "Our Glory Days"); in Boston regiert der Punk, zumindest scheint sich die Gewichtung von Punk- und Tough-Guy-Anteil ein wenig in diese Richtung verlagert zu haben.
+
+Unverändert hingegen bleibt der Genrepool, aus dem des Öfteren geschöpft werden darf. Hin und wieder sorgen gekonnt eingeflochtene Metal-Versatzstücke für Melodie, Abwechslung und natürlich das "Neu" im New-School-Klangbild (Gänsehaut: "Remember"), ohne aber den letzten Schritt zu wagen, den Hatebreed in den Augen Vieler zu weit in Richtung Metal gegangen sind; Metal ja, Metalcore nein.
+
+Unterm Strich gibt es also elf mal Death Before Dishonor, kurz und knackig, wenn auch keine Offenbarung und stellenweise etwas austauschbar, doch vollkommen egal, ob man gereckte Fäuste, kollektive Shout-Outs oder die Moshpit-Vollbedienung will, wer sucht, der findet auch, denn hier wird wirklich jeder Vorliebe entsprochen (von allem etwas: "Black Cloud").
+
+Weitere Anspieltipps sind unnötig. "Better Ways To Die" ist eine überzeugende Platte, die man sich bedenkenlos im Ganzen geben kann und dabei nicht einmal eine halbe Stunde in Anspruch nimmt. Dabei kann man nur gewinnen.
+
+<hr>
+
+#### Bun Dem Out - The Few The Deep
+
+_11. Juli 2009_
+
+Im Zusammenhang mit Bun Dem Out vom LBU-Umfeld zu sprechen, wäre vermutlich maßlos untertrieben, geradezu schändlich unterbewertet, denn eine Hardcore-Kapelle, die ihre "Soldados" aus den Reihen von 50 Caliber, Knuckledust und TRC rekrutiert, muss wohl vielmehr als musikalische Quintessenz der London Blackout Unit in Betracht gezogen werden.
+
+Wer sich im Zuge dessen also einbildet, er oder sie könne Rückschlüsse auf das intonierte Feuerwerk ziehen, das Bun Dem Out auf dem aktuellen Release "The Few The Deep" abfackeln, der liegt vermutlich genau richtig: Zweistimmiger Beatdown Hardcore mit einer gesunden Portion Metal und jede Menge Tough-Guy-Attitüde; überraschen wird die Band damit wohl niemanden.
+
+Das Kapitel der Innovationen und Außerordentlichkeiten kann also getrost übersprungen und sich umgehend der Frage angenommen werden, ob diese Mischung knallt, wie ein über die Grenze geschmuggelter China-Böller oder, in bester Tradition heimischer Rohrkrepierer, selbst in der hand verpufft, ohne sichtbare Spuren zu hinterlassen.
+
+Wer die eingangs erwähnten Gruppierungen kennt und schätzt, wird sich von Pierre's unverwechselbarem Organ augenblicklich in die angemessene Stimmung versetzen lassen, die nur "aggro to the max" heißen kann. Der sparsame Umgang mit Plattitüden gehört mit Sicherheit nicht zu den Dingen, die im Vereinigten Königreich heutzutage die Marschrichtung vorgeben, aber die ganz großen Peinlichkeiten und vertonte Totalausfälle bleiben dem Hörer erspart und so rangelt man mit falschen Freunden und Scenester Wannebes oder ergeht sich in Selbstbeweihräucherung. Auch die Instrumentation geht keinerlei Risiken ein, filigran ist anders, aber das muss sie auch nicht sein; "chugga chugga" hier, ein hämisches Lachen da, der Einstieg gelingt mühelos und ein Zugang ist schnell gefunden.
+
+Das Fazit muss daher kompromissbereit ausfallen: "The Few The Deep" knallt tatsächlich und nicht zu knapp; Angst vor Pulverrückständen muss jedoch niemand haben, denn wirklich viel bleibt auch nach mehreren Durchläufen nicht haften. Anspieltipps sind "Nothing To Loose", "99 Years" und der Titeltrack.
+
+<hr>
+
+#### Halcyon As Lilith - Breed Of Lilith
+
+_25. Juni 2009_
+
+Wie viele Rückschlüsse auf die musikalischen Ambi- und Motivationen lässt ein Bandname zu, wenn er der Einfachheit halber mit H.A.L. abgekürzt wird? In erster Linie gar keine. Noch viel weniger hilfreich ist es aber, wenn man weiß, dass H.A.L. Halcyon As Lilith bedeutet.
+
+Wenn man einer ruhmreichen Online-Enzyklopädie glauben schenken darf, so handel es sich bei dem begriff Halcyon um "eine Vogelgattung aus der Familie der Eisvögel", während Lilith eine Gottheit aus Sumer beschreibt, die an der Erschaffung der Welt nicht ganz unbeteiligt gewesen sein soll; aber böse soll sie gewesen sein, die Gute. Wie das mit der Musik zusammenhängt, die auf der Demo "Breed Of Lilith" geboten wird, weiß vermutlich nur die Vorarlberger Kapelle selbst.
+
+Die Bilanz der Ösi-Metaller lässt sich bereits nach wenigen Rotationen im CD-Player aufstellen; so wird die Soll-Seite von der Band selbst vorgegeben: ein Cocktail aus Death- und Thrash Metal mit progressiven Einflüssen. Die Haben-Seite hält mit hohem Gekreische, düsteren Growls sowie gekonntem Gitarreneinsatz mit einem hohen Maß an Melodie und gelegentlichen Solo-Einlagen dagegen. Eine gelungene Mixtur, die schon beim Opener "Predominance" zündet und das Niveau über die gesamte Dauer der lediglich vier Songs umfassenden Demonstration aufrecht erhalten kann. Ob das auch auf einem Langspieler funktioniert, bleibt abzuwarten, denn die hier vorherrschende Kreisch-Grunz-Solo-Struktur erscheint mir durch Abnutzung gefährdet.
+
+Negativ angemerkt sei an dieser Stelle der Gesang, der in den tieferen Regionen zwar gut klingt, aber oft im Soundgewand unterzugehen droht. Die hohen Schreie sind dahingegen nicht zu überhören, wirken jedoch gewollt hysterisch und teilweise deplatziert.
+
+Halcyon As Lilith kommen fast gänzlich ohne Core-Einlagen aus, eine Rückbesinnung, die zu gefallen weiß, jedoch eine akute Gefahr für die Hals- und Nackenmuskulatur darstellt. Kleine Schwächen sorgen für Abzüge, die die Band zwischen dem sechsten und siebenten Zähler im Wertungssystem schweben lässt; doch nicht zuletzt, um die Band zum Weitermachen zu motivieren, sei in diesem Fall zugunsten des Angeklagten entschieden. Anspieltipps sind "Predominance" und "Last Supper".
+
+<hr>
+
 #### Nueva Etica - 3L1T3
 
 _19. Juni 2009_
@@ -7,3 +132,21 @@ Es ist alles andere als einfach, sich einer Rezension zuzuwenden, wenn man gepl�
 Der metallische Hardcore mit leichtem New York-Einschlag, den Scott Vogel mit seinem Beitrag zu "Nunca Seran" doppelt zu unterstreichen weiß, ist rauh, temporeich, bietet satten Groove und natürlich genügend Möglichkeiten, sich mal wieder so richtig auszutoben. Vor allem aber weiß das Shouting zu begeistern, für welches sich gar mehrere Sänger verantwortlich zeigen; ein ständiges Wechselspiel, das dem Spektakel ein wenig die Eintönigkeit nimmt. Diese stellt nämlich die hauptsächliche Schwäche dar, die dem Album anzulasten wäre.
 
 Stellt sich nur noch die Frage, ob auch Maschinen von Sodbrennen heimgesucht werden können, denn eine solche Menge Wut im Bauch muss früher oder später gesundheitliche Folgen nach sich ziehen. Solange das Intro der neuen "3l1t3" gemäßigt vor sich hin tönt, sollte man also entweder schleunigst die Flucht ergreifen oder die "Blood in, blood out"-Ansage verdammt ernst nehmen, denn die anschließend folgenden fünfundzwanzig Minuten bieten erst dann wieder eine Möglichkeit zum Verschnaufen, wenn sie vorüber sind. Doch bevor es dazu kommt, rotzen Nueva Etica ihrer unvorbereiteten Hörerschaft puren spanischen Hass mitten ins Gesicht; Hass, so authentisch und überzeugend, dass diese die Fleischtheke im Supermarkt fortan großzügig umgehen werden, sich vor der Rache ängstigend, die sie während eines weiteren Hördurchgangs ereilen könnte. Anspieltipps sind "Nunca Seran" und der Titeltrack.
+
+<hr>
+
+#### Vanna - A New Hope
+
+_9. Juni 2009_
+
+"A New Hope", eine neue Hoffnung erreicht uns aus den Vereinigten Staaten, der hiesigen Hybridcore-Fraktion frischen Aufwind zu geben; berechtigter Höhenflug oder grenzenlose Selbstüberschätzung?
+
+Hardcore, Metal, Screamo, die Einflüsse der fünf Bostoner von Vanna sind ebenso offensichtlich, wie wenig innovativ. Metalcore, der mit emoesken Gesangseinlagen nicht nur gespickt, sondern vielmehr von ihnen dominiert wird und in scheinbar paradoxer Beziehung zu einem übergroßen kreisrunden Aufkleber steht, der das Jewel Case ziert und den geneigten Hörer zum Anlegen seines mosh-kompatiblen Schuhwerks motivieren will.
+
+Dass das zwölffache musikalische Aufgebot dann doch nicht ganz so widersprüchlich daherkommt, beweist bereits der Opener "Let's Have An Earthquake", der die grundsätzliche Marschrichtung mit wütendem Geschrei, starken Breakdowns und gelegentlichen Crew Shouts vorgibt. Erst "Into Hell's Mouth We March" integriert den typischen klaren Gesang in das klangliche Repertoire. Er fügt sich ausgesprochen gut in das Gesamtbild, sorgt für einen schnellen Zugang zu der Musik und den ein oder anderen Ohrwurm.
+
+Textlich gehen die jungen Recken weit weniger "brutal" zu Werke, als es das Soundgewand im ersten Moment vermuten lässt. Liebe, Leid und, wie könnte es anders sein, die Hoffnung stellen die zentralen Inhalte dar, wobei positiv angemerkt werden sollte, dass der christliche Hintergrund einiger Bandmitglieder angenehm unberücksichtigt bleibt, die Texte also keinen propagierenden oder belehrenden Charakter haben.
+
+Nach "Curses" geht die Band ihren Weg unbeirrt weiter, präsentiert sich melodischer und zugleich härter als in der Vergangenheit. Von der Chaos-Kante, die ihr früher noch von vielen Seiten attestiert wurde, hat sie sich Anno 2009 noch weiter entfernt und das klingt auch gut so.
+
+Die Frage, ob Vanna die neue Hoffnung im Metalcore-Genre sind, lässt sich ohnehin nicht eindeutig beantworten; festhalten lässt sich jedoch: Vanna kredenzen uns ein kurzweiliges Album, das schnell ins Ohr sowie in die Gliedmaßen geht und darüber hinaus eine beachtliche Hitdichte vorweisen kann. Wer den Zutaten solcher Stil-Mixe etwas abgewinnen kann, dem sei "A New Hope" wärmstens ans Herz gelegt. Ihren Epitaph-Kollegen stehen Vanna jedenfalls in nichts nach. Anspieltipps sind "Into Hell's Mouth We March" und "Like Changing Seasons".
