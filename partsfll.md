@@ -27,6 +27,20 @@ Antesten und reinhören, so muss die Empfehlung lauten, "set³us-on?fire" und "d
 
 <hr>
 
+#### COR - Seit Ich Die Menschen Kenne, Liebe Ich Die Tiere!
+
+_16. November 2009_
+
+Gute sieben Jahre des Bestehens auf dem Buckel, weit mehr als ein halbes Dutzend Veröffentlichungen im Plattenregal und "Trashrock for Life" auf der Stirn zu stehen: Die Rügener Punkrock-Gruppierung COR hissen auch anno 2009 wieder die Rügencore-Flagge und schippern fröhlich die Punk-, Thrash- und Hardcore-Gewässer auf und ab. Vielleicht ist "fröhlich" aber auch das falsche Wort, denn ein Titel wie "Seit ich die Menschen kenne, liebe ich die Tiere!" spricht Bände über die Einstellung der Band und die inhaltliche Richtung, in die sie mit dem neuen Release driftet. Wem das jedoch noch nicht eindeutig genug ist, dem gereichen eventuell die zwei Menschenhirn schnabulierenden Cover-Affen, die sich an einer offenen Schädeldecke laben wie an einem überteuerten Erdbeereisbecher, zu der Erkenntnis, dass er es mit latenten Misanthropen zu tun hat.
+
+Ob COR sich als "[die] Gewalt, die aus den Boxen knallt", als "[ein] Guerillakrieg aus dem Hinterhalt" über die Debilität aktueller Popergüsse aufregen ("AntiPop"), mit "[mach] ne Platte, bring sie raus, 'Fuck Big Deals!'" zu mehr Eigeninitiative aufrufen ("DIY") oder die Themen schlagartig melancholische Ernsthaftigkeit annehmen, "[wenn] der Nachbar sich sehr engagiert für die Kinder in der Stadt, [ihnen] mit Liebe, Wut und seinem Schwanz die Unbeschwertheit genommen hat" ("Das Tier"); das Vierer-Gespann strotzt vor Inhalt.
+
+Was die Vortragsweise angeht, so fällt die Beurteilung schon deutlich schwerer. Der Gesang, fast ausschließlich gesprochen, Punk durch und durch, dabei mindestens ebenso polarisierend. Die Produktion lässt Druck vermissen, wo die Texte zum Arschtreten einladen, gibt es schlimmstenfalls einen Klapps auf den Hinterkopf, die Arrangements fallen entsprechend unkompliziert und wenig aufregend aus.
+
+Die Entscheidung, inwiefern es sich bei der aktuellen Scheibe tatsächlich um die bisher beste Platte der Band handelt, dieser Meinung sind zumindest COR selbst, kann man getrost ihren wahren Fans überlassen, denn diese scharen sich nun schon seit Jahren um ihre liebsten Insel-Punks und werden von "Seit ich die Menschen kenne, liebe ich die Tiere!" keinesfalls enttäuscht sein. Sonstige Punk-Affine dürfen ein Ohr riskieren, sollten mit ihren Erwartungen jedoch behutsam umgehen. So fällt die Wertung auch neutral aus. Anspieltipps sind "Das Tier" und "Engel".
+
+<hr>
+
 #### Kyo:ma - 6:10
 
 _12. November 2009_
@@ -51,6 +65,18 @@ Leider verliert das Album nach der ersten Hälfte merklich an Fahrt, woran auch 
 
 <hr>
 
+#### Go For It! - Reading Between The Front Lines
+
+_21. Oktober 2009_
+
+Go For It! sind vier finster dreinblickende Herren aus dem Ruhrgebiet, dem Quasizuhause finster dreinblickender Herren, was, zugegeben, durch einen Zuversicht verheißenden Bandnamen wie Go For It!, durch Ambitionen und Herz, die sich in den Songtexten widerspiegeln, durch ein mit Schnappschüssen von vermutlich Freunden und Familie ansprechend gestaltetes Booklet konterkariert wird. Blood For Blood und "White Trash Anthem"-Anleihen? Engagement und Bollo-Fassade? "Reading Between The Front Lines": Ein Name, ein Programm.
+
+"Fuck 'No Future', use your fucking brain!" ("Know Your History"), "Nothing can hold you down, go for it!" ("No Desperation"), "You're always in my heart!" ("Responsible For You"); Hardcore-Punk mit deutlich positiven Einschlägen und viel, viel Attitüde, die sich vor allem dann zeigt, wenn es um die Kritik an rechtem Gedankengut, den Ismen der Diskriminierung und einer Szene geht, die ihre Wurzeln zusehends zu vernachlässigen scheint; dabei bleiben die Referenten immer authentisch und glaubhaft. Darüber hinaus werden diese Themen mit einer solchen Fülle an Crew Shouts, Groove und Abgehparts vorgetragen, dass man nur zu einem Schluss kommen darf: Diese Band hortet die Sympathiepunkte regelrecht. Der stetige Wechsel zwischen tiefen Shouts und schnellem Gebell und die vom Punk beeinflusste Instrumentierung bitten zum Tanz; vertonte Dynamik über die Distanz von acht Tracks und einer Spieldauer von etwas mehr als einer Viertelstunde, leider aber auch kein Ausbrechen aus diesem Konzept, woran das letzte Drittel der EP spürbar zu kranken beginnt. Um auf einem Langspieler überzeugen zu können, wird man sich noch einiges einfallen lassen oder die Anzahl der Earcatcher erhöhen müssen.
+
+"Reading Between The Front Lines" stellt eine Rückbesinnung auf den Ursprung eines ganzen Genres dar und das ist es auch, was Go For It! von ihren Hörern wollen und worauf diese sich einlassen sollten, denn dann macht die alte Schule wieder richtig Spaß. Die komplette EP kann derzeit auf dem MySpace-Profil der Band gehört werden, eine klare Empfehlung.
+
+<hr>
+
 #### Zero Mentality - Black Rock
 
 _11. Oktober 2009_
@@ -72,6 +98,20 @@ Es waren einmal fünf ambitionierte Musiker, die sich unter ihrem Banner "Blood 
 Ein kurzes, nichtssagendes Intro eröffnet das folgende halbstündige Vergnügen: Düster, druckvoll und bedrohlich, Versus The Throne spielen Melodic Death Metal mit dezenten, auf einige wenige Crew-Shouts und sparsam eingesetzte Mosh-Parts reduzierten Hardcore-Anteilen, irgendwo zwischen The Black Dahlia Murder, frühen Job For A Cowboy und aktuellen Deathcore-Nasen. Anders als viele andere derzeitige Releases in diesem Genre und darüber hinaus macht "Ruins Afire" jedoch nicht den Fehler, die angehäufte Spannung im Laufe eines jeden Tracks in eine vertonte Kriegserklärung münden zu lassen. Weniger ist oftmals eben doch mehr und noch weniger wäre in diesem Fall auch nicht falsch gewesen, denn es sind vor allem die Band-Chöre und einige Breaks, die zum Teil deplatziert und wenig originell daherkommen. Lobende Erwähnung hingegen sollten die hervorragend eingängigen Melodien sowie der charismatische gutturale Gesang zwischen hohen Screams und tiefen Growls finden, die zu überzeugen wissen.
 
 Angesichts der wenigen wahrhaftigen Veränderungen innerhalb der Band und des Sounds, erscheint es fragwürdig, ob ein derartiges Release nicht auch durch Blood Spencer hätte verwirklicht werden können; das ändert aber nichts an der Tatsache, dass es sich bei "Ruins Afire" um einen Sure Shot für jeden Anhänger dieser Sparte handelt, eine rundum gelungene Angelegenheit, in der sich das immerhin dreijährige Bandbestehen und weit über einhundert gespielte Shows widerspiegeln. Anspieltipps sind Crestfallen, Judas Castigation und vor allem der Titeltrack.
+
+<hr>
+
+#### Trapped Under Ice - Secrets Of The World
+
+_22. September 2009_
+
+Dass sich neue Veröffentlichungen an ihren Vorgängern messen lassen müssen, ist nicht neu; der Nachfolger einer mit Kritikerlob geradezu überhäuften "Stay Cold"-CD ist keine Ausnahme und so schickt der US-Bundesstaat Maryland sein Schlachtschiff Trapped Under Ice erneut ins Feld, um den Beweis anzutreten, dass "total aural brutality" nicht nur in EP-Form funktioniert, sondern auch auf voller Länge überzeugen kann.
+
+Dem Vorgänger nicht unähnlich, bietet sich dem Zuhörer ein akustisches Schauspiel, das mit Hardcore Punk und Metal in den Hauptrollen bestens besetzt ist und für den beinahe schon obligatorischen Hip-Hop-Einschlag die eine oder andere Statistenrolle bereithält. Nur langsam schippert "Secrets Of The World" aus den Lautsprechern und wagt sich gelegentlich in Midtempo-Gefilde; dass das Ganze dennoch niemals ins Phlegmatische abdriftet, dafür sorgt Reibeisenstimme Justice, der nicht einfach wütend oder angefressen klingt, auch "angepisst" ist kein Adjektiv, das stark genug wäre, diesen Hassbatzen zu beschreiben.
+
+Doch nicht nur die markante stimmliche Gestaltung, auch die Textinhalte legen die Vermutung nahe, dass es hier weniger um die Geheimnisse als viel mehr alles Schlechte auf der Welt geht: "Can't wash my hands of the blood and oil. Can't take this poison as mine and hide behind dollar signs." Der Song "American Dreams" spricht eine deutliche Sprache, doch es geht um so viel mehr, die Schwierigkeit, das richtige zu tun, Drogenmissbrauch und Prostitution, "Titus" ist zweifelsohne der traurige Höhepunkt des Albums. Der Rausschmeißer "World I Hate" bringt die Grundstimmung von "Secrets Of The World" dann noch einmal auf den Punkt: "You know I hate the world."
+
+Trapped Under Ice überzeugen tatsächlich über die gesamte Distanz; das aktuelle Release überzeugt durch reichlich Druck, fetten Groove und sparsam eingesetzte, dafür umso wirksamere Melodien und auch wenn sie sich damit nicht für die Academy Awards qualifizieren werden, die Oscar-Rede dieser Jungs wäre sicher Gold wert. Anspieltipps sind "Believe", "Gemini" und "Titus".
 
 <hr>
 
