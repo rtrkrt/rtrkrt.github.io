@@ -266,7 +266,7 @@ Ich kann Ihnen nicht erklären, warum Sie beide so oft streiten. Doch da ist ein
 
 #### Nachtmahr
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Und wieder: Ich sitze aufrecht in meinem Bett und starre vor mich hin, zu vertraut mit der mich umgebenden Dunkelheit, zu vertraut mit dem Schrecken, der sich mir ins Mark bohrt. Es ist dieser Traum, ein sich ständig wiederholendes Kammerspiel, noch heute Morgen erzählte ich meinem besten Freund davon.
 
@@ -282,7 +282,7 @@ Ich lasse mich rücklings auf dem morschen Sims nieder und lehne mich langsam zu
 
 #### Damenwahl
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Sie lehnt in einem gemütlich aussehenden Freischwinger, stumm und teilnahmslos, die Stirn in Falten gelegt, so will es meine Fantasie. Sie würde mich nicht bei sich haben wollen, wenn der Grund meiner Anwesenheit eine Wahl nicht schon ausgeschlossen hätte; eine Einstellung, die sie mit jeder meiner bisherigen Gastgeberinnen teilt. Eine Steppdecke verhüllt ihre Beine, Vlies vermutlich, das hält die Kälte zurück, sie zittert auch schon nicht mehr. Ich habe es bislang ebenso wenig vertreten können, mich meines Mantels zu entledigen, nicht wegen der Kälte, nicht ausschließlich, mir bleibt keine Zeit für Annehmlichkeiten, die Anderen werden in wenigen Augenblicken eintreffen.
 
@@ -298,7 +298,7 @@ Die Anderen nähern sich hörbar, sie werden sie mitnehmen. Müsste ich betrübt
 
 #### Der Schwarze Mann
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Der Schwarze Mann, so kühn wie klug,<br>
 Erscheint im Strahlenschutzanzug.
@@ -316,7 +316,7 @@ Die Todesliste, ein Telefonbuch.
 
 #### Der Esel und die Elster
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Es musst’ ein Esel unter schweren Peitschenhieben<br>
 Seines bösen Herren Felder pflügen.
@@ -337,7 +337,7 @@ Und pflügt strahlend das Feld, bis zum Ende.
 
 #### Verbrannte Erde
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Verbrannte Erde<br>
 Schwarz und fahl<br>
@@ -358,7 +358,7 @@ Der Ackermann
 
 #### Eilmeldung
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Gesichtszug bei Abstecher entgleist.<br>
 Nervenbahn drückt ihr Bedauern aus.<br>
@@ -369,7 +369,7 @@ Im Fahrplan für Gefühlschaos.
 
 #### Der kleine Mann
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Der kleine Mann im Schaffenstal<br>
 Hüllt die Narben des Verzichts<br>
@@ -380,7 +380,7 @@ Und sein Feiertagsgesicht.
 
 #### Herodes
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Kindliche Sphinx<br>
 So närrisch unvollkommen<br>
@@ -402,7 +402,7 @@ Entlang der Atemwege
 
 #### Geintherapie
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Gezeichnet von einem<br>
 Misanthropen
@@ -427,7 +427,7 @@ Meiner Selbst
 
 #### Kemper fidelis
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Metallischer Aufschrei<br>
 Durchdringt Mark und Bein
@@ -451,7 +451,7 @@ Hypnotisierend
 
 #### Charon
 
-_27. Juni 2011 in Zusammengereimtes_
+_? in Zusammengereimtes_
 
 Sechsfüßig<br>
 Ruhen Gebeine<br>
