@@ -38,10 +38,10 @@ _2016-11-08_
 
 #### Kurts Filme
 
-[Die Farbe aus dem All (2019) oder Liebling, ich habe die Kinder absorbiert](kurfil-difarball.md)<br>
+[Die Farbe aus dem All (2019) oder Liebling, ich habe die Kinder absorbiert](krtsflm201125.md)<br>
 _2020-11-25_
 
-[Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](kurfil-eruzwan.md)<br>
+[Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](krtsflm200821.md)<br>
 _2020-08-21_
 
 <hr>
