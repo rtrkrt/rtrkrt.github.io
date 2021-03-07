@@ -117,5 +117,8 @@ _2020-07-25_
 
 #### Altlastimpressionen
 
+[Not eines Handlungsreisenden](hndlngsrsndr.md)<br>
+_Februar 2012 bis Juni 2013_
+
 [Partyausfall](prtsfll.md)<br>
 _Juni 2009 bis Dezember 2009_
