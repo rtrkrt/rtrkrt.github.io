@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_9. März 2021_
+
+Nein, Alter ist keine Zahl. Alter sind Sätze wie "Diese Schwammtücher, die dein Schwager uns empfohlen hat, sind wirklich gut!"
+
 _26. Februar 2021_
 
 Sohnemann hat seinen ersten Witz erzählt: "Wie nennt man eine Bad-Küche? Schlitten!" - kapier' ich nicht ...
@@ -8,11 +12,11 @@ _19. Februar 2021_
 
 "Aber wir gucken noch, wie hoch die Corona-Zahlen in Sachsen sind!" ist also das neue "Bitte, Papa, nur noch 5 Minuten!"
 
-_06. Februar 2021_
+_6. Februar 2021_
 
 Falls sich noch jemand von euch fragt, wie es ist, verheiratet zu sein: "Bei Streuselschnecken hört der Spaß auf!"
 
-_03. Februar 2021_
+_3. Februar 2021_
 
 Die zwei sich stets wiederholenden Phasen des Kinderspiels sind Regieanweisung: "Und jetzt merken wir, dass da HUNDERT Feuermonster kommen und hier alles in Brand stecken wollen!" Und die unmittelbar darauffolgende, preisverdächtig theatralische Darbietung: "Oh nein, da kommen HUNDERT Feuermonster und wollen hier alles in Brand stecken!"
 
