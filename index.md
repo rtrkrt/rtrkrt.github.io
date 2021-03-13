@@ -48,6 +48,9 @@ _2020-08-21_
 
 #### Memento Metallum
 
+[Black-Metal-Jahr 94: Der innerskandinavische Maliziösitäts-Konflikt](mtllm210313.md)<br>
+_2021-03-13_
+
 [Lobgesänge: Die Vorgeschichte zu Fanboy-Gewäsch](mtllm210216.md)<br>
 _2021-02-16_
 
