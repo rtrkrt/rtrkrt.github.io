@@ -1,6 +1,6 @@
 #### Aus dem Leben eines Spitzenprädators
 
-_13. März 2021_
+_14. März 2021_
 
 Wenn man sich sportlich betätigt, das wie auch immer geartete Resultat anschließend jedoch nicht bei Social Media teilt, hat man sich dann wirklich sportlich betätigt?
 
