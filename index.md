@@ -1,7 +1,7 @@
 #### Aus dem Leben eines Spitzenprädators
 
 [Aus dem Leben eines Spitzenprädators](sptznprdtr.md)<br>
-_2021-03-09_
+_2021-03-14_
 
 <hr>
 
