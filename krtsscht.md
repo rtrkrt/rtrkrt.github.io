@@ -14,6 +14,14 @@ Es gehört schon einiges dazu, ein potenzielles Trash-Juwel so entschieden den n
 
 <hr>
 
+#### Das Schwein (Edward Lee)
+
+_25. Dezember 2018_
+
+Ganz gleich, welche Marketingstrategie dahintersteckt - nach allem, was ich über "Das Schwein" und seine sagenhaft unbedeutende Titelrolle zu berichten weiß, hätte der Name dieser elenden Anhäufung notorischer Perversionen genauso gut "Die halbe Seite, auf der ein Typ die Frau seines Chefs vögelt, bevor sein Leben die sicherlich hirnrissigste aller verderbten Wendungen nimmt" lauten können. Gern geschehen!
+
+<hr>
+
 #### Ant-Man (2015)
 
 _9. Dezember 2018_
@@ -38,11 +46,59 @@ Drei Staffeln "Ash vs Evil Dead", eine kurzlebige Wiedersehensfeier für alle Li
 
 <hr>
 
+#### Black Panther (2018)
+
+_20. März 2018_
+
+Selbst in einer Welt der fleischgewordenen Gottheiten und Supermänner mit implantierten Reaktoren ist eine Pille wie die der afrikanischen Hightech-Nation im Verborgenen alles andere als leicht zu schlucken, denn anstatt dem "Höher, Schneller, Weiter" der zurzeit umjubeltsten Comichelden-Liga auf dem Planeten Genüge zu tun, wirft es einen nach mehr als 2 Stunden des rituellen Lümmelfechtens und der Superspion-Tristesse in hohem Bogen an den Punkt zurück, den man streng genommen vor Filmbeginn bereits abgehakt wähnte: "Der König ist tot, es lebe der König!"
+
+<hr>
+
 #### Alien: Covenant (2017)
 
 _14. Januar 2018_
 
 Mal ehrlich, viel hat sich im Umgang mit geheimnisumwitterten Funksprüchen seit dem Ende der Siebziger nicht gerade getan - raus aus den Kryostase-Federn, noch kurz zwischen den Naheinstellungen hin- und herwundern; und dass mir der Erkundungstrupp ja nicht ohne mordbesessenes Scheusal im Gepäck zurückkommt! Ach, und das größte aller Übel, auch wenn mit "Prometheus" außerirdische Humanoide als Erschaffer und Vernichter der Erdbevölkerung ins Feld geführt wurden, ist wie immer menschengemacht ... so einfach ist das eben!
+
+<hr>
+
+#### Deathgasm (2015)
+
+_20. November 2017_
+
+Es ist, als hätten Shaun und Ed (jedes andere konfliktgeschüttelte Horror-Comedy-Kumpel-Gespann tut's auch) die Nietenarmbänder angelegt, kurzerhand eine Garagenband aus der Taufe gehoben und wider besseren Wissens eine der Weltuntergangs-Arien aus dem Necronomicon zum Besten gegeben. Was folgt, ist der ganz normale Dämonen-Wahnsinn und zweifelsohne das Werk eines eingefleischten Gorehounds, rabiat, ungeheuer drollig, filmgeschichtlich absolut bedeutungslos.
+
+<hr>
+
+#### Blair Witch (2016)
+
+_14. Oktober 2017_
+
+"Blair Witch Project" steht wie kaum ein zweiter Filmtitel für das reichweitenstarke Kokettieren mit den ursprünglichsten unserer Ängste und von Ammenmärchen beflügelter Paranoia. Gute Argumente also, sich gar nicht erst an einer gebührenden Fortsetzung zu versuchen und dafür von paranormalem Radau über langgliedrige Schreckgestalten alles hochleben zu lassen, was in mehr als einem Jahrzehnt Found-Footage-Hype nur ansatzweise von Erfolg gekrönt war. Der Haken: Gute Vorsätze plus standardisierte Ausführung macht allenfalls mittelmäßiges Gänsehaut-Kino.
+
+<hr>
+
+#### Clown (2014)
+
+_2. August 2017_
+
+Sympathie, Gleichgültigkeit, Hass, irgendwo zwischen dem anrührend festgehaltenen Verderben eines aufopferungsvollen Familienvaters durch dämonisches Wirken, mehr oder weniger explizitem Kindergefresse und herausragend blöden Handlungsmustern löst sich eine regelrechte Lawine widerstreitender Emotionen, von denen positive Überraschtheit am Schluss gerade noch überwiegt.
+
+<hr>
+
+#### Dead Rising: Endgame (2016)
+
+_27. Juli 2017_
+
+Holt die dreidimensionalen Gebäudepläne hervor, streift den traditionellen Trenchcoat für konspirative Parkbank-Treffen über und heftet einen dieser unheildrohenden Countdowns an den unteren Bildrand – wir begeben uns auf himmelschreiende Vereitelungsmission! Der Haken ist, was nach historisch gewachsenen Merkmalen eines generischen Agententhrillers aussieht, raubt den „heimlichen“ Helden eines jeden Zombiefilms nicht nur unnötig Bühnenzeit, es ist außerdem anzunehmen, dass das dem Konzept vorausgegangene Brainstorming eine gemütsarme Zigarettenlänge nicht überschritten hat.
+
+<hr>
+
+#### Baskin (2015)
+
+_12. Juni 2017_
+
+Nicht, dass es einem um die knochenharten Berufsproleten leid täte, die da, von trickreichen Kamerafahrten und hektischen Schnitten begleitet, in ein infernalisches Spektakulum verstrickt werden, wie man es sonst nur am Rande des Universums vorfindet. Wer identifiziert sich schon gerne mit einer Bande Wochenendsodomisten! Immerhin bleibt das Endprodukt noch zu Teilen imposant und ist Richtung Ausgang so voraussehbar, wie es eine ansonsten verworrene Unterwelt-Parabel nur sein kann.
 
 <hr>
 
@@ -59,3 +115,11 @@ Ein Mann – Joe Armstrong -, dessen Name von jedem Online-Übersetzer mit „am
 _15. Februar 2017_
 
 Heldenmut in allen Ehren, aber es ist schon ziemlich idiotisch, mit welcher Einfältigkeit so ein paar nerdige Selfmade-Dämonenjäger ein schicksalhaftes Weltuntergangs-Scharmützel nach dem nächsten ansteuern. Erst recht, wenn man bedenkt, dass die treibende Kraft ein das eigene Spiegelbild anhimmelnder Egomane ist. Auf der anderen Seite schlösse eine weniger lebensmüde Verfahrensweise keine Kettensägen-Zweikämpfe und ganz sicher keine koloproktologischen Tauchgänge ein. Wenn ich es also recht bedenke: Weiter so!
+
+<hr>
+
+#### Cabin Fever – The New Outbreak (2016)
+
+_24. Januar 2017_
+
+Sinn und Unsinn praktisch Bild für Bild abgepinselter Remakes sind schon seit geraumer Zeit anerkannter Streitgegenstand unter Film-Enthusiasten, allseitige Einigkeit herrscht hingegen immer dann, wenn von frischen Impulsen keine Rede sein kann, die Vorlage ja sowieso als alles andere als überholt einzustufen ist und die vermeintliche Runderneuerung vom jammervollen Nachwuchs-Cast über mangelnde Authentizität bis hin zu einer elendig trägen Aufführung aus so ziemlich jedem Blickwinkel abstinkt.
