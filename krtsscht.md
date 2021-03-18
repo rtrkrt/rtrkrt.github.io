@@ -38,11 +38,43 @@ Nun, da sich jede x-beliebige Gottheit und andere Möchtegerns zur Eindämmung p
 
 <hr>
 
+#### The Night Comes for Us (2018)
+
+_28. November 2018_
+
+Es dürfte sich schon um einen außergewöhnlichen Fall von Realitätsverlust handeln zu glauben, ein Cast austrainierter Vollkontakt-Athleten müsse mir eine Identifikationsfigur bieten (erst neulich bin ich beim Schuhebinden vornübergefallen). Aber hey, bei all der Theatralik und dem hochästhetischen Blutvergießen kann man wohl davon ausgehen, dass ein oder zwei ehrbare Strauchdiebe darunter sind, oder etwa nicht?
+
+<hr>
+
 #### Halloween (2018)
 
 _24. November 2018_
 
 Aus gemartertem Mauerblümchen mach greise Tank-Top-Amazone, eine dieser uralten Geschichten, nicht wahr? Und, nebenbei bemerkt, verdammt viel Aufwand für diesen einen "Hättet ihr nur auf mich gehört!"-Moment. Aber wen juckt das schon, solange die Gags zünden und der Body-Count dem Zeitgeist Genüge tut!
+
+<hr>
+
+#### Meg (2018)
+
+_12. November 2018_
+
+Nach nur 100 Minuten adrenalingespickter Halbwahrheiten über unersättliche Tiefsee-Ungetüme darf immerhin eine Erkenntnis als zweifelsfrei gesichert betrachtet werden: Der natürliche Todfeind eines vorzeitlichen Monster-Hais von unbegreiflichen Proportionen ist der kodderschnäuzige Berufsheld mit zurückweichender Haarlinie und posttraumatischen Anwandlungen.
+
+<hr>
+
+#### The Nun (2018)
+
+_5. November 2018_
+
+Der Ash Williams unter den Geistlichen pilgert in himmlischer Rufbereitschaft zur Hogwarts-Schule für Schwarze Messen, wo er und seine vor Charme sprühende Entourage es mit der neuesten Iteration vom Tanz der besonders übergriffigen Teufel zu tun bekommen. Wenn das nicht der Stoff ist, aus dem Höllenbrut-Origin-Träume sind, dann weiß ich auch nicht.
+
+<hr>
+
+#### Monstersperma (Edward Lee)
+
+_15. September 2018_
+
+"Monstersperma", das ist nichts, das man auf seiner PayPal-Abrechnung wiederfinden möchte, "Monstersperma" ist die Geschichte eines mit seimigen (zwinker, zwinker!) Höhepunkten vollgekleisterten Martyriums, die sich, wendungsreich wie die A20, aus einem grandios retardierten Verstand gewunden haben muss.
 
 <hr>
 
@@ -102,6 +134,14 @@ Selbst in einer Welt der fleischgewordenen Gottheiten und Supermänner mit impla
 
 <hr>
 
+#### The Mildew from Planet Xonader (2015)
+
+_26. Februar 2018_
+
+Sicherlich, angeklebte Schnauzbärte, abgeschmackte Hemden und ein bisschen Studiodekoration machen noch keine oberauthentische Reagan-Ära, andererseits, wenn ich mir ansehen will, wie eine Mehrzahl unbekümmerter Komparsen in aller Anschaulichkeit zerfetzt, zermalmt oder zerschreddert wird, dann ist Authentizität nicht das, was ich ein bindendes Kriterium nennen würde, und die Nummer von den übersinnlich begabten Wissenschaftlern im Zentrum eines multinationalen Konflikts um außerirdische Mikroorganismen gerade blöd genug für anderthalb Stunden unverkopfte Erwachsenenunterhaltung.
+
+<hr>
+
 #### Leprechaun: Origins (2014)
 
 _19. Februar 2018_
@@ -131,6 +171,14 @@ Wer annimmt, es sei dröge, einer Hauptfigur zur Seite zu stehen, die dank eines
 _24. Dezember 2017_
 
 Unter Berufung auf die einschlägigen Schwergewichte im Exploitation-Business eine so vollendet unausgegorene Vergeltungsarie auf den Weg zu bringen, dass selbst der gemeine Bundesprüfstellenbeamte nur ein gleichgültiges Achselzucken übrig hat, ist schon aller Ehren wert.
+
+<hr>
+
+#### Die Mumie (2017)
+
+_28. November 2017_
+
+Wer nach der Liga für außergewöhnliche Gentleman oder den jüngeren Leinwand-Eskapaden eines Van Helsing noch in dem Wahn lebt, Romanhelden-Mashups seien DAS große Ding, der sollte therapiebegleitend unbedingt einen Blick riskieren, allen übrigen rate ich, sich mit einer weniger invasiven Form der Zerstreuung zu befassen, der Lobotomie zum Beispiel.
 
 <hr>
 
@@ -206,6 +254,14 @@ Ein Filmereignis wie eine durchgeweichte Wundertüte, randvoll mit freischwingen
 
 <hr>
 
+#### Machete Kills (2013)
+
+_3. Juli 2017_
+
+Typisch! Kaum beginnen die Grenzen zwischen beabsichtigt Billig und billig Billig allmählich zu verschwimmen, schnappt irgendwo eine Schublade für lausige Fortsetzungen auf und erbricht hochgerüstete Freudenmädchen und wortkarge Protagonisten mit der Körpersprache eines Plunderteilchens. Kein Wunder, denn dank der halsbrecherischen Folge abstruser Intermezzi ist Schwindel vorprogrammiert – und leichtes Kopfweh und Übelsein und das unbewusste Gefühl, seine Lebenszeit zu vertun.
+
+<hr>
+
 #### Baskin (2015)
 
 _12. Juni 2017_
@@ -254,6 +310,22 @@ Was haben wir diesen ominösen Nervenheilanstalten nicht alles zu verdanken! Nic
 
 <hr>
 
+#### Maggie (2015)
+
+_8. März 2017_
+
+Durch die abgeklärte Inszenierung der Nachwehen einer weitreichenden Seuche hat der Zombiefilm „Maggie“ praktisch nichts zu bieten, die Tragödie „Maggie“ allerdings ist ausdrucksstark bebildert, auf ihre Art sogar besonders, und schickt einen Hauptdarsteller ins Rennen, der weit abseits seiner altvertrauten Schauspielpfade freilich keine herausragende Figur abgibt, mit ungewohnten Facetten aber durchweg überzeugt.
+
+<hr>
+
+#### Paranormal Activity – Ghost Dimension (2015)
+
+_23. Februar 2017_
+
+Hier ist er nun, der Abgesang, dessen offensichtlicher Zweck es ist, die Ungereimtheiten zu entwirren, die den schablonenhaften Budenzauber bis zuletzt vor der Belanglosigkeit bewahrt haben. Und so wird versiert glanzlos, dafür mit durchdringendem Getöse konsequent ein Handlungsklimax angesteuert, mit dem Fäden zusammen- und ein Abschluss herbeigeführt wird, der zumindest insoweit zufriedenstellend ist, als es ein paar auf Stative montierte Kameras eben ermöglichen.
+
+<hr>
+
 #### Ash vs Evil Dead (Staffel 2)
 
 _15. Februar 2017_
@@ -275,6 +347,14 @@ Sinn und Unsinn praktisch Bild für Bild abgepinselter Remakes sind schon seit g
 _19. November 2016_
 
 Ein bisschen kleines Einmaleins für Maskenmörder-Novizen. Und hier und da etwas von dem falschen Heldenmut, der bisher noch jeden Hoffnungsträger in die Katastrophe gestürzt hat. Blasse Figuren gehören zum guten Ton. Warum die Mühe, wenn es ihnen ja doch an den Kragen geht! Entscheidend ist, dass sich ein paar abgegriffene Leitbilder unter ihnen finden. Hauptsache extrem! So steht’s immerhin auf dem Buchrücken. Mittelmaß? Kann ich!
+
+<hr>
+
+#### Moontrap - Gefangen in Raum und Zeit (1989)
+
+_30. Oktober 2016_
+
+Es begab sich während eines jener Weihnachtsabende meiner frühen Kindheit, an denen der Weihnachtsmann zwar nicht mehr persönlich vorbeischaute, aber stets so viel Anstand bewies, meiner Schwester und mir einen halbseitigen Brief zukommen zu lassen, in welchem er die Gründe für sein Fortbleiben ausführte. Jedenfalls begab es sich, dass, nachdem "Der Glücksbärchi-Film" den Sendeplatz freigegeben hatte, der ungleich beängstigendere "Moontrap" mir einen mordsmäßigen Schauer über den Rücken jagen durfte. Außerirdische Maschinenwesen, die sich an den Körpern Weltraumreisender zu schaffen machen wie an einem VW Käfer, ordentliche Spezialeffekte, die man aus einem fortschrittlicheren Blickwinkel heraus belächeln könnte, sich aber bestens der vorangestellten Prämisse angliedern, sowie kantige Figuren, die meistenteils Plattheiten kommunizieren und sich speziell unter emotional aufreibendsten Umständen für Beischlaf begeistern lassen ... keiner der Beteiligten scheint sich an die Überzeugung gekrallt zu haben, an einem Meisterstück zu tüfteln, sodass versehentlich ein Nischen-Produkt von (Klassiker-)Format entstehen konnte.
 
 <hr>
 
