@@ -8,7 +8,7 @@ _Seit 2012, zuletzt aktualisiert: 2021-03-14_
 #### Brockhaus ist kein Plattenbau
 
 [I wie in ... Indoor-Frisbee](brckhs210108.md)<br>
-_2021-01-08_
+_Seit 2016, zuletzt aktualisiert: 2021-01-08_
 
 [H wie in ... Honigwein aus Eierbechern](brckhs200607.md)<br>
 _2020-06-07_
