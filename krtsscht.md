@@ -126,11 +126,27 @@ Punkt eins, wenn ein schachbegabter Kampfkunst-, Blank- und Feuerwaffen-Virtuose
 
 <hr>
 
+#### Undisputed III: Redemption (2010)
+
+_3. Juni 2018_
+
+Von der kaltblütigen Mordmaschine in die Riege der geläuterten Knastkumpel zum Super-Sonderpreis eines ramponierten Knies, so eine Beförderung auf den Protagonistenstuhl ist nun mal kein Kindergeburtstag, und der Fall des selbsternannten vollkommensten Kämpfers diesseits des Proxima Centauri Grabbeltisch-Unterhaltung der Extraklasse!
+
+<hr>
+
 #### Ash vs Evil Dead (Staffel 3)
 
 _28. Mai 2018_
 
 Drei Staffeln "Ash vs Evil Dead", eine kurzlebige Wiedersehensfeier für alle Liebhaber des komisch-orgiastischen Nonstop-Splatters und die beste Antwort auf eine unwahrscheinliche Frage wie "Wie lange muss sich ein gehirnamputierter Chauvi nach dem immer gleichen Duktus durch das Innenleben auferstandener Anverwandter wühlen, bevor er selbst abgesägt wird?" - Wortspiel beabsichtigt!
+
+<hr>
+
+#### Undisputed IV: Boyka Is Back (2016)
+
+_24. Mai 2018_
+
+Dass einer nach etlichen Faustschlägen gegens Denkgerüst auf die Bretter geht und nicht wieder hochkommt, erscheint im Zwielicht halblegaler Prügelveranstaltungen unausweichlich. Nicht so jedoch in den Augen eines gottgefälligen Ausnahmekämpfers mit Begnadeten-Komplex, dessen Verständnis von Absolution gerade mal bis an die Schwelle zur maschinellen Lebenserhaltung reicht, wenn es um die imponierende, praktisch nicht steigerungsfähige Abfertigung austauschbarer Spießgesellen geht.
 
 <hr>
 
@@ -171,6 +187,14 @@ Sicherlich, angeklebte Schnauzbärte, abgeschmackte Hemden und ein bisschen Stud
 _19. Februar 2018_
 
 Weder die Art rammdösiger Aktionen, bei denen man hoffnungsfroh in die Obhut der Dorfgemeinschaft zurückflüchtet, deren Angehörige sich längst als Wasserträger des Teufels geoutet haben, noch das wohl grässlichste Schrei-Stakkato in der Geschichte miefiger Reboots werden den ramscherprobten Kobold-Freund wirklich auf die Palme bringen können. Das unrühmliche Ende der besonderen Ära "Leprechaun" kommt stattdessen in Gestalt eines fahlhäutigen, Höhlen bewohnenden, ganz und gar hutlosen Wadenbeißers à la "Abgrund des Grauens", der vergeblich an frühere Erfolge anzuknüpfen sucht.
+
+<hr>
+
+#### The Windmill Massacre (2016)
+
+_8. Februar 2018_
+
+Ein bunter Haufen Querulanten flüchtet sich in die Abgeschiedenheit eines verlotterten Touri-Busses, um der unumgänglichen Strandung im gottverlassenen Nirgendwo entgegenzujuckeln und, dem halbherzigen Schuld-und-Sühne-Konzept entsprechend, reihum den Trugbildern ihrer individuellen Dämonen zum Opfer zu fallen. Das haben andere schon besser hinbekommen. Und Windmühlen braucht es dazu auch keine!
 
 <hr>
 
@@ -235,6 +259,14 @@ Es ist, als hätten Shaun und Ed (jedes andere konfliktgeschüttelte Horror-Come
 _13. November 2017_
 
 In den Hügeln im texanischen Niemandsland, fernab der letzten Ausläufer kartografierter Zivilisation, liegt das Aussteiger-Idyll "Hell". Und weil in "Hell", Texas, Rückständigkeit und tief verwurzelter Rassismus Hand in Hand gehen, ist es ganz und gar unnötig, sich mit der Illustration irgendwelcher Figuren aufzuhalten, solange nur deren ethnologischer Hintergrund richtig- und ein stupid grotesker Abgang sichergestellt ist. Lieber schnell noch eine Massenvergewaltigung angezettelt, während beim Nachbarn feuchte Übermensch-Fantastereien Wirklichkeit werden. Quick and dirty. So macht man das eben. Hier in "Hell", Texas.
+
+<hr>
+
+#### Thor - Tag der Entscheidung (2017)
+
+_7. November 2017_
+
+Mag auch das Drehbuch, so viel steht fest, nicht über jeden Zweifel erhaben sein, das grellbunte Gemenge aus nordischer Mythologie, Science-Fiction und unablässigem Rumgeblödel ist es ohne Frage, stimmt doch der vormals ach so einsilbige Alabaster-Ase mit vornehmer Verspätung in den Kanon programmatischer Superhelden-Blockbuster ein.
 
 <hr>
 
@@ -318,6 +350,14 @@ Typisch! Kaum beginnen die Grenzen zwischen beabsichtigt Billig und billig Billi
 
 <hr>
 
+#### Stolz und Vorurteil & Zombies (2016)
+
+_20. Juni 2017_
+
+Das stutenbissige Kompetenzgerangel, die Arglist, romantisch verklärtes Gefrotzel, und natürlich die schlachterprobten Krieger-Schwestern, die in wehenden Unterröcken und engen Korsetts gegen halb verweste Edelleute zu Felde ziehen … fetziges Zombie-Kino findet sich neuerdings also ausgerechnet in über 200 Jahre alten Schmökern! Jane Austen dürfte sich im Grabe umdrehen. Aber darum geht es in solchen Streifen schließlich auch, nicht wahr?
+
+<hr>
+
 #### Baskin (2015)
 
 _12. Juni 2017_
@@ -334,11 +374,27 @@ Ein sexuell übertragbarer Dämon. Na, wenn das nichts ist! Glück nur, dass ein
 
 <hr>
 
+#### Unknown User (2014)
+
+_27. Mai 2017_
+
+In der Tradition kosteneffizienter Produktionen mit einem Maximum an Suggestivkraft sind Gruselatmo per Google-Suchanfrage und das abzählreimartige Dahingeraffe von Gruppenchat-Partizipanten ganz bestimmt löbliche Ansätze, aber auch nicht mehr als das, Ansätze, und als solche kein Ersatz für eine packende Storyline oder gar einen eigenständigen Mythos.
+
+<hr>
+
 #### Slasher: The Executioner (Staffel 1, 2016)
 
 _23. Mai 2017_
 
 Schwülstige Bibelstunden? Check! Ein gerüttelt Maß Lämmerschweigen? Check! Das Fünkchen Schöpfergeist, das dem Serien-Enthusiasten vorgaukeln soll, seine Zeit nicht mit Wiedergekäutem verplempert zu haben? Vielleicht in Staffel 2.
+
+<hr>
+
+#### WolfCop (2014)
+
+_12. Mai 2017_
+
+Wie viel Reiz doch in der wissentlichen Herabwürdigung eines populären Leinwand-Ungeheuers zum Instrument eines auf intrigantem Okkultismus basierenden Zeremoniells steckt! Dazu ein amtlicher Zero-to-(Anti-)Hero-Schwank, knisternde Werwolf-Erotik und fertig ist das Trash-Juwel: Garantiert doof, garantiert ohne Nebenwirkungen.
 
 <hr>
 
