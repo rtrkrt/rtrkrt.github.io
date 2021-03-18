@@ -6,6 +6,14 @@ Hat man sich erst mit den kruden Kopfgeburten solcher als Vollender der literari
 
 <hr>
 
+#### Hatchet - Victor Crowley (2017)
+
+_15. Juni 2019_
+
+Allein wer es im Sequel-Handwerk zur Meisterschaft gebracht hat, wird erkennen, dass eine auf drei abendfüllende Splatter-Eskapaden ausgewalzte Schreckensnacht nicht endlos demselben Muster aus exzessivem Blutvergießen, Kotz- und Genital-Späßen folgend fortgesetzt werden kann, und kurzerhand demselben Muster aus exzessivem Blutvergießen, Kotz- und Genital-Späßen folgend eine weitere auf den Weg bringen.
+
+<hr>
+
 #### Bunny und sein Killerding (2015)
 
 _7. Juni 2019_
@@ -30,6 +38,14 @@ Nun, da sich jede x-beliebige Gottheit und andere Möchtegerns zur Eindämmung p
 
 <hr>
 
+#### The First Purge (2018)
+
+_31. Juli 2018_
+
+Inzwischen dürfte auch der letzte Filminteressierte in diesem Quadranten der Milchstraße eingesehen haben, dass der dystopische Geniestreich einer heiligen Nacht des Verhackstückens und des Brandschatzens mehr ist als eine bloße Richtschnur für unreflektierten Popcorn-Terror im Yuppie-Milieu. Strittig bleibt allerdings, wie viele Ghettofäuste so ein "Reinweiße Obrigkeit vs. farbige Mittellose"-Politikum vertragen kann, bevor wir wieder über unreflektierten Popcorn-Terror sprechen.
+
+<hr>
+
 #### Blood and Bone (2009)
 
 _13. Juni 2018_
@@ -43,6 +59,14 @@ Punkt eins, wenn ein schachbegabter Kampfkunst-, Blank- und Feuerwaffen-Virtuose
 _28. Mai 2018_
 
 Drei Staffeln "Ash vs Evil Dead", eine kurzlebige Wiedersehensfeier für alle Liebhaber des komisch-orgiastischen Nonstop-Splatters und die beste Antwort auf eine unwahrscheinliche Frage wie "Wie lange muss sich ein gehirnamputierter Chauvi nach dem immer gleichen Duktus durch das Innenleben auferstandener Anverwandter wühlen, bevor er selbst abgesägt wird?" - Wortspiel beabsichtigt!
+
+<hr>
+
+#### Get Out (2017)
+
+_27. März 2018_
+
+Der Chef empfiehlt: Eine Variation von Körperfresser-Gespinst an manieriertem Villenviertel-Rassismus mit einer Idee Homeboy-Humor, garantiert magenschonend und nicht halb so außergewöhnlich, wie es den Anschein hat, genau das Richtige also bei gesundem Blockbuster-Appetit.
 
 <hr>
 
@@ -62,11 +86,27 @@ Mal ehrlich, viel hat sich im Umgang mit geheimnisumwitterten Funksprüchen seit
 
 <hr>
 
+#### Mit Dornen und Widerhaken (Thomas Sichelschmied)
+
+_30. Dezember 2017_
+
+Wer annimmt, es sei dröge, einer Hauptfigur zur Seite zu stehen, die dank eines ständig wachsenden Arsenals bizarrer Körperauswüchse mehr oder minder unbehelligt einen Berg von Leichen anhäuft, derweil ein universelles "Keine Ahnung, wie oder warum. Interessiert mich auch nicht!" für mangelnde Substanz entschädigt, der hat nicht die leiseste Vorstellung, wie recht er damit hat!
+
+<hr>
+
 #### Deathgasm (2015)
 
 _20. November 2017_
 
 Es ist, als hätten Shaun und Ed (jedes andere konfliktgeschüttelte Horror-Comedy-Kumpel-Gespann tut's auch) die Nietenarmbänder angelegt, kurzerhand eine Garagenband aus der Taufe gehoben und wider besseren Wissens eine der Weltuntergangs-Arien aus dem Necronomicon zum Besten gegeben. Was folgt, ist der ganz normale Dämonen-Wahnsinn und zweifelsohne das Werk eines eingefleischten Gorehounds, rabiat, ungeheuer drollig, filmgeschichtlich absolut bedeutungslos.
+
+<hr>
+
+#### GOON - Das perfekte Wrestling-Match (Edward Lee)
+
+_20. Oktober 2017_
+
+Wer, wie ich, die Sommerabende der Neunziger damit zugebracht hat, auf der großelterlichen Datsche bis in die Puppen gegen das Unverhältnis von Trashtalk und Ringzeit bei den großen Wrestlingverbänden zu wettern, hat für die beknackten Anspielungen auf namhafte Spandex-Spartiaten aus dieser Zeit gewiss ein paar Sympathiepunkte im Hemdsärmel. Für alle anderen gilt: Sobald ein Edward Lee in seinem pflichtbewusst abgespulten Tagewerk mal wieder irgendeine libidogesteuerte Unterwelt-Brut ausschickt, neue Schneisen des Todes und der gründlich durchgewalkten Körperöffnungen durch die Provinz zu ziehen, ist es nicht länger nur eine Frage des Geschmacks, es ist mehr noch eine Frage des Durchhaltevermögens.
 
 <hr>
 
@@ -94,6 +134,22 @@ Holt die dreidimensionalen Gebäudepläne hervor, streift den traditionellen Tre
 
 <hr>
 
+#### 31 (2016)
+
+_14. Juli 2017_
+
+Es ist fast so, als hätte der Running Man heimlich zugesehen, wie Hungerspiele und Kettensägenmassaker sich einem ungestümen Techtelmechtel hingeben und mit „31“ das Produkt dieser für alle Beteiligten ernüchternden Vereinigung auf die Menschheit loslassen. Und dieses ist barbarisch und vulgär und zudem total abgeleiert und es schert sich einen Dreck um Sympathieträger.
+
+<hr>
+
+#### The Greasy Strangler – Der Bratfett-Killer (2016)
+
+_6. Juli 2017_
+
+Ein Filmereignis wie eine durchgeweichte Wundertüte, randvoll mit freischwingenden Genitalien und weiteren sinnentleerten Grenzerfahrungen aus dem Mumpitz-Generator. Und vergessen wir nicht das geisttötende Rumgeorgel! Ist das noch Kunst? Wenn ja, sprengt sie mein Begriffsvermögen und meine Belastungsgrenzen gleichermaßen.
+
+<hr>
+
 #### Baskin (2015)
 
 _12. Juni 2017_
@@ -110,6 +166,14 @@ Ein Mann – Joe Armstrong -, dessen Name von jedem Online-Übersetzer mit „am
 
 <hr>
 
+#### Die Frau in Schwarz 2 – Engel des Todes (2014)
+
+_21. April 2017_
+
+Es brauchte ganz gewiss keinen zweiten Aufguss dieses zur Schreck-Fabel gesponnenen Vormundschafts-Wirrsals. Außer natürlich, um den Beweis anzutreten, dass – völlig gleich, in welchem Jahrzehnt oder in welchem historischen Zusammenhang oder inmitten welcher Einzelschicksale angesiedelt – ein Überraschungserfolg wie der von 2012 nicht durch ordinäres Nachbeten reproduziert werden kann. Und dann diese unsägliche letzte Einstellung mit dem schnödesten aller Hintertürchen zu weiteren Fortsetzungsdebakeln ...
+
+<hr>
+
 #### Ash vs Evil Dead (Staffel 2)
 
 _15. Februar 2017_
@@ -123,3 +187,19 @@ Heldenmut in allen Ehren, aber es ist schon ziemlich idiotisch, mit welcher Einf
 _24. Januar 2017_
 
 Sinn und Unsinn praktisch Bild für Bild abgepinselter Remakes sind schon seit geraumer Zeit anerkannter Streitgegenstand unter Film-Enthusiasten, allseitige Einigkeit herrscht hingegen immer dann, wenn von frischen Impulsen keine Rede sein kann, die Vorlage ja sowieso als alles andere als überholt einzustufen ist und die vermeintliche Runderneuerung vom jammervollen Nachwuchs-Cast über mangelnde Authentizität bis hin zu einer elendig trägen Aufführung aus so ziemlich jedem Blickwinkel abstinkt.
+
+<hr>
+
+#### Familienmassaker (Tim Miller)
+
+_19. November 2016_
+
+Ein bisschen kleines Einmaleins für Maskenmörder-Novizen. Und hier und da etwas von dem falschen Heldenmut, der bisher noch jeden Hoffnungsträger in die Katastrophe gestürzt hat. Blasse Figuren gehören zum guten Ton. Warum die Mühe, wenn es ihnen ja doch an den Kragen geht! Entscheidend ist, dass sich ein paar abgegriffene Leitbilder unter ihnen finden. Hauptsache extrem! So steht’s immerhin auf dem Buchrücken. Mittelmaß? Kann ich!
+
+<hr>
+
+#### Freitag, der 13. (2009)
+
+_28. Oktober 2016_
+
+Gepeelte Studiosi mit beschämenden Dentagard-Lächeln und ein Drumherum in der zivilisationsfernen, von familiärem – Obacht, Euphemismus! – Zusammenhalt geprägten Einöde fügen sich zu einer immerhin halbwegs akkuraten Reverwurstung von „Jason kehrt zurück“ und werden kurzerhand als Makeover, Reboot oder, je nach zitierter Quelle, Neuinterpretation eines Meilensteins angepriesen. Und dabei finden sich degenerierte Selbstversorger seit 2003 hinter jedem falschen Abzweig. (Geschnallt? Falscher Abzweig!)
