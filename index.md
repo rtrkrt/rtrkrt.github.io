@@ -49,7 +49,7 @@ _2020-08-21_
 #### Memento Metallum
 
 [Black-Metal-Jahr 94: Der innerskandinavische Maliziösitäts-Konflikt](mtllm210313.md)<br>
-_2021-03-13_
+_Seit 2019, zuletzt aktualisiert: 2021-03-13_
 
 [Lobgesänge: Die Vorgeschichte zu Fanboy-Gewäsch](mtllm210216.md)<br>
 _2021-02-16_
@@ -95,7 +95,7 @@ _2019-01-15_
 #### #RechtsAbkratzen
 
 [Wir sind die Jugend ohne Migrationshintergrund.](rchts210305.md)<br>
-_2021-03-05_
+_Seit 2019, zuletzt aktualisiert: 2021-03-05_
 
 [Wehr Dich! Es ist Dein Land!](rchts190627.md)<br>
 _2019-06-27_
