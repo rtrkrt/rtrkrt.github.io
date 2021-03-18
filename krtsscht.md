@@ -1,3 +1,11 @@
+#### Slasher: Guilty Party (Staffel 2, 2017)
+
+_13. Juni 2020_
+
+Was könnte erholsamer sein als vor Misstrauen und gegenseitiger Verachtung überwallende Winterferien im Schoße einer Kommune von promovierten Seelentröstern, um gemeinsam in Erinnerungen an unkompliziertere Tage zu schwelgen, in denen Verschwörung zum Mord noch als jugendlicher Leichtsinn durchging, und sich nach allen Regeln der höheren "Ich weiß, was du getan hast"-Künste effektvoll das Lebenslicht aus dem Oberstübchen fächern zu lassen!
+
+<hr>
+
 #### Bruder (Ania Ahlborn) 
 
 _11. August 2019_
@@ -70,6 +78,14 @@ Der Ash Williams unter den Geistlichen pilgert in himmlischer Rufbereitschaft zu
 
 <hr>
 
+#### Rape Van (Tim Miller)
+
+_10. Oktober 2018_
+
+Abgezockte Anarcho-Sauhunde, die in einem Wettstarren der zerklüfteten Seelen weniger besonnene, abgezockte Anarcho-Sauhunde zur Strecke bringen, und ein Autor, der es immerhin verstanden hat, mir ganze fünf Piepen für eine Story aus der Tasche zu leiern, die so gehaltvoll ist wie die "In der nächsten Episode von ..."-Synopsis einer mittelmäßig spannenden US-Fernsehserie ...
+
+<hr>
+
 #### Monstersperma (Edward Lee)
 
 _15. September 2018_
@@ -134,6 +150,14 @@ Selbst in einer Welt der fleischgewordenen Gottheiten und Supermänner mit impla
 
 <hr>
 
+#### Train to Busan (2016)
+
+_15. März 2018_
+
+Unschön verrenkte Extremitäten und chronische Spasmen machen nicht nur japanische Rachegeister im Nachthemd so unverwechselbar, sie stehen auch den beißwütigen Wiedererwachten aus der Nachbarschaft hervorragend zu Gesicht. Und demonstrativ den Ethos-Rohrstock schwingen, während Aberdutzende von Infizierten mit allerlei Bombast aus dem freien Raum zwischen Gleisbett und Fahrgastabteil strömen, das gehört im asiatischen Raum noch zu den leichtesten Übungen - auch wenn das Gespür für ein angemessenes Tempo Optimierungspotenzial erkennen lässt ...
+
+<hr>
+
 #### The Mildew from Planet Xonader (2015)
 
 _26. Februar 2018_
@@ -147,6 +171,22 @@ Sicherlich, angeklebte Schnauzbärte, abgeschmackte Hemden und ein bisschen Stud
 _19. Februar 2018_
 
 Weder die Art rammdösiger Aktionen, bei denen man hoffnungsfroh in die Obhut der Dorfgemeinschaft zurückflüchtet, deren Angehörige sich längst als Wasserträger des Teufels geoutet haben, noch das wohl grässlichste Schrei-Stakkato in der Geschichte miefiger Reboots werden den ramscherprobten Kobold-Freund wirklich auf die Palme bringen können. Das unrühmliche Ende der besonderen Ära "Leprechaun" kommt stattdessen in Gestalt eines fahlhäutigen, Höhlen bewohnenden, ganz und gar hutlosen Wadenbeißers à la "Abgrund des Grauens", der vergeblich an frühere Erfolge anzuknüpfen sucht.
+
+<hr>
+
+#### Southbound - Highway to Hell (2015)
+
+_26. Januar 2018_
+
+Abgestandene Geschichten? Piepegal! Einfach ein oder mehrere wiederkehrende Elemente bemühen und stilvoll das Thema wechseln, ehe einem Erzählstrang die Puste ausgeht oder Langeweile sich breitzumachen droht, das ist doch das Schöne an einem Episodenfilm ... und wenn unsereiner erst auf halbem Wege zu der jähen Erkenntnis gelangt, dass es sich um einen solchen handeln muss, dann ist das allein maximal anerkennenswert.
+
+<hr>
+
+#### Rocky IV - Der Kampf des Jahrhunderts (1985)
+
+_18. Januar 2018_
+
+Die Geschichte eines amerikanischen Box-Helden, der auszog, Rechenschaft für den tragischen Verlust eines Freundes einzufordern und mit seinem Sportsgeist und ein paar dümmlichen Monologen versehentlich eine ganze verfeindete Nation inklusive politischer Funktionäre auf seine Seite zieht, ist selbst für einen Film aus dem Jahr 1985 eine ziemlich beknackte Nummer!
 
 <hr>
 
@@ -198,6 +238,14 @@ In den Hügeln im texanischen Niemandsland, fernab der letzten Ausläufer kartog
 
 <hr>
 
+#### Triangle (2009)
+
+_29. Oktober 2017_
+
+Es sind die ausgefallenen Details, die uns peu à peu an das ganze Ausmaß der Misere heranführen, während bis zu drei Inkarnationen derselben Figur gemeinsam ein Zeitschleife-Ballett aufführen, das weder allzu redundant noch unnötig irritierend gelingt und bis zuletzt die Frage aufwirft, an welchem Punkt das Dilemma eigentlich seinen Anfang nahm. Keine sortenreine Slasherkost, aber ein lohnender Kandidat für den übernächsten Leihfilmabend.
+
+<hr>
+
 #### GOON - Das perfekte Wrestling-Match (Edward Lee)
 
 _20. Oktober 2017_
@@ -211,6 +259,14 @@ Wer, wie ich, die Sommerabende der Neunziger damit zugebracht hat, auf der groß
 _14. Oktober 2017_
 
 "Blair Witch Project" steht wie kaum ein zweiter Filmtitel für das reichweitenstarke Kokettieren mit den ursprünglichsten unserer Ängste und von Ammenmärchen beflügelter Paranoia. Gute Argumente also, sich gar nicht erst an einer gebührenden Fortsetzung zu versuchen und dafür von paranormalem Radau über langgliedrige Schreckgestalten alles hochleben zu lassen, was in mehr als einem Jahrzehnt Found-Footage-Hype nur ansatzweise von Erfolg gekrönt war. Der Haken: Gute Vorsätze plus standardisierte Ausführung macht allenfalls mittelmäßiges Gänsehaut-Kino.
+
+<hr>
+
+#### Tucker & Dale vs Evil (2010)
+
+_30. August 2017_
+
+Ein paar amüsierwillige Studenten hauchen der Reihe nach ihr Leben aus und keiner will es gewesen sein! Klingt vertraut, ist aber ausnahmsweise nicht das Werk einer aus althergebrachter Geschwisterliebe hervorgegangenen, praktisch unverwüstlichen Neun-Finger-Abnormität, sondern das Resultat eines deftig witzigen Zusammenspiels von fehlgeleiteter Wahrnehmung und sensationell überzogenem Ungeschick. Der finale Clou hingegen ist nur Makulatur.
 
 <hr>
 
@@ -278,6 +334,14 @@ Ein sexuell übertragbarer Dämon. Na, wenn das nichts ist! Glück nur, dass ein
 
 <hr>
 
+#### Slasher: The Executioner (Staffel 1, 2016)
+
+_23. Mai 2017_
+
+Schwülstige Bibelstunden? Check! Ein gerüttelt Maß Lämmerschweigen? Check! Das Fünkchen Schöpfergeist, das dem Serien-Enthusiasten vorgaukeln soll, seine Zeit nicht mit Wiedergekäutem verplempert zu haben? Vielleicht in Staffel 2.
+
+<hr>
+
 #### Kühe (Matthew Stokoe)
 
 _6. Mai 2017_
@@ -299,6 +363,22 @@ Ein Mann – Joe Armstrong -, dessen Name von jedem Online-Übersetzer mit „am
 _21. April 2017_
 
 Es brauchte ganz gewiss keinen zweiten Aufguss dieses zur Schreck-Fabel gesponnenen Vormundschafts-Wirrsals. Außer natürlich, um den Beweis anzutreten, dass – völlig gleich, in welchem Jahrzehnt oder in welchem historischen Zusammenhang oder inmitten welcher Einzelschicksale angesiedelt – ein Überraschungserfolg wie der von 2012 nicht durch ordinäres Nachbeten reproduziert werden kann. Und dann diese unsägliche letzte Einstellung mit dem schnödesten aller Hintertürchen zu weiteren Fortsetzungsdebakeln ...
+
+<hr>
+
+#### Das Tor zur Hölle (Clive Barker)
+
+_11. April 2017_
+
+Sind auch die Figuren, mit Ausnahme der unstrittigen Beziehungen, in denen sie zueinander stehen, von mehrheitlich saftloser Konstitution und die geschilderten Ereignisse, losgelöst vom Hellraiser-Kult betrachtet, weniger großer Wurf als ein einigermaßen lohnend zugebrachter Nachmittag, so haben wir es hier immer noch mit den ehrwürdigen Zeilen zu tun, die den Grundstein für Jahrzehnte währenden Schrecken ganz auf Augenhöhe mit den Institutionen des mehrteiligen Horrors gelegt haben.
+
+<hr>
+
+#### I Spit on Your Grave (2010)
+
+_23. März 2017_
+
+Mehr als drei Jahrzehnte, nachdem die Schändungs-Ouvertüre mit dem unzweideutigen Titel weltweit die schwarzen Listen der Zensurbehörden erklommen hat, geht das Update abermals um die Krone für den am wenigsten magenfreundlichen Vertreter eines so oder so unbequemen Schlags ins Rennen, der, ganz auf der Höhe der Zeit, das Auftreten von Tätern und Opfer vorsorglich in einer Form überreizt, die jeden Zweifel an der bestialischen Natur des Veranschaulichten im Keim erstickt und eine Identifikation zu beiden Seiten unvorstellbar macht.
 
 <hr>
 
