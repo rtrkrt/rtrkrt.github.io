@@ -295,6 +295,10 @@ _7. November 2018_
 
 Vegane Lebensweise und "Wie Leberwurst"-Bio-Brotaufstrich zu eins fünfzig aufs Kassenband, das ist die hässliche Fratze des Selbstbetrugs!
 
+_30. Oktober 2018_
+
+Ein Schwank aus dem Rekrutierungsbüro: "Vier WhatsApp-Nachrichten habe ich ihm geschickt und seit über zwei Stunden versauert mein Arsch auf 'gelesen'. Ich bin mit meinem Latein am Ende!" - verzweifelte Arbeitgeberin über ihren Angestellten, der seit Tagen unentschuldigt der Arbeit fernbleibt, 2018 n. Chr.
+
 _28. Oktober 2018_
 
 Heimat ist, wo man die Menschen "Das Fleisch ist im Schildkröten-Kühlschrank!" rufen hört.
@@ -359,9 +363,17 @@ _20. August 2018_
 
 ... und während meine Gedanken um all die Annehmlichkeiten kreisen, die uns der galoppierende Fortschritt beschert hat, haue ich in die Tasten meines nagelneuen Furzpianos aus dem Micky-Maus-Magazin.
 
+_10. August 2018_
+
+Jeder Film mit Hulk Hogan in der Nussschale: Handlanger ausschalten? Zähne blecken, Kopfnuss austeilen! Den Obermufti unschädlich machen? Zähne blecken, Kopfnuss austeilen! Romantischer Schlüsselmoment? Blecken, Kopfnuss!
+
 _8. August 2018_
 
 "Ganz ruhig bleiben!" - die letzten Worte einer Restaurantfachkraft an ihren Gast, bevor dieser ganz und gar nicht mehr ruhig bleibt ...
+
+_2. August 2018_
+
+Identitäre Bewegung in der Nussschale: "Boah, chill mal deine Basis, ey! Nur weil wir uns von den Muselmännern nicht unser Land, die Arbeitsplätze und unsere Frauen wegnehmen lassen, sind wir noch lange keine Rassisten!"
 
 _21. Juli 2018_
 
@@ -370,6 +382,10 @@ Es hat nur einen Samstagvormittag gekostet, dem Kleinen beizubringen, mit mir ge
 _12. Juli 2018_
 
 Der Traum von letzter Nacht war so real, dass ich nach dem Aufwachen nicht sicher war, ob ich meinen Sohn zur Kita bringen oder mich auf einen weiteren aufregenden Tag als Kapitän eines Eisbrechers in der Arktis vorbereiten soll.
+
+_10. Juli 2018_
+
+How-to-Horror, Lektion 3, Fortbildung: Zwischendimensionen, die durch bruchstückhafte Überlieferungen aus dem Aramäischen als "Höllenloch der niemals endenden Seelenpein" unzweideutige Bekanntheit genießen, eignen sich bestens, um rudimentäre Kenntnisse in gotteslästerlichen Zauberriten aufzufrischen oder lediglich seinen persönlichen Horizont zu erweitern.
 
 _4. Juli 2018_
 
@@ -382,6 +398,10 @@ _30. Juni 2018_
 _28. Juni 2018_
 
 Ironie ist ein ganzer Jugendschutz-Apparat, der deutschlandweit das geistige Wohlergehen nachfolgender Generationen abzusichern berufen ist, während sich in den Tiefkühlregalen der Supermärkte "Flutschfinger", "Brauner Bär" und "Bum Bum for Two" aneinanderreihen.
+
+_22. Juni 2018_
+
+How-to-Horror, Lektion 2, Arbeitsplatzsicherheit: Hermetische Schutzvorkehrungen dürfen keinesfalls einhundertprozentig hermetisch sein. Sollte diese Voraussetzung einmal nicht erfüllt und bauliche wie technische Gegebenheiten über jeden Zweifel erhaben sein, tritt automatisch das Prinzip menschlichen Versagens in Kraft.
 
 _18. Juni 2018_
 
@@ -451,6 +471,14 @@ _12. März 2018_
 
 Ich stelle mir gerne vor, wie unser Staubsaugerroboter und sein "analoger" Vorgänger vorwurfsvolle Blicke austauschen, sobald ersterer während seiner täglichen Routine an letzterem vorbeizieht: "Deine Filter sind längst verlottert, alter Mann!" - "Pass nur auf, dass dein mickriger Auffangbehälter nicht überquillt, Grünschnabel!"
 
+_9. März 2018_
+
+Ein Schwank aus dem Rekrutierungsbüro: Diversifizierung, unbedingt! Aber die Berufsgruppe der "Alten-Krankenpflege-Sanitäter-Tischler" erscheint mir doch reichlich überzogen.
+
+_3. März 2018_
+
+How-to-Horror, Lektion 1, Personalwesen: Es ist immer ratsam, einen federführenden Sachverständigen an Bord zu haben, der den Erfolg einer Mission über das Wohlergehen aller Beteiligten stellt. Jede Form von Prädisposition in Bezug auf mentale Instabilität oder, viel besser, einen ausgeprägten Gottkomplex ist ein klares Plus.
+
 _28. Februar 2018_
 
 Trends können so heimtückisch sein! Gerade noch gibt man den stillen Zuhörer bei einer Telefonkonferenz und ehe man sichs versieht, schneidet man während der Arbeitszeit laminierte Bilder von Einhörnern aus, die an regenbogenfarbener Flatulenz leiden.
@@ -479,6 +507,10 @@ _5. Februar 2018_
 
 Wie ich Abend für Abend feststellen muss, ist die günstigste Gelegenheit, über eine geeignete Strategie im Kampf gegen überflüssige Winterpfunde zu sinnieren, der mechanische Griff in die Tüte mit den Honig-Chili-Erdnüssen.
 
+_28. Januar 2018_
+
+Ein Schwank aus dem Rekrutierungsbüro: Ballonseide-Sportjacke? Aufgerichteter Kragen? Dazu ein Händedruck, bei dem die Augen aus ihren Höhlen treten? Engagiert!
+
 _21. Januar 2018_
 
 Das Einzige, das bei einer Strecke von 300 Kilometern noch erquicklicher ist als die BEIDEN Radarfallen, die ich dummerweise habe zuschnappen lassen, ist der Filius auf dem Rücksitz, wie er "In der Weihnachtsbäckerei" singt. Nicht das Lied, nein! Nur diese eine Zeile, immer und immer wieder ...
@@ -499,6 +531,10 @@ _6. Januar 2018_
 
 Werbung, aber ehrlich: Nassglänzend und muskelbepackt lehnt ein Mittzwanziger-Männermodel unter dem vollverchromten Brausekopf einer neumodischen Regenwalddusche gegen die Fliesen. Seifenschaum umschmeichelt seine gestählten Lenden. In einer langsamen, beinah frivolen Bewegung führt er beide Hände zum Gesicht. Und dann, mit der Rustikalität eines ostukrainischen Rinderwirts, schnäuzt er sich in die Flossen und lässt die seimige Aule vom Wasser davontragen.
 
+_27. Dezember 2017_
+
+Ein Schwank aus dem Rekrutierungsbüro: Welches Unternehmen wäre nicht gern der Lohn-und-Brot-Notnagel für diesen ganz besonderen Kandidaten, der sich "eigentlich ganz woanders beworben", von dort aber keine Rückantwort erhalten und es daraufhin "einfach hier versucht" hatte!
+
 _21. Dezember 2017_
 
 Ich wünschte oft, ich könnte aus einem unerwarteten Dialogverlauf heraus einen Online-Preisvergleich für Panzerfahrten anstellen, ohne dass verhaltensbasierte Werbeanzeigen es mir für den Rest meines erbarmungswürdigen Lebens unter die Nase reiben.
@@ -506,6 +542,14 @@ Ich wünschte oft, ich könnte aus einem unerwarteten Dialogverlauf heraus einen
 _18. Dezember 2017_
 
 Unwahrscheinliche Ereignisse sind jahrein, jahraus Gegenstand kultischer Verehrung. Es ist also nur eine Frage der Zeit, bis ein "Tag der garantiert blasenfreien Displayschutzfolie" als anerkannter überregionaler Feiertag Einzug in unser Kalendarium hält.
+
+_14. Dezember 2017_
+
+Ein Schwank aus dem Rekrutierungsbüro: Eine gelernte Restaurantfachfrau auf die Frage, warum sie während des vergangenen Jahrzehnts 11 unterschiedlichen Betrieben ihre Aufwartung gemacht hat: "Das muss eine Art Wirtschaftskrise im Gastronomiegewerbe gewesen sein!"
+
+_6. Dezember 2017_
+
+Clickbait-Bonanza: „Erkennen Sie diese 12 Nahrungsmittel an dem Geräusch beim Hineinbeißen? Nummer 4 ist eine harte Nuss!“
 
 _2. Dezember 2017_
 
@@ -607,9 +651,17 @@ _21. August 2017_
 
 Was habe ich Unverzeihliches getan, dass mein Kind sich lieber unter größter Anstrengung sämtliche imaginären Kartoffeln aus seinem Spielzeug-Kochtopf in den Schlund schiebt, als mir nur eine davon abzugeben?
 
+_18. August 2017_
+
+Clickbait-Bonanza: „Diese Frau hört bei Nacht qualvolle Schreie aus der Nachbarwohnung. Niemand hätte für möglich gehalten, welchen Nagellack sie dabei trägt!“
+
 _16. August 2017_
 
 Das erste höchsteigene Stück Reisegepäck für den Nachwuchs will wohlerwogen sein! Hitzige Debatten über irgendwelche Farbvarianten oder Design-Ausführungen münden dann schon mal in einem euphorischen "Schau mal! Den Rucksack gibt es auch in Affe!"
+
+_7. August 2017_
+
+Clickbait-Bonanza: „Diese Polyamide sind die gebräuchlichsten. Nummer 4 wird dir den Atem stocken lassen!“
 
 _3. August 2017_
 
@@ -818,6 +870,10 @@ Auf offener Straße von dem Betreiber der Dönerbude an der Ecke erkannt und geg
 _25. Juli 2016_
 
 Berühmte letzte Worte, bevor das Unheil eintritt, die Eltern-Edition: "Lass ihn doch einen Augenblick ohne Windel krabbeln. So kommt wenigstens etwas Luft an den Po."
+
+_28. Juni 2016_
+
+Bud Spencer (31. Okt. 1929 bis 27. Jun. 2016), bürgerlich Carlo Pedersoli; in dem Wissen, dass er nun die Himmelspforte bewacht und jene ohrfeigt, die des Zutritts nicht würdig sind, wird keine der nachfolgenden TV-Shop-Sammlereditionen seinem Andenken gerecht werden und keine Sonntagvorabend-Wiederholung je wieder dieselbe sein.
 
 _22. Mai 2016_
 
