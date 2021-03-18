@@ -4,25 +4,37 @@ _14. März 2021_
 
 Wenn man sich sportlich betätigt, das wie auch immer geartete Resultat anschließend jedoch nicht bei Social Media teilt, hat man sich dann wirklich sportlich betätigt?
 
+<hr>
+
 _9. März 2021_
 
 Nein, Alter ist keine Zahl. Alter sind Sätze wie "Diese Schwammtücher, die dein Schwager uns empfohlen hat, sind wirklich gut!"
+
+<hr>
 
 _26. Februar 2021_
 
 Sohnemann hat seinen ersten Witz erzählt: "Wie nennt man eine Bad-Küche? Schlitten!" - kapier' ich nicht ...
 
+<hr>
+
 _19. Februar 2021_
 
 "Aber wir gucken noch, wie hoch die Corona-Zahlen in Sachsen sind!" ist also das neue "Bitte, Papa, nur noch 5 Minuten!"
+
+<hr>
 
 _6. Februar 2021_
 
 Falls sich noch jemand von euch fragt, wie es ist, verheiratet zu sein: "Bei Streuselschnecken hört der Spaß auf!"
 
+<hr>
+
 _3. Februar 2021_
 
 Die zwei sich stets wiederholenden Phasen des Kinderspiels sind Regieanweisung: "Und jetzt merken wir, dass da HUNDERT Feuermonster kommen und hier alles in Brand stecken wollen!" Und die unmittelbar darauffolgende, preisverdächtig theatralische Darbietung: "Oh nein, da kommen HUNDERT Feuermonster und wollen hier alles in Brand stecken!"
+
+<hr>
 
 _21. Januar 2021_
 
@@ -46,13 +58,19 @@ O du fröhliche, Tag 3: Das erste Haiku, immer besonders ...
 Langhälse fressen Blätter<br>
 Krokodile nicht"
 
+<hr>
+
 _25. Dezember 2020_
 
 O du fröhliche, Tag 2: "Papa, hör mal, die Geräusche, wenn man das Rohr vom Staubsauger GANZ! DOLL! HERUMSCHLEUDERT!"
 
+<hr>
+
 _24. Dezember 2020_
 
 O du fröhliche, Tag 1: "Papa, darf ich beim Mandarinenschälen helf... - UPS, zermatscht - ich geh' in meinem Zimmer  spielen!"
+
+<hr>
 
 _13. Dezember 2020_
 
