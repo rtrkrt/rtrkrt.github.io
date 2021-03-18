@@ -38,11 +38,35 @@ Nun, da sich jede x-beliebige Gottheit und andere Möchtegerns zur Eindämmung p
 
 <hr>
 
+#### Halloween (2018)
+
+_24. November 2018_
+
+Aus gemartertem Mauerblümchen mach greise Tank-Top-Amazone, eine dieser uralten Geschichten, nicht wahr? Und, nebenbei bemerkt, verdammt viel Aufwand für diesen einen "Hättet ihr nur auf mich gehört!"-Moment. Aber wen juckt das schon, solange die Gags zünden und der Body-Count dem Zeitgeist Genüge tut!
+
+<hr>
+
 #### The First Purge (2018)
 
 _31. Juli 2018_
 
 Inzwischen dürfte auch der letzte Filminteressierte in diesem Quadranten der Milchstraße eingesehen haben, dass der dystopische Geniestreich einer heiligen Nacht des Verhackstückens und des Brandschatzens mehr ist als eine bloße Richtschnur für unreflektierten Popcorn-Terror im Yuppie-Milieu. Strittig bleibt allerdings, wie viele Ghettofäuste so ein "Reinweiße Obrigkeit vs. farbige Mittellose"-Politikum vertragen kann, bevor wir wieder über unreflektierten Popcorn-Terror sprechen.
+
+<hr>
+
+#### Hotel Inferno 2: The Cathedral of Pain (2017)
+
+_21. Juli 2018_
+
+Das kommt also dabei heraus, wenn ein Zwölfjähriger mit Sehnenscheidenentzündung im rechten Handgelenk sich erfolgreich einredet, als der neue Stern am Splatter-Firmament den Nachthimmel aufhellen zu müssen: Bare Frauenleiber, die reihenweise von den Wänden hängen oder durch infernalische Mannheit buchstäblich auf die Folter gespannt werden, und ganz, ganz viele schmutzige Wörter. Was waren das für Zeiten, in denen verbissen aufgedummter B-Film-Stuss sich noch als verbissen aufgedummter B-Film-Stuss verstand!
+
+<hr>
+
+#### Jurassic World (2015)
+
+_6. Juli 2018_
+
+Ist es nicht irgendwie fahrlässig, im Jahr 2015 noch der Überzeugung zu folgen, sich ungehemmt gegen die Natur versündigen, das Resultat in großem Stil zur Schau stellen zu können und keine der entsetzlichen Konsequenzen von vor 22 Jahren befürchten zu müssen? Und wissen wir nicht längst, dass es der Lebenserwartung unerschrockener Raubeine einen herben Schlag versetzt, hinter den Kulissen eines Freizeit- und Vergnügungs-Megaparks gentechnisch modifizierten Urzeit-Bestien hinterherzujagen? Ja und nochmals ja! Andererseits, ein Rudel abgerichteter Raptoren im theropoden Tag-Team-Showdown entschädigt für so manche Drehbuchschwäche.
 
 <hr>
 
@@ -78,6 +102,14 @@ Selbst in einer Welt der fleischgewordenen Gottheiten und Supermänner mit impla
 
 <hr>
 
+#### Leprechaun: Origins (2014)
+
+_19. Februar 2018_
+
+Weder die Art rammdösiger Aktionen, bei denen man hoffnungsfroh in die Obhut der Dorfgemeinschaft zurückflüchtet, deren Angehörige sich längst als Wasserträger des Teufels geoutet haben, noch das wohl grässlichste Schrei-Stakkato in der Geschichte miefiger Reboots werden den ramscherprobten Kobold-Freund wirklich auf die Palme bringen können. Das unrühmliche Ende der besonderen Ära "Leprechaun" kommt stattdessen in Gestalt eines fahlhäutigen, Höhlen bewohnenden, ganz und gar hutlosen Wadenbeißers à la "Abgrund des Grauens", der vergeblich an frühere Erfolge anzuknüpfen sucht.
+
+<hr>
+
 #### Alien: Covenant (2017)
 
 _14. Januar 2018_
@@ -94,11 +126,27 @@ Wer annimmt, es sei dröge, einer Hauptfigur zur Seite zu stehen, die dank eines
 
 <hr>
 
+#### Even Lambs Have Teeth (2015)
+
+_24. Dezember 2017_
+
+Unter Berufung auf die einschlägigen Schwergewichte im Exploitation-Business eine so vollendet unausgegorene Vergeltungsarie auf den Weg zu bringen, dass selbst der gemeine Bundesprüfstellenbeamte nur ein gleichgültiges Achselzucken übrig hat, ist schon aller Ehren wert.
+
+<hr>
+
 #### Deathgasm (2015)
 
 _20. November 2017_
 
 Es ist, als hätten Shaun und Ed (jedes andere konfliktgeschüttelte Horror-Comedy-Kumpel-Gespann tut's auch) die Nietenarmbänder angelegt, kurzerhand eine Garagenband aus der Taufe gehoben und wider besseren Wissens eine der Weltuntergangs-Arien aus dem Necronomicon zum Besten gegeben. Was folgt, ist der ganz normale Dämonen-Wahnsinn und zweifelsohne das Werk eines eingefleischten Gorehounds, rabiat, ungeheuer drollig, filmgeschichtlich absolut bedeutungslos.
+
+<hr>
+
+#### Willkommen in Hell, Texas (Tim Miller)
+
+_13. November 2017_
+
+In den Hügeln im texanischen Niemandsland, fernab der letzten Ausläufer kartografierter Zivilisation, liegt das Aussteiger-Idyll "Hell". Und weil in "Hell", Texas, Rückständigkeit und tief verwurzelter Rassismus Hand in Hand gehen, ist es ganz und gar unnötig, sich mit der Illustration irgendwelcher Figuren aufzuhalten, solange nur deren ethnologischer Hintergrund richtig- und ein stupid grotesker Abgang sichergestellt ist. Lieber schnell noch eine Massenvergewaltigung angezettelt, während beim Nachbarn feuchte Übermensch-Fantastereien Wirklichkeit werden. Quick and dirty. So macht man das eben. Hier in "Hell", Texas.
 
 <hr>
 
@@ -115,6 +163,14 @@ Wer, wie ich, die Sommerabende der Neunziger damit zugebracht hat, auf der groß
 _14. Oktober 2017_
 
 "Blair Witch Project" steht wie kaum ein zweiter Filmtitel für das reichweitenstarke Kokettieren mit den ursprünglichsten unserer Ängste und von Ammenmärchen beflügelter Paranoia. Gute Argumente also, sich gar nicht erst an einer gebührenden Fortsetzung zu versuchen und dafür von paranormalem Radau über langgliedrige Schreckgestalten alles hochleben zu lassen, was in mehr als einem Jahrzehnt Found-Footage-Hype nur ansatzweise von Erfolg gekrönt war. Der Haken: Gute Vorsätze plus standardisierte Ausführung macht allenfalls mittelmäßiges Gänsehaut-Kino.
+
+<hr>
+
+#### Kickboxer - Die Vergeltung (2016)
+
+_23. August 2017_
+
+Da ich in Anbetracht des unbefriedigenden Resultats annehmen muss, dass den Machern von "Kickboxer - Die Vergeltung" die Erfolgsformel hinter dem Original sowie inhaltsverwandter Produktionen entweder nicht bekannt oder, viel gravierender noch, piepegal gewesen ist, hier die Kurzfassung: Einschneidendes Erlebnis, verändertes Umfeld reagiert mit allgemeiner Ablehnung, leichtfertiges Kräftemessen zuungunsten des Protagonisten, kitschige Trainings-Montage, Auftakt der finalen Konfrontation, Anbahnen der Niederlage, erneute Auszüge aus der Trainings-Montage, dramatische Wende, explosionsartige Überlegenheit, Sieg. Nur so! Und keinesfalls anders funktioniert der amerikanische Kampfsport-Film der Achtziger, Neuauflagen inbegriffen.
 
 <hr>
 
@@ -158,6 +214,22 @@ Nicht, dass es einem um die knochenharten Berufsproleten leid täte, die da, von
 
 <hr>
 
+#### It Follows (2014)
+
+_5. Juni 2017_
+
+Ein sexuell übertragbarer Dämon. Na, wenn das nichts ist! Glück nur, dass eine grausam biedere Prämisse (konsensualer Beischlaf, pfui Teufel!) noch kein K.o.-Kriterium ist, solange sich mit stimmungsvollen Themen und dem gewissen Retro-Appeal ein passabler Grusler drumherum konstruieren lässt. Auch wenn es die widersprüchliche Logik nicht aufwiegt. Oder wie würdet ihr einen Formwandler bewerten, der meint, seinen jugendlichen Opfern nähere man sich am unauffälligsten in der Gestalt barbusiger, sich einnässender Frauen?
+
+<hr>
+
+#### Kühe (Matthew Stokoe)
+
+_6. Mai 2017_
+
+Unter den Anwärtern auf die prestigeträchtige Auszeichnung in der Kategorie „Abgefucktester Einsatz des Wortes ‚Apfelentkerner'“, stünde Matthew Stokoe und „Kühe“ klar die Favoritenrolle zu. Und bis die Zeit für eine solche Ehrung ran ist, erfreuen wir uns an den bildhaften, in höchstem Maße ekelerregenden Details der Spirale aus Verbitterung und Ohnmacht und Wahn, die Stokoes Werk um so vieles echter macht als das seiner Fachgenossen, aber auch die Erwartungen an das Ende von „Kühe“ in einer Weise beflügelt, der auf den letzten Seiten kaum noch entsprochen wird.
+
+<hr>
+
 #### American Fighter (1985)
 
 _27. April 2017_
@@ -171,6 +243,14 @@ Ein Mann – Joe Armstrong -, dessen Name von jedem Online-Übersetzer mit „am
 _21. April 2017_
 
 Es brauchte ganz gewiss keinen zweiten Aufguss dieses zur Schreck-Fabel gesponnenen Vormundschafts-Wirrsals. Außer natürlich, um den Beweis anzutreten, dass – völlig gleich, in welchem Jahrzehnt oder in welchem historischen Zusammenhang oder inmitten welcher Einzelschicksale angesiedelt – ein Überraschungserfolg wie der von 2012 nicht durch ordinäres Nachbeten reproduziert werden kann. Und dann diese unsägliche letzte Einstellung mit dem schnödesten aller Hintertürchen zu weiteren Fortsetzungsdebakeln ...
+
+<hr>
+
+#### Lights Out (2016)
+
+_21. März 2017_
+
+Was haben wir diesen ominösen Nervenheilanstalten nicht alles zu verdanken! Nicht einmal mehr die Protagonisten der neuesten Geister-Shocker hegen noch Zweifel, dass mal wieder irgendein mengelemäßiger Kurpfuscher die Pforten zu unbekanntem Grauen aufgestoßen hat. Kein Umdenken, kein Sich-Öffnen, keine instrumentalisierte Abkehr von der bedingungslos empirischen Grundhaltung zu Filmbeginn. Na, meinetwegen! Der Schinken wäre dadurch eh kein bisschen weniger Unbedeutsam geraten.
 
 <hr>
 
