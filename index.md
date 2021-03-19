@@ -12,13 +12,10 @@ _Seit 2016, zuletzt aktualisiert: 2021-01-08_
 
 <hr>
 
-#### Kurts Filme
+#### Kurts Sicht
 
-[Die Farbe aus dem All (2019) oder Liebling, ich habe die Kinder absorbiert](krtsflm201125.md)<br>
-_2020-11-25_
-
-[Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)](krtsflm200821.md)<br>
-_2020-08-21_
+[Die Farbe aus dem All (2019)](krtsscht.md)<br>
+_Seit 2016, zuletzt aktualisiert: 2020-11-25_
 
 <hr>
 
