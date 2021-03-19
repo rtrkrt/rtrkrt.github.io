@@ -1,5 +1,0 @@
-#### Einmal ruinöse Zwangsenteignung und zurück: Durch die Jahre mit „Ip Man“ (2008 bis 2019)
-
-_21. August 2020 in Kurts Filme_
-
-Lass mal ein neues Kampfkunst-Franchise lostreten! Drei Filme, besser vier, Spin-off nicht ausgeschlossen! Klassische Eastern, aber modern, mit vielen tragischen Wendungen, nicht diese Achtzigerjahre-Karatechamp-Romantik! Etwa so: Gerade noch bist du nur ein umsichtiger Familienvater und bescheidener Kung-Fu-Virtuose im gelegentlichen Kräftemessen mit überschätzten Fachgenossen oder trotteligen Hackmesser-Mobs und dann, BAM, japanische Invasoren! Oder, POW, britische Kolonialisten! Oder, ZACK, irgendein anderer übermächtiger Aggressor, du hast mich schon verstanden! Und plötzlich musst du lernen, dass man eine existenzielle Krise nicht einfach weglächeln kann, dass Ethos, ein guter Name und flinke Fäuste allein keine Ehe zu unterhalten oder Miete oder Schulgeld einzubringen vermögen - richtig deeper Stoff eben, und immer noch eine bessere Liebesgeschichte als „Twilight“! Dazu ein paar historisch halb-akkurate Appetithäppchen für die Fanboys da draußen, ich sage nur: Bruce fucking Lee! Lass mal machen! Wird gut!
