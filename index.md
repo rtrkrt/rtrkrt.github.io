@@ -7,32 +7,8 @@ _Seit 2012, zuletzt aktualisiert: 2021-03-14_
 
 #### Brockhaus ist kein Plattenbau
 
-[I wie in ... Indoor-Frisbee](brckhs210108.md)<br>
+[I wie in ... Indoor-Frisbee](brckhs.md)<br>
 _Seit 2016, zuletzt aktualisiert: 2021-01-08_
-
-[H wie in ... Honigwein aus Eierbechern](brckhs200607.md)<br>
-_2020-06-07_
-
-[G wie in ... Gaseruption to go](brckhs190329.md)<br>
-_2019-03-29_
-
-[F wie in ... Freibad-Romanzen](brckhs190204.md)<br>
-_2019-02-04_
-
-[E wie in ... Éclat de Toilette](brckhs180131.md)<br>
-_2018-01-31_
-
-[D wie in ... Discountwarenbeförderungsmittellogistiker](brckhs170719.md)<br>
-_2017-07-19_
-
-[C wie in ... Cyber-Mobbing im Frühstadium](brckhs170407.md)<br>
-_2017-04-07_
-
-[B wie in ... Blutorange ex](brckhs161128.md)<br>
-_2016-11-28_
-
-[A wie in ... Abwrack-Kondolenzen](brckhs161108.md)<br>
-_2016-11-08_
 
 <hr>
 
