@@ -67,20 +67,8 @@ _2019-01-15_
 
 #### #RechtsAbkratzen
 
-[Wir sind die Jugend ohne Migrationshintergrund.](rchts210305.md)<br>
+[Wir sind die Jugend ohne Migrationshintergrund.](rchts.md)<br>
 _Seit 2019, zuletzt aktualisiert: 2021-03-05_
-
-[Wehr Dich! Es ist Dein Land!](rchts190627.md)<br>
-_2019-06-27_
-
-[Golden Shower Black Power](rchts190510.md)<br>
-_2019-05-10_
-
-[Antifa heißt Friendzone ...](rchts190504.md)<br>
-_2019-05-04_
-
-[HKNKRZ](rchts190428.md)<br>
-_2019-04-28_
 
 <hr>
 
