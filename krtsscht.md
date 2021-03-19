@@ -1,3 +1,19 @@
+#### Die Farbe aus dem All (2019)
+
+_25. November 2020_
+
+Die literarische Vision: Ein berichthafter Nachruf auf das nicht zu Begreifende, weil nicht zu greifende, auf schleichende Verderbnis und um sich schlagenden Wahnsinn und jedweder Beschreibung spottendes Grauen, das dir seine salpeterverkrustete Kehrseite unverhüllt gegen die Physiognomie frottiert. Als Interpretation eines "300 für je 99 Cent"-Filmschaffenden à la "Liebling, ich habe die Kinder absorbiert": Ein während seiner besten Momente entfernt carpentereskes Gewirr aus intergalaktischer Fangschrecken-Plage, mutagener Phosphoreszenz und der allzu ausufernden Darbietung des wohl berüchtigsten Discount-Durchgeknallten Hollywoods. Und Alpakas. Woher rührt nur diese neuerdings allgegenwärtige Begeisterung für Alpakas!?
+
+<hr>
+
+#### Ip Man (2008 bis 2019)
+
+_21. August 2020_
+
+Lass mal ein neues Kampfkunst-Franchise lostreten! Drei Filme, besser vier, Spin-off nicht ausgeschlossen! Klassische Eastern, aber modern, mit vielen tragischen Wendungen, nicht diese Achtzigerjahre-Karatechamp-Romantik! Etwa so: Gerade noch bist du nur ein umsichtiger Familienvater und bescheidener Kung-Fu-Virtuose im gelegentlichen Kräftemessen mit überschätzten Fachgenossen oder trotteligen Hackmesser-Mobs und dann, BAM, japanische Invasoren! Oder, POW, britische Kolonialisten! Oder, ZACK, irgendein anderer übermächtiger Aggressor, du hast mich schon verstanden! Und plötzlich musst du lernen, dass man eine existenzielle Krise nicht einfach weglächeln kann, dass Ethos, ein guter Name und flinke Fäuste allein keine Ehe zu unterhalten oder Miete oder Schulgeld einzubringen vermögen - einmal ruinöse Zwangsenteignung und zurück, richtig deeper Stoff eben, und immer noch eine bessere Liebesgeschichte als "Twilight"! Dazu ein paar historisch halb-akkurate Appetithäppchen für die Fanboys da draußen, ich sage nur: Bruce fucking Lee! Lass mal machen! Wird gut!
+
+<hr>
+
 #### Slasher: Guilty Party (Staffel 2, 2017)
 
 _13. Juni 2020_
