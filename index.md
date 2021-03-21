@@ -33,20 +33,13 @@ _Seit 2019, zuletzt aktualisiert: 2021-03-05_
 
 <hr>
 
-#### Unerhört! - Zusammengereimtes
-
-[Damenwahl 2020](zusates-dawazwa.md)<br>
-_2020-07-25_
-
-<hr>
-
 #### Altlastimpressionen
 
 [Not eines Handlungsreisenden](hndlngsrsndr.md)<br>
 _Februar 2012 bis Juni 2013_
 
 [Unerhört! - Zusammengereimtes](zsmmngrmts.md)<br>
-_? bis Mai 2013_
+_? bis Juli 2020_
 
 [Partyausfall](prtsfll.md)<br>
 _Juni 2009 bis Dezember 2009_
