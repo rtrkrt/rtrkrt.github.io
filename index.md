@@ -7,7 +7,7 @@ _Seit 2012, zuletzt aktualisiert: 2021-03-14_
 
 #### Brockhaus ist kein Plattenbau
 
-[I wie in ... Indoor-Frisbee](brckhs.md)<br>
+[(9) I wie in ... Indoor-Frisbee](brckhs.md)<br>
 _Seit 2016, zuletzt aktualisiert: 2021-01-08_
 
 <hr>
@@ -21,14 +21,14 @@ _Seit 2016, zuletzt aktualisiert: 2020-11-25_
 
 #### Memento Metallum
 
-[Black-Metal-Jahr 94: Der innerskandinavische Maliziösitäts-Konflikt](mtllm.md)<br>
+[(14) Black-Metal-Jahr 94: Der innerskandinavische Maliziösitäts-Konflikt](mtllm.md)<br>
 _Seit 2019, zuletzt aktualisiert: 2021-03-13_
 
 <hr>
 
 #### #RechtsAbkratzen
 
-[Wir sind die Jugend ohne Migrationshintergrund.](rchts.md)<br>
+[(5) Wir sind die Jugend ohne Migrationshintergrund.](rchts.md)<br>
 _Seit 2019, zuletzt aktualisiert: 2021-03-05_
 
 <hr>
