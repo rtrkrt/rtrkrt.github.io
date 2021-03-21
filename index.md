@@ -12,7 +12,8 @@ _Seit 2016, zuletzt aktualisiert: 2021-01-08_
 
 <hr>
 
-#### Kurts Sicht
+#### Kurts Sicht<br>
+Ehemals In einem Satz: Horror
 
 [Die Farbe aus dem All (2019)](krtsscht.md)<br>
 _Seit 2016, zuletzt aktualisiert: 2020-11-25_
