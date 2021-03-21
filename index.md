@@ -21,7 +21,7 @@ _Seit 2016, zuletzt aktualisiert: 2020-11-25_
 
 #### Memento Metallum
 
-[Black-Metal-Jahr 94: Der innerskandinavische Maliziösitäts-Konflikt](mtllm210313.md)<br>
+[Black-Metal-Jahr 94: Der innerskandinavische Maliziösitäts-Konflikt](mtllm.md)<br>
 _Seit 2019, zuletzt aktualisiert: 2021-03-13_
 
 <hr>
