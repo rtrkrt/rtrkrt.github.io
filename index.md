@@ -17,7 +17,7 @@ _Seit 2016, zuletzt aktualisiert: 2021-01-08_
 [Die Farbe aus dem All (2019)](krtsscht.md)<br>
 _Seit 2016, zuletzt aktualisiert: 2020-11-25_
 
-*Ehemals In einem Satz: Horror
+*Vormals In einem Satz: Horror
 
 <hr>
 
