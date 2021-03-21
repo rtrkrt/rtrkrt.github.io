@@ -24,45 +24,6 @@ _Seit 2016, zuletzt aktualisiert: 2020-11-25_
 [Black-Metal-Jahr 94: Der innerskandinavische Maliziösitäts-Konflikt](mtllm210313.md)<br>
 _Seit 2019, zuletzt aktualisiert: 2021-03-13_
 
-[Lobgesänge: Die Vorgeschichte zu Fanboy-Gewäsch](mtllm210216.md)<br>
-_2021-02-16_
-
-[Linksversifft und längst vergriffen](mtllm201110.md)<br>
-_2020-11-10_
-
-[WG: Pit-Arbeiter des Monats gesucht!](mtllm201012.md)<br>
-_2020-10-12_
-
-[(SERIE) Dieser Termin steht jeden Tag an](mtllm200915.md)<br>
-_2020-09-15_
-
-[Herzblatt: Die Black-Metal-Edition](mtllm200524.md)<br>
-_2020-05-24_
-
-[Alle meine Hämatome](mtllm191212.md)<br>
-_2019-12-12_
-
-[Levitikus 18,23a: "Du sollst nicht lautäußern in den Zungen des Viehzeugs."](mtllm191202.md)<br>
-_2019-12-02_
-
-[Enter Shikari - Take To The Skies](mtllm191114.md)<br>
-_2019-11-14_
-
-[Napalm Death - Smear Campaign](mtllm191020.md)<br>
-_2019-10-20_
-
-[Warnung, Fanboy-Gewäsch in drei, zwei, eins ...](mtllm190926.md)<br>
-_2019-09-26_
-
-[Von einem, der auszog, das Fürchten zu lehren](mtllm190601.md)<br>
-_2019-06-01_
-
-[Ich - Einfach oberflächlich](mtllm190127.md)<br>
-_2019-01-27_
-
-[BDC präsentiert: Im Laich der Giganten](mtllm190115.md)<br>
-_2019-01-15_
-
 <hr>
 
 #### #RechtsAbkratzen
