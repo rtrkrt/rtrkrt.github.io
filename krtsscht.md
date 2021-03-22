@@ -1240,7 +1240,7 @@ Nicht nur, dass das Grundgerüst der Handlung dem Kompendium über abgehalfterte
 
 #### Housebound (2014)
 
-_29. August 2015_
+_29. August 2015_
 
 Chronische Verdutztheit, doppelte Böden, Zwischenwände; die Verzögerungstaktik mit dem Großaufgebot gattungsüblicher Versatzstücke lässt Schwung und tatsächlich komische Elemente erst mit Fortschreiten der zweiten Filmhälfte auffahren und so die traditionsreiche Herkunft dieser Veröffentlichung zumindest erahnen.
 
@@ -1936,7 +1936,7 @@ Es ist bedauerlich, wie schnell eine weitestgehend gekonnte Umsetzung zum Teufel
 
 #### Bad Taste (1987)
 
-7. Juli 2014_
+_7. Juli 2014_
 
 Während trottelige, in Babyblau gehüllte Außerweltliche und das proletenhafte Sondereinsatzkommando der Erde einander mit nicht enden wollendem Nonsens bekriegen, quillen Spaß und Hingabe der Macher des Projekts wie rosafarbenes Innereiimitat aus jeder neuen Einstellung und übertragen sich postwendend auf diejenigen, die es nur zulassen.
 
