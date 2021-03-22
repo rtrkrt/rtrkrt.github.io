@@ -1,6 +1,6 @@
 #### Damenwahl 2020
 
-_25.07.2020 in Zusammengereimtes_
+_25.07.2020_
 
 Statistiken zufolge erliegen während der Wintermonate durchschnittlich 8 Obdachlose dem Kältetod!
 
@@ -32,7 +32,7 @@ Um diese Jahreszeit haben Leichenbeschauer eben alle Hände voll zu tun ... Stat
 
 #### Nimbus
 
-_31. Mai 2013 in Zusammengereimtes_
+_31. Mai 2013_
 
 Der kümmernd alle Wonn’ vergisst,<br>
 Weil heile Welt zusammenbricht,<br>
@@ -44,7 +44,7 @@ Und Licht ein gütig Vormund ist
 
 #### Der Brief des Hans Schneider
 
-_13. Januar 2013 in Zusammengereimtes_
+_13. Januar 2013_
 
 An den Direktor,
 
@@ -64,7 +64,7 @@ Hans Schneider
 
 #### Blutzoll: Elisabeth
 
-_9. Oktober 2012 in Zusammengereimtes_
+_9. Oktober 2012_
 
 Welke jährt<br>
 In alter Frische<br>
@@ -79,7 +79,7 @@ Vom Herzzerreißen
 
 #### SS M. C.
 
-_19. August 2012 in Zusammengereimtes_
+_19. August 2012_
 
 Siehst du<br>
 Der Irrwisch<br>
@@ -97,7 +97,7 @@ Brandung spricht
 
 #### Im Garten des Wiedererweckers
 
-_8. August 2012 in Zusammengereimtes_
+_8. August 2012_
 
 Mondsüchtig<br>
 Treibt der fahle Spross<br>
@@ -114,7 +114,7 @@ Basaltschatten
 
 #### Aufzug der Agitatoren
 
-_5. Juni 2012 in Zusammengereimtes_
+_5. Juni 2012_
 
 Erstarkt<br>
 Wie euch geheißen
@@ -140,7 +140,7 @@ Entbrannt
 
 #### Cäcilie
 
-_20. April 2012 in Zusammengereimtes_
+_20. April 2012_
 
 Schwarzer Arme<br>
 Hundertschaft<br>
@@ -159,7 +159,7 @@ Und Güte sind
 
 #### Das Prinzessinnen-Stigma
 
-_1. Februar 2012 in Zusammengereimtes_
+_1. Februar 2012_
 
 Unruhig liegt das<br>
 Kristalline Schafott<br>
@@ -179,7 +179,7 @@ Emporquellender Lebensgeister
 
 #### Ein Auszug
 
-_10. November 2011 in Zusammengereimtes_
+_10. November 2011_
 
 Alte neue Träume<br>
 Verhängen den Blick<br>
@@ -197,7 +197,7 @@ Keine Träne nachgeschickt
 
 #### Trauma
 
-_3. November 2011 in Zusammengereimtes_
+_3. November 2011_
 
 Das Herzblut stockt
 
@@ -218,7 +218,7 @@ Totgeborener Wortföten
 
 #### Postmortale Sentenzen
 
-_21. Juli 2011 in Zusammengereimtes_
+_21. Juli 2011_
 
 Die viele Farbe.<br>
 Wie ein Clown, der Trauer und Zorn jongliert.
@@ -236,7 +236,7 @@ Bleicher Dünkel, auf Samt gar serviert.
 
 #### Königswürde, Gang 6
 
-_14. Juli 2011 in Zusammengereimtes_
+_14. Juli 2011_
 
 Der Kunde ist König<br>
 Im Kampf um Liquidität.<br>
@@ -250,7 +250,7 @@ Und der bezaubernden Brunhild.
 
 #### Therapie
 
-_27. Juni 2011 in Zusammengereimtes_
+_27. Juni 2011_
 
 Ich habe es Ihnen schon so oft gesagt und kann mich auch heute nur wiederholen: Es geht einfach nicht.
 
@@ -266,7 +266,7 @@ Ich kann Ihnen nicht erklären, warum Sie beide so oft streiten. Doch da ist ein
 
 #### Nachtmahr
 
-_? in Zusammengereimtes_
+_?_
 
 Und wieder: Ich sitze aufrecht in meinem Bett und starre vor mich hin, zu vertraut mit der mich umgebenden Dunkelheit, zu vertraut mit dem Schrecken, der sich mir ins Mark bohrt. Es ist dieser Traum, ein sich ständig wiederholendes Kammerspiel, noch heute Morgen erzählte ich meinem besten Freund davon.
 
@@ -282,7 +282,7 @@ Ich lasse mich rücklings auf dem morschen Sims nieder und lehne mich langsam zu
 
 #### Damenwahl
 
-_? in Zusammengereimtes_
+_?_
 
 Sie lehnt in einem gemütlich aussehenden Freischwinger, stumm und teilnahmslos, die Stirn in Falten gelegt, so will es meine Fantasie. Sie würde mich nicht bei sich haben wollen, wenn der Grund meiner Anwesenheit eine Wahl nicht schon ausgeschlossen hätte; eine Einstellung, die sie mit jeder meiner bisherigen Gastgeberinnen teilt. Eine Steppdecke verhüllt ihre Beine, Vlies vermutlich, das hält die Kälte zurück, sie zittert auch schon nicht mehr. Ich habe es bislang ebenso wenig vertreten können, mich meines Mantels zu entledigen, nicht wegen der Kälte, nicht ausschließlich, mir bleibt keine Zeit für Annehmlichkeiten, die Anderen werden in wenigen Augenblicken eintreffen.
 
@@ -298,7 +298,7 @@ Die Anderen nähern sich hörbar, sie werden sie mitnehmen. Müsste ich betrübt
 
 #### Der Schwarze Mann
 
-_? in Zusammengereimtes_
+_?_
 
 Der Schwarze Mann, so kühn wie klug,<br>
 Erscheint im Strahlenschutzanzug.
@@ -316,7 +316,7 @@ Die Todesliste, ein Telefonbuch.
 
 #### Der Esel und die Elster
 
-_? in Zusammengereimtes_
+_?_
 
 Es musst’ ein Esel unter schweren Peitschenhieben<br>
 Seines bösen Herren Felder pflügen.
@@ -337,7 +337,7 @@ Und pflügt strahlend das Feld, bis zum Ende.
 
 #### Verbrannte Erde
 
-_? in Zusammengereimtes_
+_?_
 
 Verbrannte Erde<br>
 Schwarz und fahl<br>
@@ -358,7 +358,7 @@ Der Ackermann
 
 #### Eilmeldung
 
-_? in Zusammengereimtes_
+_?_
 
 Gesichtszug bei Abstecher entgleist.<br>
 Nervenbahn drückt ihr Bedauern aus.<br>
@@ -369,7 +369,7 @@ Im Fahrplan für Gefühlschaos.
 
 #### Der kleine Mann
 
-_? in Zusammengereimtes_
+_?_
 
 Der kleine Mann im Schaffenstal<br>
 Hüllt die Narben des Verzichts<br>
@@ -380,7 +380,7 @@ Und sein Feiertagsgesicht.
 
 #### Herodes
 
-_? in Zusammengereimtes_
+_?_
 
 Kindliche Sphinx<br>
 So närrisch unvollkommen<br>
@@ -402,7 +402,7 @@ Entlang der Atemwege
 
 #### Geintherapie
 
-_? in Zusammengereimtes_
+_?_
 
 Gezeichnet von einem<br>
 Misanthropen
@@ -427,7 +427,7 @@ Meiner Selbst
 
 #### Kemper fidelis
 
-_? in Zusammengereimtes_
+_?_
 
 Metallischer Aufschrei<br>
 Durchdringt Mark und Bein
@@ -451,7 +451,7 @@ Hypnotisierend
 
 #### Charon
 
-_? in Zusammengereimtes_
+_?_
 
 Sechsfüßig<br>
 Ruhen Gebeine<br>
