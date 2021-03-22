@@ -229,6 +229,24 @@ Ich: "Nagut."
 
 <hr>
 
+_3. Februar 2020_
+
+Habt ihr je im Traum eine US-amerikanische Nischenrockband zum Meet and Greet im Schwedter Plattenbau empfangen dürfen, wo diese sich hinsichtlich eures üppigen Würstchen-Caterings in solchem Maße empört zeigte, dass eure Desillusionierung ob derartiger Allüren bis weit in den neuen Tag hinein vorhielt? Nein? Ich auch noch nie! Wie beruhigend, dass wir alle geistig gesund sind ...
+
+<hr>
+
+_1. Februar 2020_
+
+Deutschland, deine Backshop-Kunden: "Dieses Protein-Brot da [das, bei dem 'Proteinreiches Weizen-Quarkbrot mit vielen Sonnenblumenkernen, Leinsamen & Kürbiskernen' auf dem Schild steht - Anm. d. Verf.], was für ein Brot ist das?"
+
+<hr>
+
+_10. November 2019_
+
+Interessante Tatsache: Wenn man "Melodie" 3 Mal scharf von einem ins gegenüberliegende Ende des Indoorspielplatzes krakeelt, verliert der Name jeglichen Zauber!
+
+<hr>
+
 _17. September 2019_
 
 4 Jahre: "Ich sehe was, was du nicht siehst, und das ist der Lautsprecher da!"
