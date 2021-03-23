@@ -1,5 +1,19 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_23. März 2021_
+
+Kind: "Was glaubst du, ist ein Kuscheltier wichtiger als ein Papa?"
+
+Ich: "Was denkst du denn?"
+
+Kind: "Ich glaube nicht."
+
+Ich: "Das sehe ich auch so."
+
+Kind: "Ein Kuscheltier ist genauso wichtig wie ein Papa!"
+
+<hr>
+
 _14. März 2021_
 
 Wenn man sich sportlich betätigt, das wie auch immer geartete Resultat anschließend jedoch nicht bei Social Media teilt, hat man sich dann wirklich sportlich betätigt?
