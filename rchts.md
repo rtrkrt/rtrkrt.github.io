@@ -1,3 +1,13 @@
+#### Heimatliebe ist kein Verbrechen!
+
+_25. März 2021_
+
+Wann immer mich Bedenken bei der juristisch unzweifelhaften Einordnung von Straftatbeständen um meinen rechtschaffenen Schlaf zu betrügen suchen, vertraue ich voll und ganz auf die Erfahrungswerte aus nahezu zwei Jahrzehnten der Volksverhetzung, des tätlichen Angriffs, der Nötigung, Sachbeschädigung, des Land- und Hausfriedensbruchs und der gutbürgerlichen Besorgnis: Die von den Identitären, die klären das für mich!
+
+![heimatliebe](https://rtrkrt.4lima.de/rechtsabkratzen/rechtsabkratzen_heimatliebe.jpg)
+
+<hr>
+
 #### Wir sind die Jugend ohne Migrationshintergrund.
 
 _5. März 2021_
