@@ -9,7 +9,7 @@ Was zu beweisen war:
 *   Mit ausreichend Übung gelingt noch jeder Taschenspielertrick.
 *   Von einem Cocktail erdrückender Emotionen verzehrte Heroinen haben unser Verständnis der Kräfteverhältnisse innerhalb des Marvel’schen Makrokosmos mal eben so über den Haufen geworfen.
 *   Ein geistreicher Serientitel ist so viel mehr als das.
-*   WandaVision ist der ergreifend tragikomische Aufgesang eines vielverheißenden Post-Endgäme-Zeitalters!
+*   WandaVision ist der ergreifend tragikomische Aufgesang eines vielverheißenden Post-Endgame-Zeitalters!
 
 <hr>
 
