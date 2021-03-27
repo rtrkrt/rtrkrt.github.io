@@ -1,3 +1,18 @@
+#### WandaVision (Staffel 1, 2021)
+
+_27. März 2021_
+
+Was zu beweisen war:
+
+*   Das richtige Arrangement aus überdimensionalen Brillengläsern, notorischen Sarkasmen und Rippstrick-Beanies stoppt den natürlichen Alterungsprozess.
+*   Bewusstseinsklare Auferstandene können wahrhaft lästig sein.
+*   Mit ausreichend Übung gelingt noch jeder Taschenspielertrick.
+*   Von einem Cocktail erdrückender Emotionen verzehrte Heroinen haben unser Verständnis der Kräfteverhältnisse innerhalb des Marvel’schen Makrokosmos mal eben so über den Haufen geworfen.
+*   Ein geistreicher Serientitel ist so viel mehr als das.
+*   WandaVision ist der ergreifend tragikomische Aufgesang eines vielverheißenden Post-Endgäme-Zeitalters!
+
+<hr>
+
 #### Die Farbe aus dem All (2019)
 
 _25. November 2020_
