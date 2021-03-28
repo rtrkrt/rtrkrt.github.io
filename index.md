@@ -1,7 +1,7 @@
 #### Aus dem Leben eines Spitzenprädators
 
-[(211) Aus dem Leben eines Spitzenprädators](sptznprdtr.md)<br>
-_Seit 2012, zuletzt aktualisiert: 2021-03-23_
+[(212) Aus dem Leben eines Spitzenprädators](sptznprdtr.md)<br>
+_Seit 2012, zuletzt aktualisiert: 2021-03-28_
 
 <hr>
 
