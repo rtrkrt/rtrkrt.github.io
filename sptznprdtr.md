@@ -1,5 +1,9 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_28. März 2021_
+
+Es ist der Tag, an dem ein Kind aufhört zu glauben, sich über das Rascheln seiner Matschhosen und Schneeanzüge unerkannt an dich heranschleichen zu können, wie kein anderer Ausdruck unwiederbringlich verloren gegangener Unschuld.
+
 _23. März 2021_
 
 Kind: "Was glaubst du, ist ein Kuscheltier wichtiger als ein Papa?"
