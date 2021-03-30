@@ -15,7 +15,7 @@ _Seit 2016, zuletzt aktualisiert: 2021-01-08_
 #### Kurts Sicht*
 
 [(362) Jurassic World: Das gefallene Königreich (2018)](krtsscht.md)<br>
-_Seit 2013, zuletzt aktualisiert: 2021-03-27_
+_Seit 2013, zuletzt aktualisiert: 2021-03-30_
 
 *Vormals In einem Satz: Horror
 
