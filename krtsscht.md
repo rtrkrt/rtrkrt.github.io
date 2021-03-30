@@ -1,3 +1,11 @@
+#### Jurassic World: Das gefallene Königreich (2018)
+
+_30. März 2021_
+
+... schön, dass ihr alle die Zeit gefunden habt. Ich weiß, wir haben viel um die Ohren, aber lasst uns noch ein letztes Mal das Skript auf die ausschlaggebenden Passagen prüfen, bevor wir mit den Dreharbeiten loslegen: Haben wir den verschrobenen Multimillionen-Visionär? Oder eine andere wiederkehrende Figur, die den Sinneswandel hin zum überambitionierten Dinoschutz-Aktivismus durchlaufen hat? Beides? Top! Wenigstens eine spektakulär übergriffige Retorten-Theropoda einschließende Nahtoderfahrung? Großartig! Wie steht es um das halbe Dutzend fadenscheiniger Wüstlinge in Großwildjäger-Monturen? Weiß der Urian, wo dieses Franchise ohne fadenscheinige Wüstlinge in Großwildjäger-Monturen wäre ...
+
+<hr>
+
 #### WandaVision (Staffel 1, 2021)
 
 _27. März 2021_
