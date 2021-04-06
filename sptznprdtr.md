@@ -1,5 +1,11 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_6. April 2021_
+
+Bei aller Liebe für derartiges Engagement, mit "Sexisten in die Eier!"-Guerilla-Kampagnen in die Offensive gehen zu wollen, zeugt von außergewöhnlicher Ignoranz der eigenen Botschaft gegenüber.
+
+<hr>
+
 _28. März 2021_
 
 Es ist der Tag, an dem ein Kind aufhört zu glauben, sich über das Rascheln seiner Matschhosen und Schneeanzüge unerkannt an dich heranschleichen zu können, wie kein anderer Ausdruck unwiederbringlich verloren gegangener Unschuld.
