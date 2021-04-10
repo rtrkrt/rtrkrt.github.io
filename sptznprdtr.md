@@ -1,5 +1,11 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_10. April 2021_
+
+Spricht man in den Sekundarstufen heute immer noch von einer „bewerteten schriftlichen Leistung“ - kurz BSL - oder ist man inzwischen zur Vernunft gekommen?
+
+<hr>
+
 _6. April 2021_
 
 Bei aller Liebe für derartiges Engagement, mit "Sexisten in die Eier!"-Guerilla-Kampagnen in die Offensive gehen zu wollen, zeugt von außergewöhnlicher Ignoranz der eigenen Botschaft gegenüber.
