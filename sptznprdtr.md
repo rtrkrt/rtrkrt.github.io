@@ -2,13 +2,13 @@
 
 _12. April 2021_
 
-In der heutigen Ausgabe von „Tiernamen, die genauso gut als originelle Beleidigungen durchgehen“: der Schmalscherige Sumpfkrebs!
+In der heutigen Ausgabe von "Tiernamen, die genauso gut als originelle Beleidigungen durchgehen": der Schmalscherige Sumpfkrebs!
 
 <hr>
 
 _10. April 2021_
 
-Spricht man in den Sekundarstufen heute immer noch von einer „bewerteten schriftlichen Leistung“ - kurz BSL - oder ist man inzwischen zur Vernunft gekommen?
+Spricht man in den Sekundarstufen heute immer noch von einer "bewerteten schriftlichen Leistung" - kurz BSL - oder ist man inzwischen zur Vernunft gekommen?
 
 <hr>
 
