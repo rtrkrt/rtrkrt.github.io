@@ -1,3 +1,13 @@
+#### Wir sind Antifa
+
+_14. April 2021_
+
+Wir sind rechtsverbundene Klarsichtige. Wir erkennen selbst in den banalsten Vorstößen der Regierung im Kontext des Infektionsschutzes eindeutige Parallelen zur systematischen Verfolgung sowie Ausrottung von Juden, Sinti und weiterer Vertreter ethnischer wie sozialer oder sexueller Minoritäten zur Zeit des Nationalsozialismus. Unsere Großeltern waren nachweislich keine Geschwister. Das macht eine einleuchtende Erklärung für unser Verhalten allerdings auch nicht einfacher!
+
+![antifa](https://rtrkrt.4lima.de/rechtsabkratzen/rechtsabkratzen_antifa.jpg)
+
+<hr>
+
 #### Heimatliebe ist kein Verbrechen!
 
 _25. März 2021_
