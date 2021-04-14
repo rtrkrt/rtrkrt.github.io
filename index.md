@@ -30,8 +30,8 @@ _Seit 2019, zuletzt aktualisiert: 2021-03-13_
 
 #### #RechtsAbkratzen*
 
-[(6) Heimatliebe ist kein Verbrechen!](rchts.md)<br>
-_Seit 2019, zuletzt aktualisiert: 2021-03-25_
+[(7) Wir sind Antifa](rchts.md)<br>
+_Seit 2019, zuletzt aktualisiert: 2021-04-14_
 
 *Achtung: reich bebildert!
 
