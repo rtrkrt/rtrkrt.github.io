@@ -1,3 +1,57 @@
+#### Fluktkompensator und andere Callcenter-Mythen: Chronologie eines Aufbauszenarios
+
+_17. April 2021_
+
+56 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, ich habe deine Personalanforderung erhalten: 15 Köpfe für eine Fluktuationsausgleichsschulung. Ich mache mich umgehend an die Rekrutierung und stelle dir zu gegebener Zeit die Termine für die Vorstellungsgespräche ein!
+
+49 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, ich habe soeben die Termine mit den ersten Kandidaten eingestellt und noch bergeweise Profile auf dem Tisch. Die 15 kriegen wir EASY!
+
+35 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, Frau Rangel hat den PC-Test nicht bestanden. Sie hielt Amazon für ein Smartphone-Betriebssystem.
+
+28 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, ich bin inzwischen bei 10. Frau Süßmund und Herr Pfandwecken erhalten noch heute die Zusage. Das macht dann 12 ... LÄUFT!
+
+20 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, unser 13-Uhr-Termin muss leider ausfallen. Der Bewerber kann den Weg zum Standort nicht finden.
+
+17 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, ich kann Frau Süßmund und Herrn Pfandwecken nicht erreichen. Die angegebenen Rufnummern sind nicht vergeben. Es bleibt also bei 10 - aber bei denen habe ich ein gutes Gefühl!
+
+14 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, 2 Teilnehmer sind heute nicht zum Willkommenstag erschienen. Ich sehe zu, dass ich die beiden ans Telefon bekomme, damit die Schulung morgen wie geplant starten kann.
+
+13 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, eine Teilnehmerin fällt heute krankheitsbedingt aus. Ich habe schon mit ihr gesprochen, sie ist morgen auf jeden Fall wieder am Start!
+
+12 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, die Teilnehmerin ist für die kommenden 17 Tage krankgeschrieben. Siehst du eine Möglichkeit, sie im Anschluss an den regulären Schulungszeitraum mit einem Einzeltraining fit zu machen? Ihr tut es wirklich sehr leid und ich würde sie ungern verlieren!
+
+11 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, bei den 2 fehlenden Teilnehmern sind die Großmütter gestorben. Bei einem davon sogar schon zum zweiten Mal seit unserem Vorstellungsgespräch. Ich schätze mal, die sehen wir nicht wieder ...
+
+8 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, vielen Dank, dass du so kurzfristig einen Trainer organisiert hast. Unsere Nachzüglerin hat heute die Probezeitkündigung eingereicht. Aus der Nachschulung wird also nichts. SORRY!
+
+-7 Tage bis zur Aufnahme der Tätigkeit
+
+Hallo Kurt, ich habe deine Personalanforderung erhalten: 8 Köpfe für eine Fluktuationsausgleichsschulung. Ich mache mich umgehend an die Rekrutierung und stelle dir zu gegebener Zeit die Termine für die Vorstellungsgespräche ein!
+
+<hr>
+
 #### Im Land der Schuldlosen
 
 _23. Juni 2013_
