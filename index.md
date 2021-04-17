@@ -28,6 +28,13 @@ _Seit 2019, zuletzt aktualisiert: 2021-03-13_
 
 <hr>
 
+#### Not eines Handlungsreisenden
+
+[(10) Fluktkompensator und andere Callcenter-Mythen: Chronologie eines Aufbauszenarios](hndlngsrsndr.md)<br>
+_Seit 2012, zuletzt aktualisiert: 2021-04-17_
+
+<hr>
+
 #### #RechtsAbkratzen*
 
 [(7) Wir sind Antifa](rchts.md)<br>
@@ -38,9 +45,6 @@ _Seit 2019, zuletzt aktualisiert: 2021-04-14_
 <hr>
 
 #### Altlastimpressionen
-
-[(9) Not eines Handlungsreisenden](hndlngsrsndr.md)<br>
-_Februar 2012 bis Juni 2013_
 
 [(25) Unerhört! - Zusammengereimtes](zsmmngrmts.md)<br>
 _? bis Juli 2020_
