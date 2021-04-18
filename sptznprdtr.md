@@ -1,5 +1,11 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_18. April 2021_
+
+Auf Protein-Schokolade umsteigen hat nichts mit über sich hinauswachsen zu tun!
+
+<hr>
+
 _12. April 2021_
 
 In der heutigen Ausgabe von "Tiernamen, die genauso gut als originelle Beleidigungen durchgehen": der Schmalscherige Sumpfkrebs!
