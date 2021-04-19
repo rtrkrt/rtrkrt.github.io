@@ -1,5 +1,11 @@
 #### Aus dem Leben eines Spitzenprädators
 
+_19. April 2021_
+
+Eltern-Kind-Dialog, der Haustier-Diskurs: "[...] und deshalb sollte man sich keinen Hund anschaffen, wenn man nicht angemessen für ihn sorgen kann!" - "Ja. Aber Papa, der Film 'Ooops! 2' war echt lustig, oder?"
+
+<hr>
+
 _18. April 2021_
 
 Auf Protein-Schokolade umsteigen hat nichts mit über sich hinauswachsen zu tun!
