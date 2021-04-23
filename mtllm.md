@@ -8,7 +8,7 @@ _23. April 2021_
 
 Das Problem: Lächerlicher noch als ein aufgestellter Kappenschild und „Hackedicht!“-Bedruck ist nur der Typ, der sich mit den formellen Insignien des Crossover-Thrash zu schmücken beabsichtigt, ohne diesem Ausläufer harscher Tonalität je mehr als 52 Sekunden seiner ungeteilten Aufmerksamkeit gewidmet zu haben (zeigt wieder auf sich selbst - Anm. d. Verf.). Wie vorteilhaft also, dass man in Richmond, Virginia, das ruckelfreie Alternieren von Geschrammel und Groove seit 2007 bereits auf einem Niveau praktiziert, das dem auditiven Cortex höchstwahrscheinlich keine (anhaltenden) Schäden beibringt, in Verbindung mit dem eminenten Einsatz einhelliger Kumpel-Choräle zumindest aber die Unterscheidung des Liedguts beträchtlich erleichtert und dem gewogenen Hörer in seiner Wahrnehmung durch unfreiwillige Co-Rezipienten die in der Welt eines Absolventen der Sekundarstufe 2 lebensnotwendige Edginess verschafft.
 
-![flip](https://rtrkrt.4lima.de/mtllm/210423flp.png)
+![flip](https://rtrkrt.4lima.de/mtllm/210423flp.jpg)
 
 Für einen, der jene Jahre in seiner Schweden-Melodeath-Blase zugebracht hat, kommt diese Erkenntnis zugegebenermaßen herzlich spät (zeigt noch etwas energischer - Anm. d. Verf.), Repräsentant/-Repräsentantinnen gegenwärtiger sowie zukünftiger Jahrgänge mit einer rätselhaften Affinität zu extravagantem textilen Merchandising sei jedoch auf den Weg gegeben, die Alibi-Hymnen für eure modische Versündigung sind bereits dort draußen. Tobt euch aus!
 
