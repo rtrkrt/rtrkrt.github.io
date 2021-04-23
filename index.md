@@ -23,8 +23,8 @@ _Seit 2013, zuletzt aktualisiert: 2021-03-30_
 
 #### Memento Metallum
 
-[(14) Black-Metal-Jahr 94: Der innerskandinavische Maliziösitäts-Konflikt](mtllm.md)<br>
-_Seit 2019, zuletzt aktualisiert: 2021-03-13_
+[(15) Der Weg zum Herzen eines EMP-Printkatalog-Empfängers führt über die Kopfbedeckung](mtllm.md)<br>
+_Seit 2019, zuletzt aktualisiert: 2021-04-23_
 
 <hr>
 
