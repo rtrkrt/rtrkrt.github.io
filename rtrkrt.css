@@ -2,7 +2,7 @@ body {
   background-color: black;
   color: white;
   font-size: 0.9em;
-  font-family: "Andale Mono", AndaleMono, monospace;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
 }
 h1 { 
   color: red;
