@@ -2,7 +2,7 @@ body {
   background-color: black;
   color: white;
   font-size: 0.9em;
-  font-family: font-family: Andale Mono,AndaleMono,monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 h1 { 
   color: red;
