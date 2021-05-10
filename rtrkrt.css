@@ -2,7 +2,7 @@ body {
   background-color: black;
   color: white;
   font-size: 0.9em;
-  font-family: Consolas, monaco, monospace;
+  font-family: "Andale Mono", AndaleMono, monospace;
 }
 h1 { 
   color: red;
