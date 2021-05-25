@@ -27,6 +27,9 @@ h3 {
   display: block;
   font-size: 0.9em;
 }
+p.tlc {
+  font-style: oblique;
+}
 a:link, a:visited, a:hover, a:active {
   color: red;
   text-decoration: none;
