@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>.txt in HTML einbinden</title>
+<style>
+  #inhalt,body{
+  color:red;
+    font-family: 'Dosis';
+}
+</style>
+<link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+</head>
+<body>
+<h1 style="text-decoration: underline; color: rgb(36, 125, 160);">Überschift</h1>
+<p1>Unter mir soll .txt-Datei <a href="Text.txt">Text.txt</a>&nbsp;, mit der Schriftart 'Dosis' eingebunden werden.</p1>
+    <div id="inhalt"></div>
+    <script>
+window.onload = function () {
+  div=document.getElementById('inhalt');
+  var linksrc = "test.txt";
+
+  let xhr = new XMLHttpRequest ();
+  xhr.onreadystatechange = function () {
+    if (this.readyState === 4 && this.status === 200) {
+      let response = this.responseText;
+       div.innerHTML+=response;
+      div.style.color='red';
+      }
+  }
+  xhr.open ("GET", linksrc);
+  xhr.send ();
+}
+</script>
+  </body>
+</html>
