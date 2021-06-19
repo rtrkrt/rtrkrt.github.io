@@ -17,7 +17,7 @@ h3 {
   font-weight: bold;
 }
 hr {
-  border-top: 1px dashed red;
+  border: 2px dashed red;
 }
 p.tlc {
   font-style: oblique;
