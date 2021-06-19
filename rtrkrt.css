@@ -2,32 +2,24 @@ body {
   background-color: black;
   color: white;
   font-size: 0.9em;
-  font-family: "Lucida Console", Courier, monospace;
-}
-h1 { 
-  color: red;
-  display: block;
-  font-size: 1.6em;
-  font-weight: normal;
-  font-family: "Lucida Console", Courier, monospace;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h2 { 
   color: white;
   display: block;
   font-size: 0.9em;
   font-weight: normal;
-  font-family: "Lucida Console", Courier, monospace;
 }
 h3 { 
   color: yellow;
   display: block;
   font-size: 0.9em;
-}
-rtrhdr { 
-  color: red;
-  display: block;
-  font-size: 1.4em;
   font-weight: normal;
+}
+hr {
+  height: 1px;
+  background-color: red;
+  border: none;
 }
 p.tlc {
   font-style: oblique;
