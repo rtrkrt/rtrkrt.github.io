@@ -28,6 +28,13 @@ h3 {
   display: block;
   font-size: 0.9em;
 }
+rtrhdr { 
+  color: red;
+  display: block;
+  font-size: 1.4em;
+  font-weight: normal;
+  font-family: "Lucida Console", Courier, monospace;
+}
 p.tlc {
   font-style: oblique;
 }
