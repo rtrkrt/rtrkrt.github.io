@@ -21,6 +21,9 @@ hr {
   background-color: red;
   border: none;
 }
+p.grnrkrt {
+  color: green;
+}
 p.tlc {
   font-style: oblique;
 }
