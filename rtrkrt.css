@@ -9,17 +9,12 @@ h1 {
   display: block;
   font-size: 1.8;
   font-weight: normal;
-}
-h1.mnkrt { 
-  color: grey;
-  display: block;
-  font-size: 1.8;
-  font-weight: normal;
+  font-family: "Lucida Console", Courier, monospace;
 }
 h2 { 
   color: white;
   display: block;
-  font-size: 1.4em;
+  font-size: 1.1em;
   font-weight: normal;
   font-family: "Lucida Console", Courier, monospace;
 }
