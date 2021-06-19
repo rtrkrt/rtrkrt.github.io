@@ -5,23 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>.txt in HTML einbinden</title>
 <style>
-hr.style16 { 
-  border-top: 1px dashed #8c8b8b; 
-} 
-hr.style16:after { 
-  content: 'https://rtrkrt.4lima.de/antikurt.png'; 
-  display: inline-block; 
-  position: relative; 
-  top: -12px; 
-  left: 40px; 
-  padding: 0 3px; 
-  background: #f0f0f0; 
-  color: #8c8b8b; 
-  font-size: 18px; 
+hr.hr--logo {
+  border-top: solid #000 1px;
+  margin: 50px 0;
+}
+hr.hr--logo:after {
+  content: url( 'logogram.svg' );
+  /* Controls the position of the logo */
+  left: 50%;
+  position: absolute;
+  transform: translateY(-50%) translateX(-50%);
+  /* Controls the whitespace around the symbol */
+  padding: 20px;
+  background: #fff;
 }
 </style>
 </head>
 <body>
-<hr />
+<hr class="hr--logo" />
 </body>
 </html>
