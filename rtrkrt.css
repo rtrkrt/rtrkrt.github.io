@@ -21,6 +21,15 @@ hr {
   background-color: red;
   border: none;
 }
+hr:after {
+  content: url( 'https://rtrkrt.4lima.de/antikurt.png' );
+  display: inline-flex;
+  width: 1.8em;
+  /* Controls the position of the logo */
+  left: 90%;
+  position: absolute;
+  transform: translateY(-50%) translateX(-50%);
+}
 p.tlc {
   font-style: oblique;
 }
