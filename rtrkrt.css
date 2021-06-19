@@ -21,6 +21,7 @@ h2 {
   display: block;
   font-size: 1.1em;
   font-weight: normal;
+  font-family: "Lucida Console", monospace;
 }
 h3 { 
   color: yellow;
