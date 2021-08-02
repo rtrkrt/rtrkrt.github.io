@@ -14,7 +14,7 @@ h3 {
   color: yellow;
   display: block;
   font-size: 0.9em;
-  font-weight: bold;
+  font-weight: normal;
 }
 hr {
   height: 1px;
@@ -23,6 +23,9 @@ hr {
 }
 p.grnrkrt {
   color: green;
+}
+p.rtrkrt {
+  color: red;
 }
 p.tlc {
   font-style: oblique;
