@@ -25,7 +25,7 @@ fieldset {
 border: 1px #F00 solid;
 }
 legend {
-  color: #FFFF00;
+  color: red;
 }
 p.grnrkrt {
   color: green;
