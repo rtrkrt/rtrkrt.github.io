@@ -22,7 +22,8 @@ hr {
   border: none;
 }
 fieldset {
-border: 1px #F00 solid;
+border-color: #F00;
+border-style: solid;
 }
 legend {
   color: red;
