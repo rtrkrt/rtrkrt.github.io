@@ -21,6 +21,9 @@ hr {
   background-color: red;
   border: none;
 }
+fieldset {
+border: 1px solid red;
+}
 legend {
   color: #FFFF00;
 }
