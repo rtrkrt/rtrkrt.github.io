@@ -21,6 +21,9 @@ hr {
   background-color: red;
   border: none;
 }
+legend {
+  color: yellow;
+}
 p.grnrkrt {
   color: green;
 }
