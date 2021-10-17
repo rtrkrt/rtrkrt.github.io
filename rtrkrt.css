@@ -24,7 +24,7 @@ hr {
 fieldset {
 border-color: red;
 border-style: solid;
-text-align: justify;
+text-align: left;
 }
 legend {
 color: yellow;
