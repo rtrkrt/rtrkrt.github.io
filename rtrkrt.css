@@ -27,14 +27,15 @@ border-style: solid;
 text-align: justify;
 }
 fieldset.kopf {
-background-color: red;
 border-color: yellow;
 border-style: solid;
-color: black;
 text-align: justify;
 }
 legend {
 color: yellow;
+}
+legend.kopf {
+color: red;
 }
 p.grnrkrt {
   color: green;
