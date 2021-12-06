@@ -28,6 +28,8 @@ text-align: justify;
 }
 fieldset.kopf {
 background-color: red;
+color: black;
+text-align: justify;
 }
 legend {
 color: yellow;
