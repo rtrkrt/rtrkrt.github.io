@@ -26,6 +26,9 @@ border-color: red;
 border-style: solid;
 text-align: justify;
 }
+fieldset.kopf {
+background-color: red;
+}
 legend {
 color: yellow;
 }
