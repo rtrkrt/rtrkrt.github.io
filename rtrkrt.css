@@ -28,6 +28,8 @@ text-align: justify;
 }
 fieldset.kopf {
 background-color: red;
+border-color: yellow;
+border-style: solid;
 color: black;
 text-align: justify;
 }
