@@ -5,14 +5,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 p.head {
-  color: green;
+  color: lime;
   font-size: 1.1em;
 }
 p.date {
-  color: green;
+  color: lime;
 }
 a:link, a:visited, a:hover, a:active {
-  color: green;
+  color: lime;
   text-decoration: none;
 }
 img {
