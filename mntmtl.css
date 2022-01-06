@@ -21,3 +21,6 @@ a:link, a:visited, a:hover, a:active {
 img {
   max-width: 300px;
 }
+hr {
+  border-top: 1px solid lime;
+}
