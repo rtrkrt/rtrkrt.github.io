@@ -6,13 +6,13 @@ body {
 }
 p.head {
   color: lime;
-  font-size: 1.1em;
+  font-size: 1.3em;
 }
 p.date {
   color: lime;
 }
 a:link, a:visited, a:hover, a:active {
-  color: lime;
+  color: red;
   text-decoration: none;
 }
 img {
