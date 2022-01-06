@@ -22,5 +22,8 @@ img {
   max-width: 300px;
 }
 hr {
-  border-top: 1px solid lime;
+  height: 1px;
+  border: none;
+  color: lime;
+  background-color: lime;
 }
