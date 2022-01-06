@@ -26,4 +26,7 @@ hr {
   border: none;
   color: lime;
   background-color: lime;
+  width: 87%;
+  text-align: center;
+  margin: 0 auto;
 }
