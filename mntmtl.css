@@ -22,6 +22,10 @@ a:link, a:visited, a:hover, a:active {
   color: lime;
   text-decoration: underline;
 }
+a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
+  color: red;
+  text-decoration: underline;
+}
 img {
   max-width: 300px;
 }
