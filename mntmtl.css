@@ -11,11 +11,16 @@ span.head {
   color: lime;
   font-size: 21px;
 }
+span.foot {
+  color: lime;
+  font-size: 21px;
+  text-align: center;
+}
 p.date {
   color: lime;
 }
 a:link, a:visited, a:hover, a:active {
-  color: red;
+  color: lime;
   text-decoration: none;
 }
 img {
