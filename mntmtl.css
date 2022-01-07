@@ -14,7 +14,6 @@ span.head {
 span.foot {
   color: lime;
   font-size: 21px;
-  text-align: center;
 }
 p.date {
   color: lime;
@@ -31,7 +30,5 @@ hr {
   border: none;
   color: lime;
   background-color: lime;
-  width: 87%;
-  text-align: center;
   margin: 0 auto;
 }
