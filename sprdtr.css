@@ -9,18 +9,18 @@ body {
   text-align: justify;
 }
 span.head {
-  color: lime;
+  color: yellow;
   font-size: 21px;
 }
 span.foot {
-  color: lime;
+  color: yellow;
   font-size: 21px;
 }
 p.date {
-  color: lime;
+  color: yellow;
 }
 a:link, a:visited, a:hover, a:active {
-  color: lime;
+  color: yellow;
   text-decoration: underline;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
@@ -33,7 +33,7 @@ img {
 hr {
   height: 2px;
   border: none;
-  color: lime;
-  background-color: lime;
+  color: yellow;
+  background-color: yellow;
   margin: 0 auto;
 }
