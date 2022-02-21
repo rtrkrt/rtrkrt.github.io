@@ -1,61 +1,39 @@
+html {
+    -webkit-text-size-adjust: 100%;
+}
 body {
   background-color: black;
   color: white;
-  font-size: 0.9em;
+  font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
 }
-h2 { 
-  color: white;
-  display: block;
-  font-size: 1.2em;
-  font-weight: normal;
+span.head {
+  color: lime;
+  font-size: 21px;
 }
-h3 { 
-  color: yellow;
-  display: block;
-  font-size: 0.9em;
-  font-weight: normal;
+span.foot {
+  color: lime;
+  font-size: 21px;
 }
-hr {
-  height: 1px;
-  background-color: red;
-  border: none;
-}
-fieldset {
-border-color: red;
-border-style: solid;
-text-align: justify;
-}
-fieldset.kopf {
-border-color: yellow;
-border-style: solid;
-text-align: justify;
-}
-legend {
-color: yellow;
-}
-legend.kopf {
-color: red;
-}
-p.grnrkrt {
-  color: green;
-}
-p.rtrkrt {
-  color: red;
-}
-p.glbrkrt {
-  color: yellow;
-}
-p.tlc {
-  font-style: oblique;
+p.date {
+  color: lime;
 }
 a:link, a:visited, a:hover, a:active {
+  color: lime;
+  text-decoration: underline;
+}
+a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
-  text-decoration: none;
+  text-decoration: underline;
 }
 img {
-  max-width: 100%;
+  max-width: 300px;
 }
-sup {
-  color: red;
+hr {
+  height: 2px;
+  border: none;
+  color: lime;
+  background-color: lime;
+  margin: 0 auto;
 }
