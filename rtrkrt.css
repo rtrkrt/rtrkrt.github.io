@@ -27,7 +27,7 @@ span.foot {
 p.date {
   color: lime;
 }
-a.rtr:link, a:visited, a:hover, a:active {
+a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
   text-decoration: underline;
 }
