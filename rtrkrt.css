@@ -8,7 +8,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: left;
 }
-span.head {
+span.rtrkrt {
+  color: red;
+  font-size: 21px;
+}
+span.sprdtr {
+  color: yellow;
+  font-size: 21px;
+}
+span.mntmtl {
   color: lime;
   font-size: 21px;
 }
