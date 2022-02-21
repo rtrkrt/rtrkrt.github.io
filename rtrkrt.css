@@ -27,12 +27,16 @@ span.foot {
 p.date {
   color: lime;
 }
-a:link, a:visited, a:hover, a:active {
-  color: lime;
+a.rtrkrt:link, a:visited, a:hover, a:active {
+  color: red;
   text-decoration: underline;
 }
-a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
-  color: red;
+a.sprdtr:link, a:visited, a:hover, a:active {
+  color: yellow;
+  text-decoration: underline;
+}
+a.mntmtl:link, a:visited, a:hover, a:active {
+  color: lime;
   text-decoration: underline;
 }
 img {
