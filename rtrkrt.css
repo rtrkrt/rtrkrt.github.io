@@ -9,6 +9,7 @@ body {
   text-align: left;
 }
 span.rtrkrt {
+  color: red;
   font-size: 21px;
 }
 span.sprdtr {
@@ -26,16 +27,16 @@ span.foot {
 p.date {
   color: lime;
 }
-a.rtrkrt:link, a:visited, a:hover, a:active {
+a.rtr:link, a:visited, a:hover, a:active {
   color: red;
   text-decoration: underline;
 }
-a.sprdtr:link, a:visited, a:hover, a:active {
+a.spr:link, a:visited, a:hover, a:active {
   color: yellow;
   text-decoration: underline;
 }
-a.mntmtl:link, a:visited, a:hover, a:active {
-  color: yellow;
+a.mnt:link, a:visited, a:hover, a:active {
+  color: lime;
   text-decoration: underline;
 }
 img {
