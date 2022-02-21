@@ -20,32 +20,15 @@ span.mntmtl {
   color: lime;
   font-size: 21px;
 }
-span.foot {
-  color: lime;
-  font-size: 21px;
-}
-p.date {
-  color: lime;
-}
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
   text-decoration: underline;
 }
-a.spr:link, a:visited, a:hover, a:active {
+a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
   color: yellow;
   text-decoration: underline;
 }
-a.mnt:link, a:visited, a:hover, a:active {
+a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
   color: lime;
   text-decoration: underline;
-}
-img {
-  max-width: 300px;
-}
-hr {
-  height: 2px;
-  border: none;
-  color: lime;
-  background-color: lime;
-  margin: 0 auto;
 }
