@@ -16,6 +16,9 @@ span.foot {
   color: lime;
   font-size: 21px;
 }
+p.head {
+  text-align: left;
+}
 p.date {
   color: lime;
 }
