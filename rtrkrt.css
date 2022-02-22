@@ -21,7 +21,7 @@ span.brckhs {
   font-size: 21px;
 }
 span.krtsht {
-  color: coral;
+  color: darkorange;
   font-size: 21px;
 }
 span.mntmtl {
@@ -41,7 +41,7 @@ a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
   text-decoration: underline;
 }
 a.krt:link, a.krt:visited, a.krt:hover, a.krt:active {
-  color: coral;
+  color: darkorange;
   text-decoration: underline;
 }
 a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
