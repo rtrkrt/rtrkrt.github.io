@@ -20,6 +20,10 @@ span.brckhs {
   color: royalblue;
   font-size: 21px;
 }
+span.krtsht {
+  color: coral;
+  font-size: 21px;
+}
 span.mntmtl {
   color: lime;
   font-size: 21px;
@@ -28,12 +32,16 @@ a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
   text-decoration: underline;
 }
+a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
+  color: yellow;
+  text-decoration: underline;
+}
 a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
   color: royalblue;
   text-decoration: underline;
 }
-a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
-  color: yellow;
+a.krt:link, a.krt:visited, a.krt:hover, a.krt:active {
+  color: coral;
   text-decoration: underline;
 }
 a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
