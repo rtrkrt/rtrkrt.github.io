@@ -9,21 +9,21 @@ body {
   text-align: justify;
 }
 span.head {
-  color: coral;
+  color: darkorange;
   font-size: 21px;
 }
 span.foot {
-  color: coral;
+  color: darkorange;
   font-size: 21px;
 }
 p.head {
   text-align: left;
 }
 p.date {
-  color: coral;
+  color: darkorange;
 }
 a:link, a:visited, a:hover, a:active {
-  color: coral;
+  color: darkorange;
   text-decoration: underline;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
@@ -36,7 +36,7 @@ img {
 hr {
   height: 2px;
   border: none;
-  color: coral;
-  background-color: coral;
+  color: darkorange;
+  background-color: darkorange;
   margin: 0 auto;
 }
