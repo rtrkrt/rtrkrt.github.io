@@ -16,12 +16,20 @@ span.sprdtr {
   color: yellow;
   font-size: 21px;
 }
+span.brckhs {
+  color: blue;
+  font-size: 21px;
+}
 span.mntmtl {
   color: lime;
   font-size: 21px;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
+  text-decoration: underline;
+}
+a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
+  color: blue;
   text-decoration: underline;
 }
 a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
