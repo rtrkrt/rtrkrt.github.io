@@ -17,7 +17,7 @@ span.sprdtr {
   font-size: 21px;
 }
 span.brckhs {
-  color: blue;
+  color: royalblue;
   font-size: 21px;
 }
 span.mntmtl {
@@ -29,7 +29,7 @@ a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   text-decoration: underline;
 }
 a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
-  color: blue;
+  color: royalblue;
   text-decoration: underline;
 }
 a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
