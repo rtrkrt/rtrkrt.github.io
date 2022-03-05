@@ -31,7 +31,7 @@ span.mntmtl {
 P.mntmtl {
 background-image: url("https://rtrkrt.4lima.de/mntmtl/mntmtl.png");
 background-position: right;
-background-size: contain;
+background-size: cover;
 background-repeat: no-repeat;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
