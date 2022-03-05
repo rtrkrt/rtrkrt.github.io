@@ -28,7 +28,13 @@ span.mntmtl {
   color: lime;
   font-size: 21px;
 }
-P.mntmtl {
+p.sprdtr {
+background-image: url("https://rtrkrt.4lima.de/sprdtr/sprdtr.png");
+background-position: right;
+background-size: cover;
+background-repeat: no-repeat;
+}
+p.mntmtl {
 background-image: url("https://rtrkrt.4lima.de/mntmtl/mntmtl.png");
 background-position: right;
 background-size: cover;
