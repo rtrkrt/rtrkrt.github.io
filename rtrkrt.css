@@ -30,8 +30,8 @@ span.mntmtl {
 }
 P.mntmtl {
 background-image: url("https://rtrkrt.4lima.de/mntmtl/mntmtl.png");
-background-position: center;
-background-size: contain;
+background-position: right;
+background-size: cover;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
