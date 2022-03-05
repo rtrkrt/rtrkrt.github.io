@@ -28,6 +28,11 @@ span.mntmtl {
   color: lime;
   font-size: 21px;
 }
+P.mntmtl {
+background-image: url("https://rtrkrt.4lima.de/mntmtl/mntmtl.png");
+background-position: center;
+background-size: contain;
+}
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
   text-decoration: underline;
