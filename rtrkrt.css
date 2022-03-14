@@ -52,7 +52,7 @@ a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
   color: yellow;
   text-decoration: underline;
 }
-a.bnd:link, a.spr:visited, a.spr:hover, a.spr:active {
+a.bnd:link, a.bnd:visited, a.bnd:hover, a.bnd:active {
   color: mediumpurple;
   text-decoration: underline;
 }
