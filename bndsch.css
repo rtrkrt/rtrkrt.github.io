@@ -31,7 +31,7 @@ a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   text-decoration: underline;
 }
 .temp {
-  object-fit: cover;
+  object-fit: contain;
   object-position: center;
   max-height: 150px;
   max-width: 150px;
