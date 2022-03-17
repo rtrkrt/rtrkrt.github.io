@@ -9,21 +9,21 @@ body {
   text-align: justify;
 }
 span.head {
-  color: yellow;
+  color: turquoise;
   font-size: 21px;
 }
 span.foot {
-  color: yellow;
+  color: turquoise;
   font-size: 21px;
 }
 p.head {
   text-align: left;
 }
 p.date {
-  color: yellow;
+  color: turquoise;
 }
 a:link, a:visited, a:hover, a:active {
-  color: yellow;
+  color: turquoise;
   text-decoration: underline;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
@@ -36,7 +36,7 @@ img {
 hr {
   height: 2px;
   border: none;
-  color: yellow;
-  background-color: yellow;
+  color: turquoise;
+  background-color: turquoise;
   margin: 0 auto;
 }
