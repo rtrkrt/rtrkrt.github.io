@@ -9,21 +9,21 @@ body {
   text-align: justify;
 }
 span.head {
-  color: darkorange;
+  color: orange;
   font-size: 21px;
 }
 span.foot {
-  color: darkorange;
+  color: orange;
   font-size: 21px;
 }
 p.head {
   text-align: left;
 }
 p.date {
-  color: darkorange;
+  color: orange;
 }
 a:link, a:visited, a:hover, a:active {
-  color: darkorange;
+  color: orange;
   text-decoration: underline;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
@@ -36,7 +36,7 @@ img {
 hr {
   height: 2px;
   border: none;
-  color: darkorange;
-  background-color: darkorange;
+  color: orange;
+  background-color: orange;
   margin: 0 auto;
 }
