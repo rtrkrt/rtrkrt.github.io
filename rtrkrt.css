@@ -21,11 +21,11 @@ span.bndsch {
   font-size: 21px;
 }
 span.brckhs {
-  color: royalblue;
+  color: deepskyblue;
   font-size: 21px;
 }
 span.krtsht {
-  color: darkorange;
+  color: orange;
   font-size: 21px;
 }
 span.mntmtl {
@@ -35,18 +35,6 @@ span.mntmtl {
 span.rtskrz {
   color: turquoise;
   font-size: 21px;
-}
-p.sprdtr {
-background-image: url("https://rtrkrt.4lima.de/sprdtr/sprdtr.png");
-background-position: right;
-background-size: contain;
-background-repeat: no-repeat;
-}
-p.mntmtl {
-background-image: url("https://rtrkrt.4lima.de/mntmtl/mntmtl.png");
-background-position: right;
-background-size: contain;
-background-repeat: no-repeat;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
@@ -61,11 +49,11 @@ a.bnd:link, a.bnd:visited, a.bnd:hover, a.bnd:active {
   text-decoration: underline;
 }
 a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
-  color: royalblue;
+  color: deepskyblue;
   text-decoration: underline;
 }
 a.krt:link, a.krt:visited, a.krt:hover, a.krt:active {
-  color: darkorange;
+  color: orange;
   text-decoration: underline;
 }
 a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
