@@ -17,7 +17,7 @@ span.sprdtr {
   font-size: 21px;
 }
 span.bndsch {
-  color: mediumpurple;
+  color: orchid;
   font-size: 21px;
 }
 span.brckhs {
@@ -53,7 +53,7 @@ a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
   text-decoration: underline;
 }
 a.bnd:link, a.bnd:visited, a.bnd:hover, a.bnd:active {
-  color: mediumpurple;
+  color: orchid;
   text-decoration: underline;
 }
 a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
