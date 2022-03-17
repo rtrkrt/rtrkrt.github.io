@@ -32,6 +32,10 @@ span.mntmtl {
   color: lime;
   font-size: 21px;
 }
+span.rtskrz {
+  color: deepskyblue;
+  font-size: 21px;
+}
 p.sprdtr {
 background-image: url("https://rtrkrt.4lima.de/sprdtr/sprdtr.png");
 background-position: right;
@@ -66,5 +70,9 @@ a.krt:link, a.krt:visited, a.krt:hover, a.krt:active {
 }
 a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
   color: lime;
+  text-decoration: underline;
+}
+a.rts:link, a.rts:visited, a.rts:hover, a.rts:active {
+  color: deepskyblue;
   text-decoration: underline;
 }
