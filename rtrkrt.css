@@ -33,7 +33,7 @@ span.mntmtl {
   font-size: 21px;
 }
 span.rtskrz {
-  color: deepskyblue;
+  color: turquoise;
   font-size: 21px;
 }
 p.sprdtr {
@@ -73,6 +73,6 @@ a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
   text-decoration: underline;
 }
 a.rts:link, a.rts:visited, a.rts:hover, a.rts:active {
-  color: deepskyblue;
+  color: turquoise;
   text-decoration: underline;
 }
