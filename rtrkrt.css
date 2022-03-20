@@ -37,8 +37,11 @@ span.rtskrz {
   font-size: 21px;
 }
 span.grrttn {
-  color: grey;
+  color: white;
   font-size: 21px;
+}
+em.grrttn {
+  color: grey;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
@@ -66,5 +69,9 @@ a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
 }
 a.rts:link, a.rts:visited, a.rts:hover, a.rts:active {
   color: turquoise;
+  text-decoration: underline;
+}
+a.grr:link, a.rts:visited, a.rts:hover, a.rts:active {
+  color: white;
   text-decoration: underline;
 }
