@@ -36,6 +36,10 @@ span.rtskrz {
   color: turquoise;
   font-size: 21px;
 }
+span.grrttn {
+  color: grey;
+  font-size: 21px;
+}
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
   text-decoration: underline;
