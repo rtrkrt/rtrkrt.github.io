@@ -3,27 +3,27 @@ html {
 }
 body {
   background-color: black;
-  color: white;
+  color: grey;
   font-size: 16px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: justify;
 }
 span.head {
-  color: violet;
+  color: white;
   font-size: 21px;
 }
 span.foot {
-  color: violet;
+  color: white;
   font-size: 21px;
 }
 p.head {
   text-align: left;
 }
 p.date {
-  color: violet;
+  color: white;
 }
 a:link, a:visited, a:hover, a:active {
-  color: violet;
+  color: white;
   text-decoration: underline;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
@@ -39,7 +39,7 @@ img {
 hr {
   height: 2px;
   border: none;
-  color: violet;
-  background-color: violet;
+  color: white;
+  background-color: white;
   margin: 0 auto;
 }
