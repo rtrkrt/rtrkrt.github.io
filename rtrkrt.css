@@ -12,6 +12,10 @@ span.rtrkrt {
   color: red;
   font-size: 21px;
 }
+span.lstprn {
+  color: violet;
+  font-size: 21px;
+}
 span.sprdtr {
   color: yellow;
   font-size: 21px;
@@ -45,6 +49,10 @@ a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
 }
 a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
   color: yellow;
+  text-decoration: underline;
+}
+a.lst:link, a.lst:visited, a.lst:hover, a.lst:active {
+  color: violet;
   text-decoration: underline;
 }
 a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
