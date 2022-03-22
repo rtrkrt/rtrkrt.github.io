@@ -40,7 +40,7 @@ span.rtskrz {
   font-size: 21px;
 }
 span.lstprn {
-  color: silver;
+  color: burlywood;
   font-size: 21px;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
@@ -49,10 +49,6 @@ a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
 }
 a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
   color: turquoise;
-  text-decoration: underline;
-}
-a.lst:link, a.lst:visited, a.lst:hover, a.lst:active {
-  color: silver;
   text-decoration: underline;
 }
 a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
@@ -73,5 +69,9 @@ a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
 }
 a.rts:link, a.rts:visited, a.rts:hover, a.rts:active {
   color: silver;
+  text-decoration: underline;
+}
+a.lst:link, a.lst:visited, a.lst:hover, a.lst:active {
+  color: burlywood;
   text-decoration: underline;
 }
