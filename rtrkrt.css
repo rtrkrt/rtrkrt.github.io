@@ -13,11 +13,11 @@ span.rtrkrt {
   font-size: 21px;
 }
 span.sprdtr {
-  color: yellow;
+  color: coral;
   font-size: 21px;
 }
 span.brckhs {
-  color: deepskyblue;
+  color: coral;
   font-size: 21px;
 }
 span.grrttn {
@@ -28,7 +28,7 @@ em.grrttn {
   color: grey;
 }
 span.krtsht {
-  color: orange;
+  color: coral;
   font-size: 21px;
 }
 span.mntmtl {
@@ -36,11 +36,11 @@ span.mntmtl {
   font-size: 21px;
 }
 span.rtskrz {
-  color: turquoise;
+  color: coral;
   font-size: 21px;
 }
 span.lstprn {
-  color: violet;
+  color: coral;
   font-size: 21px;
 }
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
@@ -48,15 +48,15 @@ a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   text-decoration: underline;
 }
 a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
-  color: yellow;
+  color: coral;
   text-decoration: underline;
 }
 a.lst:link, a.lst:visited, a.lst:hover, a.lst:active {
-  color: violet;
+  color: coral;
   text-decoration: underline;
 }
 a.brc:link, a.brc:visited, a.brc:hover, a.brc:active {
-  color: deepskyblue;
+  color: coral;
   text-decoration: underline;
 }
 a.grr:link, a.grr:visited, a.grr:hover, a.grr:active {
@@ -64,7 +64,7 @@ a.grr:link, a.grr:visited, a.grr:hover, a.grr:active {
   text-decoration: underline;
 }
 a.krt:link, a.krt:visited, a.krt:hover, a.krt:active {
-  color: orange;
+  color: coral;
   text-decoration: underline;
 }
 a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
@@ -72,6 +72,6 @@ a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
   text-decoration: underline;
 }
 a.rts:link, a.rts:visited, a.rts:hover, a.rts:active {
-  color: turquoise;
+  color: coral;
   text-decoration: underline;
 }
