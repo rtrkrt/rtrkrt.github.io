@@ -28,7 +28,7 @@ em.grrttn {
   color: grey;
 }
 span.krtsht {
-  color: silver;
+  color: coral;
   font-size: 21px;
 }
 span.mntmtl {
@@ -64,7 +64,7 @@ a.grr:link, a.grr:visited, a.grr:hover, a.grr:active {
   text-decoration: underline;
 }
 a.krt:link, a.krt:visited, a.krt:hover, a.krt:active {
-  color: silver;
+  color: coral;
   text-decoration: underline;
 }
 a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
