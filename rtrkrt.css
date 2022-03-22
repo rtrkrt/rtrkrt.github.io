@@ -43,6 +43,10 @@ span.lstprn {
   color: burlywood;
   font-size: 21px;
 }
+span.vltmhg {
+  color: violet;
+  font-size: 21px;
+}
 a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   color: red;
   text-decoration: underline;
@@ -73,5 +77,9 @@ a.rts:link, a.rts:visited, a.rts:hover, a.rts:active {
 }
 a.lst:link, a.lst:visited, a.lst:hover, a.lst:active {
   color: burlywood;
+  text-decoration: underline;
+}
+a.vlt:link, a.vlt:visited, a.vlt:hover, a.vlt:active {
+  color: violet;
   text-decoration: underline;
 }
