@@ -13,7 +13,7 @@ span.rtrkrt {
   font-size: 21px;
 }
 span.sprdtr {
-  color: silver;
+  color: turquoise;
   font-size: 21px;
 }
 span.brckhs {
@@ -48,7 +48,7 @@ a.rtr:link, a.rtr:visited, a.rtr:hover, a.rtr:active {
   text-decoration: underline;
 }
 a.spr:link, a.spr:visited, a.spr:hover, a.spr:active {
-  color: silver;
+  color: turquoise;
   text-decoration: underline;
 }
 a.lst:link, a.lst:visited, a.lst:hover, a.lst:active {
