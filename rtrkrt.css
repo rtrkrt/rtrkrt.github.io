@@ -36,7 +36,7 @@ span.mntmtl {
   font-size: 21px;
 }
 span.rtskrz {
-  color: lightskyblue;
+  color: deepskyblue;
   font-size: 21px;
 }
 span.lstprn {
@@ -72,7 +72,7 @@ a.mnt:link, a.mnt:visited, a.mnt:hover, a.mnt:active {
   text-decoration: underline;
 }
 a.rts:link, a.rts:visited, a.rts:hover, a.rts:active {
-  color: lightskyblue;
+  color: deepskyblue;
   text-decoration: underline;
 }
 a.lst:link, a.lst:visited, a.lst:hover, a.lst:active {
