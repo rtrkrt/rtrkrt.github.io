@@ -18,10 +18,12 @@ table {
 
 .cam {
   width: 50%;
+  font-size: 12px;
   text-align: left;
 }
 
 .fof {
   width: 50%;
+  font-size: 12px;
   text-align: right;
 }
