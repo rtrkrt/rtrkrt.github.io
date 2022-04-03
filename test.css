@@ -5,6 +5,10 @@ body {
   background-color: white;
 }
 
+img {
+  border: 1px solid grey;
+}
+
 table {
   max-width: 75%;
   margin-left: auto;
