@@ -12,18 +12,17 @@ table {
 }
 
 .fof {
-  font-size: 30px;
+  font-size: 34px;
+  color: red;
   text-align: center;
 }
 
 .cam {
-  width: 50%;
   font-size: 12px;
   text-align: left;
 }
 
 .flm {
-  width: 50%;
   font-size: 12px;
   text-align: right;
 }
