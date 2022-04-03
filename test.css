@@ -1,8 +1,4 @@
-div {
+table {
   height: 60%;
   width: 60%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 3px solid #dbe4ed;
 }
