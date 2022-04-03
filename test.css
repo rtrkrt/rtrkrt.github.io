@@ -1,0 +1,7 @@
+div {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #dbe4ed;
+}
