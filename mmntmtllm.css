@@ -1,0 +1,35 @@
+html {
+    -webkit-text-size-adjust: 100%;
+}
+body {
+  background-color: lightslategray;
+  color: white;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
+p {
+  width: 95%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p.date {
+  background-color: black;
+  color: lightslategray;
+}
+a:link, a:visited, a:hover, a:active {
+  color: black;
+  text-decoration: underline;
+}
+img {
+  max-width: 100%;
+}
+hr {
+  height: 2px;
+  border: none;
+  color: black;
+  background-color: black;
+  width: 95%;
+  max-width: 500px;
+}
