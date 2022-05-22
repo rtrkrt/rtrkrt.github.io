@@ -12,9 +12,8 @@ span.head {
   font-size: 34px;
 }
 span.headz {
-  font-size: 34px;
-  background-color: black;
-  color: lightslategray;
+  font-size: 10px;
+  color: black;
 }
 p {
   width: 95%;
