@@ -9,7 +9,7 @@ body {
   text-align: justify;
 }
 fieldset {
-  border: 1px solid black;
+  border: 2px solid black;
 }
 legend {
   background-color: black;
