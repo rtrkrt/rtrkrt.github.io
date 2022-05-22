@@ -13,6 +13,7 @@ fieldset {
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
+  border: 1px solid black;
 }
 legend {
   background-color: black;
