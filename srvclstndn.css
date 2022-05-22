@@ -8,6 +8,16 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: justify;
 }
+span.head {
+  text-align: center;
+  font-size: 20px;
+}
+span.headz {
+  text-align: center;
+  font-size: 20px;
+  background-color: black;
+  color: lightslategray;
+}
 p {
   width: 95%;
   max-width: 500px;
