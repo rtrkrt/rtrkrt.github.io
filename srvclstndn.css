@@ -9,12 +9,10 @@ body {
   text-align: justify;
 }
 span.head {
-  text-align: center;
-  font-size: 28px;
+  font-size: 34px;
 }
 span.headz {
-  text-align: center;
-  font-size: 28px;
+  font-size: 34px;
   background-color: black;
   color: lightslategray;
 }
