@@ -8,11 +8,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: justify;
 }
-p {
+fieldset {
   width: 95%;
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
+}
+legend {
+  background-color: black;
+  color: lightslategray;
 }
 p.date {
   background-color: black;
