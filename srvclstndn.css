@@ -10,9 +10,9 @@ body {
 }
 fieldset {
   border: 2px solid black;
+  max-width: 500px;
 }
 legend {
-  width: 90%;
   background-color: black;
   color: lightslategray;
 }
