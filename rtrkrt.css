@@ -23,11 +23,11 @@ p {
   margin-right: auto;
 }
 p.date {
-  background-color: black;
-  color: lightslategray;
+  font-style: italic;
+  text-align: right;
 }
 a:link, a:visited, a:hover, a:active {
-  color: black;
+  color: red;
   text-decoration: underline;
 }
 img {
@@ -36,8 +36,8 @@ img {
 hr {
   height: 2px;
   border: none;
-  color: black;
-  background-color: black;
+  color: yellow;
+  background-color: yellow;
   width: 95%;
   max-width: 500px;
 }
