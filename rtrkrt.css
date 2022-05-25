@@ -25,6 +25,8 @@ p {
 p.date {
   font-style: italic;
   text-align: right;
+  border-top: 2px solid yellow;
+  padding-top: 5px;
 }
 a:link, a:visited, a:hover, a:active {
   color: red;
