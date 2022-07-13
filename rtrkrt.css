@@ -41,6 +41,10 @@ hr {
   width: 95%;
   max-width: 500px;
 }
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
 td {
   color: darkslategray;
   text-align: center;
