@@ -41,10 +41,6 @@ hr {
   width: 95%;
   max-width: 500px;
 }
-.centvert {
-  display: table-cell;
-  vertical-align: middle;
-}
 table {
   margin-left: auto;
   margin-right: auto;
