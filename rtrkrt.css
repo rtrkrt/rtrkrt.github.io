@@ -42,5 +42,6 @@ hr {
   max-width: 500px;
 }
 td {
+  color: darkslategray;
   text-align: center;
 }
