@@ -28,7 +28,7 @@ p.date {
 }
 a:link, a:visited, a:hover, a:active {
   color: red;
-  text-decoration: underline;
+  text-decoration: none;
 }
 img {
   max-width: 100%;
