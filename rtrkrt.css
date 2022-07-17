@@ -10,11 +10,11 @@ body {
 }
 span.head {
   font-size: 34px;
-  color: yellow;
+  color: red;
 }
 span.headz {
   font-size: 12px;
-  color: red;
+  color: yellow;
 }
 p {
   width: 95%;
@@ -31,7 +31,7 @@ span.date {
   font-style: italic;
 }
 a:link, a:visited, a:hover, a:active {
-  color: red;
+  color: yellow;
   text-decoration: none;
 }
 img {
