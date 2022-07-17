@@ -22,7 +22,7 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
-p.date {
+.date {
   font-style: italic;
   text-align: right;
 }
