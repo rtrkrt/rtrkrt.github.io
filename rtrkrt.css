@@ -40,8 +40,8 @@ img {
 hr {
   height: 2px;
   border: none;
-  color: yellow;
-  background-color: yellow;
+  color: red;
+  background-color: red;
   width: 95%;
   max-width: 500px;
 }
