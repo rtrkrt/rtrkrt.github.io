@@ -23,6 +23,7 @@ p {
   margin-right: auto;
 }
 p.date {
+  color: yellow;
   font-style: italic;
   text-align: right;
 }
