@@ -71,15 +71,3 @@ td {
   padding: 15px;
   border-radius: 4px;
 }
-.navbar {
-  overflow: hidden;
-  background-color: black;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
-}
-a.navbar {
-  color: red;
-  text-decoration: none;
-}
