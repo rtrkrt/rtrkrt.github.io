@@ -79,3 +79,7 @@ td {
   width: 100%;
   text-align: center;
 }
+a.navbar {
+  color: red;
+  text-decoration: none;
+}
