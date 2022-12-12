@@ -16,7 +16,7 @@ span.headz {
   font-size: 12px;
   color: red;
 }
-p {
+p, div {
   width: 95%;
   max-width: 500px;
   margin-left: auto;
