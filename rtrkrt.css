@@ -50,12 +50,3 @@ hr {
   width: 95%;
   max-width: 500px;
 }
-table {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-td {
-  color: darkslategray;
-  text-align: center;
