@@ -27,6 +27,9 @@ p.date {
   font-style: italic;
   text-align: right;
 }
+p.cat {
+  color: red;
+}
 span.date {
   font-size: 12px;
   font-style: italic;
