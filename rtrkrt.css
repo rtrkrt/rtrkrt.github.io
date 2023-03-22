@@ -16,6 +16,10 @@ span.headz {
   font-size: 12px;
   color: red;
 }
+img {
+  width: 100%;
+  max-width: 500px;
+}
 p {
   width: 95%;
   max-width: 500px;
