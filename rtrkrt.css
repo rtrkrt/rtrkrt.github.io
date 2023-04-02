@@ -34,7 +34,6 @@ p.date {
 p.cat {
   color: red;
   font-weight: bold;
-  text-align: right;
 }
 span.date {
   font-size: 12px;
