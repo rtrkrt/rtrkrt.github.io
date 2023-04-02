@@ -13,7 +13,7 @@ span.head {
   color: yellow;
 }
 span.headz {
-  font-size: 12px;
+  font-size: 14px;
   color: red;
 }
 img {
@@ -27,6 +27,7 @@ p {
   margin-right: auto;
 }
 p.date {
+  font-size: 14px;
   color: yellow;
   font-style: italic;
   text-align: right;
@@ -36,7 +37,7 @@ p.cat {
   font-weight: bold;
 }
 span.date {
-  font-size: 12px;
+  font-size: 14px;
   font-style: italic;
 }
 a:link, a:visited, a:hover, a:active {
