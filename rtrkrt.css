@@ -17,7 +17,7 @@ span.headz {
   color: red;
 }
 img {
-  max-width: 500px;
+  max-width: 100%;
 }
 p {
   width: 95%;
