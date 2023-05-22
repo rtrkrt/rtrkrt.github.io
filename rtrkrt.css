@@ -15,6 +15,11 @@ span.head {
 span.headz {
   font-size: 14px;
 }
+span.closed {
+  font-size: 14px;
+  color: red;
+  font-style: italic;
+}
 img {
   max-width: 100%;
 }
