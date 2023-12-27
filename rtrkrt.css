@@ -22,7 +22,10 @@ span.closed {
 }
 img {
   max-width: 100%;
-  border:0;
+  border: 0;
+}
+img a {
+  outline: none;
 }
 p {
   width: 95%;
