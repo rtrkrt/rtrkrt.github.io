@@ -12,7 +12,22 @@
 <p><span class="head">&nbsp</span><br />
 <span class="head">ROTER</span><br />
 <span class="head">KURT</span><br />
-<span class="headz">Der Kurt ist rot ... lang lebe der Kurt</span></p>
+<span class="headz"><script language="JavaScript">
+//store the quotations in arrays
+quotes = new Array(6);
+quotes[0] = "So many cats, so few recipes.";
+quotes[1] = "Use the best: Linux for servers, Mac for graphics, Windows for Solitaire.";
+quotes[2] = "That's not a haircut. That's a cry for help.";
+quotes[3] = "The last thing I want to do is hurt you. But it's still on the list.";
+quotes[4] = "Some days it's just not worth gnawing through the leather straps.";
+quotes[5] = "Doing for blogging what Ghengis Khan did for social work.";
+//calculate a random index
+index = Math.floor(Math.random() * quotes.length);
+//display the quotation
+document.write("\n");
+document.write(quotes[index]);
+//done
+</script></span></p>
 
 <br />
 
