@@ -4,7 +4,6 @@ html {
 body {
   background-color: white;
   color: black;
-  font-size: 16px;
   font-family: "Times New Roman", Times, serif;
   text-align: justify;
 }
@@ -14,8 +13,12 @@ p.artikel {
   padding-left: 8px;
 }
 
-div.titel {
+span.titel {
   font-size: 48px;
+}
+
+span.text {
+  font-size: 16px;
 }
 
 img {
