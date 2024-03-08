@@ -14,6 +14,7 @@ p.datum {
 
 p.artikel {
   font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
   border-left: 2px solid black;
   padding-left: 8px;
 }
@@ -22,8 +23,8 @@ span.titel {
   font-size: 40px;
 }
 
-span.text {
-  font-size: 16px;
+span.absatz {
+  text-indent: 1em;
 }
 
 img {
