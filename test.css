@@ -8,7 +8,7 @@ body {
   font-family: "Times New Roman", Times, serif;
   text-align: justify;
 }
-table {
+p.artikel {
   border-left: 2px solid black;
 }
 span.headz {
