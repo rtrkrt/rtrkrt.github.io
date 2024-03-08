@@ -14,14 +14,10 @@ p.artikel {
   padding-left: 80px;
 }
 
-span.headz {
-  font-size: 14px;
+span.titel {
+  font-size: 48px;
 }
-span.closed {
-  font-size: 14px;
-  color: red;
-  font-style: italic;
-}
+
 img {
   max-width: 100%;
   border: 0;
