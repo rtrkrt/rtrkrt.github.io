@@ -8,9 +8,12 @@ body {
   font-family: "Times New Roman", Times, serif;
   text-align: justify;
 }
+
 p.artikel {
   border-left: 2px solid black;
+  padding-left: 80px;
 }
+
 span.headz {
   font-size: 14px;
 }
