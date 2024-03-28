@@ -26,7 +26,7 @@ div.einzug {
 }
 
 div.signatur {
-  text-align: justify;
+  text-align: right;
   border-left: 2px solid black;
   padding-left: 8px;
 }
