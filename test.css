@@ -4,6 +4,8 @@ html {
 body {
   background-color: white;
   color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
   text-align: justify;
 }
 
@@ -13,8 +15,12 @@ p.datum {
 }
 
 div.artikel {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 16px;
+  border-left: 2px solid black;
+  padding-left: 8px;
+}
+
+div.einzug {
+  text-indent: 1em;
   border-left: 2px solid black;
   padding-left: 8px;
 }
