@@ -25,6 +25,12 @@ div.einzug {
   padding-left: 8px;
 }
 
+div.signatur {
+  text-align: justify;
+  border-left: 2px solid black;
+  padding-left: 8px;
+}
+
 span.titel {
   font-size: 40px;
 }
