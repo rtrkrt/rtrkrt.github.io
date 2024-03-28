@@ -14,7 +14,8 @@ p.datum {
   font-size: 17px;
 }
 
-div.artikel {
+div.absatz {
+  text-indent: 1.5em;
   border-left: 2px solid black;
   padding-left: 8px;
 }
