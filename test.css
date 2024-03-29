@@ -19,7 +19,7 @@ a:link, a:visited, a:hover, a:active {
 
 .foto {
   display: block;
-  width: 70%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
