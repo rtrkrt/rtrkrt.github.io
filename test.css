@@ -17,6 +17,12 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: none;
 }
 
+p.warnung {
+  border-top: solid 10px;
+  border-bottom: solid 10px;
+  border-image: repeating-linear-gradient( -75deg, yellow, yellow 10px, black 10px, black 20px) 20;
+}
+
 .foto {
   display: block;
   width: 80%;
