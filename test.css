@@ -17,10 +17,11 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: none;
 }
 
-div.foto {
-width: 69%;
-margin-left: auto;
-margin-right: auto;
+.foto {
+  display: block;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
