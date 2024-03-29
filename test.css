@@ -20,11 +20,6 @@ a:link, a:visited, a:hover, a:active {
 p.trigger {
   background-color: #f9e154;
   border-top: solid 10px;
-  border-image: repeating-linear-gradient( -75deg, yellow, yellow 10px, black 10px, black 20px) 20;
-}
-
-p.warnung {
-  background-color: #f9e154;
   border-bottom: solid 10px;
   border-image: repeating-linear-gradient( -75deg, yellow, yellow 10px, black 10px, black 20px) 20;
 }
