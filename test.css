@@ -26,18 +26,17 @@ a:link, a:visited, a:hover, a:active {
     content: '';
     flex-grow: 1;
     height: 1px;
-    background: #D66853;
+    background: black;
     min-width: 20px;
     margin: auto;
   }
 
   &:after {
-    margin-left: 20px;
+    margin-left: 10px;
   }
 }
 
 .foto {
-  background-color: #f9e154;
   display: block;
   width: 80%;
   margin-left: auto;
