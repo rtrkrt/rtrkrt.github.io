@@ -17,11 +17,23 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: none;
 }
 
-p.trigger {
-  background-color: #f9e154;
-  border-top: solid 10px;
-  border-bottom: solid 10px;
-  border-image: repeating-linear-gradient( -75deg, yellow, yellow 10px, black 10px, black 20px) 20;
+.liner {
+  display: flex;
+  align-items: flex-start;
+  text-align: left;
+
+  &:after {
+    content: '';
+    flex-grow: 1;
+    height: 1px;
+    background: #D66853;
+    min-width: 20px;
+    margin: auto;
+  }
+
+  &:after {
+    margin-left: 20px;
+  }
 }
 
 .foto {
