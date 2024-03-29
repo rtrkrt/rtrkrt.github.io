@@ -2,11 +2,14 @@ html {
     -webkit-text-size-adjust: 100%;
 }
 body {
+  width: 95%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
   background-color: white;
   color: black;
   font-family: "Times New Roman", Times, serif;
   font-size: 16px;
-  text-align: justify;
 }
 
 p.titel {
@@ -22,57 +25,11 @@ div.absatz {
   text-indent: 1.5em;
   border-left: 2px solid black;
   padding-left: 8px;
+  text-align: justify;
 }
 
 div.signatur {
   text-align: right;
   border-left: 2px solid black;
   padding-left: 8px;
-}
-
-span.absatz {
-  text-indent: 1em;
-}
-
-img {
-  max-width: 100%;
-  border: 0;
-}
-img a {
-  outline: none;
-}
-p {
-  width: 95%;
-  max-width: 500px;
-  margin-left: auto;
-  margin-right: auto;
-}
-p.date {
-  font-size: 14px;
-  color: yellow;
-  font-style: italic;
-}
-p.cat {
-  color: red;
-  font-weight: bold;
-}
-span.date {
-  font-size: 14px;
-  font-style: italic;
-}
-a:link, a:visited, a:hover, a:active {
-  color: yellow;
-  text-decoration: none;
-}
-a.pfeil {
-  color: red;
-  text-decoration: none;
-}
-hr {
-  height: 2px;
-  border: none;
-  color: red;
-  background-color: red;
-  width: 95%;
-  max-width: 500px;
 }
