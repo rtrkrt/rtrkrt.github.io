@@ -30,6 +30,7 @@ p.warnung {
 }
 
 .foto {
+  background-color: #f9e154;
   display: block;
   width: 80%;
   margin-left: auto;
