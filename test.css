@@ -34,7 +34,6 @@ p.titel {
 
 p.datum {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
 }
 
 div.absatz {
@@ -48,4 +47,9 @@ div.signatur {
   text-align: right;
   border-left: 2px solid black;
   padding-left: 8px;
+}
+
+p.seite {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
