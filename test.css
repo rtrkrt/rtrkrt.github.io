@@ -20,12 +20,14 @@ a:link, a:visited, a:hover, a:active {
 .trenner {
   display: flex;
   align-items: flex-start;
+  font-family: Courier, monospace;
+  font-size: 24px;
   text-align: left;
 
   &:after {
     content: '';
     flex-grow: 1;
-    height: 1px;
+    height: 2px;
     background: black;
     min-width: 20px;
     margin: auto;
