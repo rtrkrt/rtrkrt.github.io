@@ -20,7 +20,7 @@ a:link, a:visited, a:hover, a:active {
 .trenner {
   display: flex;
   align-items: flex-start;
-  font-family: Courier, monospace;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   font-size: 24px;
   text-align: left;
 
