@@ -23,22 +23,3 @@ p.datum {
   font-style: italic;
   font-size: 15px;
 }
-
-.trenner {
-  display: flex;
-  align-items: flex-start;
-  text-align: left;
-
-  &:after {
-    content: '';
-    flex-grow: 1;
-    height: 2px;
-    background: black;
-    min-width: 20px;
-    margin: auto;
-  }
-
-  &:after {
-    margin-left: 10px;
-  }
-}
