@@ -17,6 +17,11 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: none;
 }
 
+p.datum {
+  font-style: italic;
+  font-size: 14px;
+}
+
 .trenner {
   display: flex;
   align-items: flex-start;
