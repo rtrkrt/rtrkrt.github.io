@@ -20,7 +20,9 @@ a:link, a:visited, a:hover, a:active {
 }
 
 img {
-  border: 0px solid #0fff50;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #0fff50;
 }
 
 p.datum {
