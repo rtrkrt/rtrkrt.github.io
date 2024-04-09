@@ -19,6 +19,10 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: none;
 }
 
+img {
+  border: 1px solid #0fff50;
+}
+
 p.datum {
   font-style: italic;
   font-size: 15px;
