@@ -20,7 +20,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 img {
-  max-width: 100%;
+  max-width: 498px;
   height: auto;
   border: 1px solid #0fff50;
 }
