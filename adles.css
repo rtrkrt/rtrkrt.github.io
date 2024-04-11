@@ -24,8 +24,16 @@ img {
   height: auto;
 }
 
+p.kopf {
+  font-size: 32px;
+}
+
 p.datum {
   color: white;
   font-style: italic;
   font-size: 15px;
+}
+
+p.titel {
+  font-size: 18px;
 }
