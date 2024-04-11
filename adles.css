@@ -25,6 +25,7 @@ img {
 }
 
 p.datum {
+  color: white;
   font-style: italic;
   font-size: 15px;
 }
