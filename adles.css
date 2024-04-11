@@ -38,3 +38,7 @@ p.titel {
   color: white;
   font-size: 20px;
 }
+
+div.absatz {
+  text-indent: 1.5em;
+}
