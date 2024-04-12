@@ -39,3 +39,7 @@ p.titel {
   color: white;
   font-size: 18px;
 }
+
+p.fuss {
+  text-align: center;
+}
