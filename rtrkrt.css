@@ -16,7 +16,7 @@ body {
 
 a:link, a:visited, a:hover, a:active {
   color: red;
-  text-decoration: none;
+  text-decoration: underline overline dashed;
 }
 
 img {
