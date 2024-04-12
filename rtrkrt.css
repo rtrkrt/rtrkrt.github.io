@@ -43,3 +43,7 @@ p.titel {
 p.fuss {
   text-align: center;
 }
+
+hr {
+  border-top: 1px solid white;
+}
