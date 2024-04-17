@@ -44,8 +44,15 @@ p.fuss {
   text-align: center;
 }
 
-hr {
-  border-top: 1px solid white;
+hr.sperrband {
+  border: 8px solid pink;
+  border-image: repeating-linear-gradient(
+    -55deg,
+    #000,
+    #000 20px,
+    #ffb101 20px,
+    #ffb101 40px
+  ) 10;
   border-bottom: 0px;
   border-left: 0px;
   border-right: 0px;
