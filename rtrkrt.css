@@ -45,7 +45,7 @@ p.fuss {
 }
 
 hr.sperrband {
-  border: 8px solid pink;
+  border: 6px solid pink;
   border-image: repeating-linear-gradient(
     -55deg,
     #000,
