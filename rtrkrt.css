@@ -15,9 +15,8 @@ body {
 }
 
 a:link, a:visited, a:hover, a:active {
-  color: white;
+  color: #2288bb;
   text-decoration: underline;
-  text-decoration-style: double;
 }
 
 img {
@@ -26,34 +25,16 @@ img {
 }
 
 p.kopf {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 32px;
+  text-align: center;
 }
 
 p.datum {
-  color: white;
-  font-style: italic;
+  color: #2288bb;
   font-size: 15px;
-}
-
-p.titel {
-  color: white;
-  font-size: 18px;
 }
 
 p.fuss {
   text-align: center;
-}
-
-hr.sperrband {
-  border: 6px solid pink;
-  border-image: repeating-linear-gradient(
-    -55deg,
-    #000,
-    #000 20px,
-    #ffb101 20px,
-    #ffb101 40px
-  ) 10;
-  border-bottom: 0px;
-  border-left: 0px;
-  border-right: 0px;
 }
