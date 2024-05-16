@@ -18,8 +18,13 @@ a:link, a:visited, a:hover, a:active {
   color: #2288bb;
 }
 
-img {
+img.horizontal {
   max-width: 100%;
+  height: auto;
+}
+
+img.vertikal {
+  max-width: 60%;
   height: auto;
 }
 
