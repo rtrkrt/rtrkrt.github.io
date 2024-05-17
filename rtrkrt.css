@@ -24,6 +24,7 @@ img.horizontal {
 }
 
 img.vertikal {
+  display: block;
   max-width: 70%;
   height: auto;
   margin-left: auto;
