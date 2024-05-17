@@ -19,14 +19,14 @@ a:link, a:visited, a:hover, a:active {
 }
 
 img.horizontal {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 
 img.vertikal {
   display: block;
-  max-width: 70%;
-  height: auto;
+  max-height: 80%;
+  width: auto;
   margin-left: auto;
   margin-right: auto;
 }
