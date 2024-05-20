@@ -30,6 +30,7 @@ p.kopf {
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 32px;
   text-align: center;
+  position: fixed;
 }
 
 p.datum {
