@@ -44,6 +44,7 @@ p.fuss {
 table {
 width: 100%;
 font-size: 12px;
+border-spacing: 8px;
 }
 
 td.zweidrittel {
