@@ -14,7 +14,8 @@ body {
 }
 
 a:link, a:visited, a:hover, a:active {
-  color: #2288bb;
+  color: #0fff50;
+  text-decoration: underline;
 }
 
 img {
