@@ -18,11 +18,6 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: underline;
 }
 
-a.fuss:link, a.fuss:visited, a.fuss:hover, a.fuss:active {
-  color: #2288bb;
-  text-decoration: underline;
-}
-
 img {
   display: block;
   max-width: 100%;
@@ -51,7 +46,6 @@ p.titel {
 }
 
 p.fuss {
-  color: #2288bb;
   font-size: 14px;
   text-align: center;
 }
