@@ -52,4 +52,7 @@ p.fuss {
 
 hr {
   border-top: 1px solid #2288bb;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-right: 0px;
 }
