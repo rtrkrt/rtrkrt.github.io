@@ -26,6 +26,10 @@ img {
   margin-right: auto;
 }
 
+p {
+width: 100%;
+}
+
 p.kopf {
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 32px;
@@ -39,6 +43,11 @@ p.datum {
 
 p.titel {
   font-size: 24px;
+}
+
+p.fuss {
+  font-size: 14px;
+  text-align: center;
 }
 
 table {
