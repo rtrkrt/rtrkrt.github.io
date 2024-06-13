@@ -36,13 +36,19 @@ p.kopf {
   text-align: center;
 }
 
-p.datum {
+p.trenner {
   color: #2288bb;
-  font-size: 14px;
+  font-size: 24px;
+  text-align: center;
 }
 
 p.titel {
   font-size: 24px;
+}
+
+p.datum {
+  color: #2288bb;
+  font-size: 14px;
 }
 
 p.fuss {
