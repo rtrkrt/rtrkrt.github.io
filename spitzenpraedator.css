@@ -30,26 +30,13 @@ p {
 width: 100%;
 }
 
-p.kopf {
-  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-  font-size: 32px;
-  text-align: center;
-}
-
-p.trenner {
-  color: #585858;
-  font-size: 20px;
-  text-align: center;
-}
-
 p.titel {
-  font-size: 24px;
+  color: #767676;
   text-align: center;
 }
 
 p.datum {
-  color: #ba1818;
-  font-size: 14px;
+  color: #767676;
 }
 
 p.fuss {
