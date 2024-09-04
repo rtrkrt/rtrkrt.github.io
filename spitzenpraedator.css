@@ -14,7 +14,7 @@ body {
   line-height: 1.5;
 }
 
-#justify:after {
+p:after {
     content:"";
     display:inline-block;
     width:100%;
