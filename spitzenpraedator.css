@@ -36,13 +36,13 @@ p.titel {
   text-align: center;
 }
 
-p.datum {
-  color: #767676;
-}
-
 p.fuss {
   font-size: 14px;
   text-align: center;
+}
+
+span.datum {
+  color: #767676;
 }
 
 hr {
