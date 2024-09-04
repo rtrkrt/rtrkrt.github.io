@@ -14,6 +14,12 @@ body {
   line-height: 1.5;
 }
 
+#justify:after {
+    content:"";
+    display:inline-block;
+    width:100%;
+}
+
 a:link, a:visited, a:hover, a:active {
   color: #ba1818;
   text-decoration: underline;
