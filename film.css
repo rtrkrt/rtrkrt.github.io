@@ -1,10 +1,29 @@
+html {
+    -webkit-text-size-adjust: 100%;
+}
+body {
+  width: 95%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: #0fff50;
+  text-decoration: underline;
+}
+
 .box {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate3d(-50%, -50%, 0);
   width: 100%;
-  max-width: 600px;
   padding: 5px;
   border: 2px solid #b78846;
 }
@@ -13,7 +32,6 @@
   position: absolute;
   width: 14px;
   height: 14px;
-  font-size: 14px;
   color: #b78846;
   border: 2px solid #b78846;
   line-height: 12px;
@@ -36,7 +54,6 @@
   position: absolute;
   width: 14px;
   height: 14px;
-  font-size: 14px;
   color: #b78846;
   border: 2px solid #b78846;
   line-height: 12px;
