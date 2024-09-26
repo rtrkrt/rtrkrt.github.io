@@ -25,15 +25,15 @@ a:link, a:visited, a:hover, a:active {
   transform: translate3d(-50%, -50%, 0);
   max-width: 500px;
   padding: 5px;
-  border: 2px solid #b78846;
+  border: 2px solid #d6d6d6;
 }
 .box:before, .box:after {
   content: "•";
   position: absolute;
   width: 14px;
   height: 14px;
-  color: #b78846;
-  border: 2px solid #b78846;
+  color: #000000;
+  border: 2px solid #d6d6d6;
   line-height: 12px;
   top: 5px;
   text-align: center;
@@ -46,16 +46,16 @@ a:link, a:visited, a:hover, a:active {
 }
 .box .box-inner {
   position: relative;
-  border: 2px solid #b78846;
+  border: 2px solid #d6d6d6;
   padding: 40px;
 }
-.box .box-inner:before, .box box-inner:after {
+.box .box-inner:before, .box .box-inner:after {
   content: "•";
   position: absolute;
   width: 14px;
   height: 14px;
-  color: #b78846;
-  border: 2px solid #b78846;
+  color: #000000;
+  border: 2px solid #d6d6d6;
   line-height: 12px;
   bottom: -2px;
   text-align: center;
