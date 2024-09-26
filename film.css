@@ -26,6 +26,7 @@ a:link, a:visited, a:hover, a:active {
   max-width: 500px;
   padding: 5px;
   border: 2px solid #d6d6d6;
+  text-align: center;
 }
 .box:before, .box:after {
   content: "•";
