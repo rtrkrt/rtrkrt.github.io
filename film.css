@@ -13,6 +13,10 @@ body {
   line-height: 2.0;
 }
 
+p.titel {
+  font-size: 12px;
+}
+
 a:link, a:visited, a:hover, a:active {
   color: #0fff50;
   text-decoration: underline;
