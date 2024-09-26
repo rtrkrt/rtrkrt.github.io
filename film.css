@@ -18,7 +18,7 @@ a:link, a:visited, a:hover, a:active {
   text-decoration: underline;
 }
 
-.box {
+box {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -27,7 +27,7 @@ a:link, a:visited, a:hover, a:active {
   padding: 5px;
   border: 2px solid #b78846;
 }
-.box:before, .box:after {
+box:before, box:after {
   content: "•";
   position: absolute;
   width: 14px;
@@ -38,18 +38,18 @@ a:link, a:visited, a:hover, a:active {
   top: 5px;
   text-align: center;
 }
-.box:before {
+box:before {
   left: 5px;
 }
-.box:after {
+box:after {
   right: 5px;
 }
-.box .box-inner {
+box box-inner {
   position: relative;
   border: 2px solid #b78846;
   padding: 40px;
 }
-.box .box-inner:before, .box .box-inner:after {
+box box-inner:before, box box-inner:after {
   content: "•";
   position: absolute;
   width: 14px;
@@ -60,9 +60,9 @@ a:link, a:visited, a:hover, a:active {
   bottom: -2px;
   text-align: center;
 }
-.box .box-inner:before {
+box box-inner:before {
   left: -2px;
 }
-.box .box-inner:after {
+box box-inner:after {
   right: -2px;
 }
