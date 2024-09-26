@@ -28,6 +28,7 @@ a:link, a:visited, a:hover, a:active {
   border: 2px solid #b78846;
 }
 .box:before, .box:after {
+  content: "•";
   position: absolute;
   width: 14px;
   height: 14px;
