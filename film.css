@@ -22,7 +22,7 @@ a:link, a:visited, a:hover, a:active {
   color: #0fff50;
   text-decoration: underline;
 }
-
+/*
 .box {
   position: absolute;
   top: 50%;
@@ -75,3 +75,4 @@ a:link, a:visited, a:hover, a:active {
 .box .box-inner:after {
   right: -2px;
 }
+*/
