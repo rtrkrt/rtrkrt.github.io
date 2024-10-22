@@ -37,7 +37,7 @@ p.kopf {
 }
 
 p.trenner {
-  color: #c679ff;
+  color: #ba5dff;
   font-size: 20px;
   text-align: center;
 }
@@ -47,7 +47,7 @@ p.titel {
 }
 
 p.datum {
-  color: #c679ff;
+  color: #ba5dff;
   font-size: 14px;
 }
 
@@ -57,7 +57,7 @@ p.fuss {
 }
 
 hr {
-  border-top: 1px solid #c679ff;
+  border-top: 1px solid #ba5dff;
   width: 60%;
   border-bottom: 0px;
   border-left: 0px;
