@@ -30,6 +30,10 @@ p {
 width: 100%;
 }
 
+p.title {
+position: fixed;
+}
+
 p.kopf {
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 32px;
