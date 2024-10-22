@@ -7,7 +7,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-color: #4b0082;
-  color: #0fff50;
+  color: #adff2f;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -37,7 +37,7 @@ p.kopf {
 }
 
 p.trenner {
-  color: #2288bb;
+  color: #c679ff;
   font-size: 20px;
   text-align: center;
 }
@@ -47,7 +47,7 @@ p.titel {
 }
 
 p.datum {
-  color: #2288bb;
+  color: #c679ff;
   font-size: 14px;
 }
 
@@ -57,7 +57,7 @@ p.fuss {
 }
 
 hr {
-  border-top: 1px solid #2288bb;
+  border-top: 1px solid #c679ff;
   width: 60%;
   border-bottom: 0px;
   border-left: 0px;
