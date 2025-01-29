@@ -51,7 +51,7 @@ span.date {
   font-style: italic;
 }
 a:link, a:visited, a:hover, a:active {
-  color: yellow;
+  color: red;
   text-decoration: underline;
 }
 a.pfeil {
