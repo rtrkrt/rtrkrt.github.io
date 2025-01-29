@@ -8,11 +8,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: justify;
 }
-span.head {
+span.kopf1 {
   font-size: 34px;
   color: red;
 }
-span.headz {
+span.kopf2 {
+  font-size: 34px;
+  color: yellow;
+}
+span.kopf3 {
   font-size: 14px;
 }
 span.closed {
