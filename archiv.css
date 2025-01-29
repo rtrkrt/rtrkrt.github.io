@@ -52,7 +52,7 @@ span.date {
 }
 a:link, a:visited, a:hover, a:active {
   color: yellow;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a.pfeil {
   color: red;
