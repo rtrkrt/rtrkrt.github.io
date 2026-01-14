@@ -6,15 +6,15 @@ body {
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: white;
+  color: black;
   font-family: "Times New Roman", Times, serif;
   font-size: 16px;
   line-height: 1.5;
 }
 
 a:link, a:visited, a:hover, a:active {
-  color: #0fff50;
+  color: red;
   text-decoration: underline;
 }
 
